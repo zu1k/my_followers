@@ -1,7 +1,7 @@
 from PIL import Image
 import requests
 from retry import retry
-import os, json, math, shutil
+import os, json, math, shutil, base64
 
 
 first_page_query = """
@@ -12,6 +12,7 @@ first_page_query = """
                 login
                 name
                 avatarUrl
+                url
             }
             pageInfo {
                 startCursor
@@ -30,6 +31,7 @@ page_query = """
         login
         name
         avatarUrl
+        url
       }
       pageInfo {
         startCursor
@@ -41,7 +43,7 @@ page_query = """
 """
 
 
-@retry(tries=3, delay=2)
+@retry(tries=10, delay=2)
 def do_query(token: str, query: str):
     request = requests.post('https://api.github.com/graphql',
                             json={'query': query}, headers={"Authorization": "Bearer " + token})
@@ -75,7 +77,7 @@ def get_followers(token: str, user: str) -> list:
     return result
 
 
-@retry(tries=3, delay=2)
+@retry(tries=10, delay=2)
 def download(url: str, filename: str):
     img = requests.get(url)
     with open(filename,'wb') as f:
@@ -118,10 +120,40 @@ def composite_image(image_size: int):
     image.save("all.png")
 
 
+def gen_svg(img_len: int = 24, space: int = 2, num_per_line: int = 20):
+    with open('followers.json') as f:
+        followers = json.load(f)
+        count = len(list(followers))
+        lines = math.ceil(count/num_per_line)
+        print(lines)
+        height = lines*(img_len+space) + space
+        width = (img_len+space)*num_per_line + space
+        
+        with open("all.svg",'w') as svg:
+            svg.write("""<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="{width}" height="{height}">
+                            <style>.p-svg { cursor: pointer; }</style>""".replace("{width}", str(width)).replace("{height}", str(height)))
+            for (id,follower) in enumerate(followers):
+                x = (id%num_per_line)*(space+img_len) + space
+                y = (id//num_per_line)*(space+img_len) + space
+                with open('imgs/{}.png'.format(id), "rb") as img:
+                    data = base64.b64encode(img.read()).decode('ascii')
+                    i = """<a xlink:href="{url}" class="p-svg" target="_blank" id="{loginname}"><image x="{x}" y="{y}" width="{img_len}" height="{img_len}" xlink:href="data:image/png;base64,{data}"/></a>""".format(
+                        url = follower["url"],
+                        loginname = follower["login"],
+                        img_len = str(img_len),
+                        x=str(x),
+                        y=str(y),
+                        data = data
+                    )
+                    svg.write(i)
+            svg.write("</svg>")
+        
+
 if __name__ == '__main__':
     token = os.getenv("TOKEN")
     user = os.getenv("USER")
     size = os.getenv("SIZE")
     get_followers(token, user)
     download_imgs()
+    gen_svg(128, 0, 34)
     composite_image(int(size))
