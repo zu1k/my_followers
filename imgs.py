@@ -95,21 +95,19 @@ def download_imgs():
             download(follower["avatarUrl"], "imgs/{}.png".format(id))
 
 
-def composite_image(image_size: int):
+def composite_image(each_img_len:int = 80):
     images_list = os.listdir("imgs")
     images_list.sort(key=lambda x: int(x[:-4]))
     length = len(images_list)
-    each_size = math.ceil(image_size / math.floor(math.sqrt(length)))
-    lines = math.ceil(math.sqrt(length))
-    rows = math.ceil(math.sqrt(length))
-    image = Image.new('RGB', (each_size * lines, each_size * rows))
+    rows = lines = math.ceil(math.sqrt(length))
+    image = Image.new('RGB', (each_img_len * lines, each_img_len * rows))
     row = 0
     line = 0
     for file in images_list:
         try:
             with Image.open("imgs/"+file) as img:
-                img = img.resize((each_size, each_size))
-                image.paste(img, (line * each_size, row * each_size))
+                img = img.resize((each_img_len, each_img_len))
+                image.paste(img, (line * each_img_len, row * each_img_len))
                 line += 1
                 if line == lines:
                     line = 0
@@ -152,8 +150,7 @@ def gen_svg(img_len: int = 24, space: int = 2, num_per_line: int = 20):
 if __name__ == '__main__':
     token = os.getenv("TOKEN")
     user = os.getenv("USER")
-    size = os.getenv("SIZE")
     get_followers(token, user)
     download_imgs()
     gen_svg(128, 0, 34)
-    composite_image(int(size))
+    composite_image()
