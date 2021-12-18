@@ -2689,7 +2689,7 @@
     },
     {
         "login": "baipiaoking",
-        "name": "\u4e00\u53ea\u5c0f\u767d",
+        "name": "\u767d\u5ad6\u738b",
         "avatarUrl": "https://avatars.githubusercontent.com/u/50698369?u=0bea3d789733d17921d712d0306b21b5ea157d14&v=4",
         "url": "https://github.com/baipiaoking"
     },
@@ -4351,8 +4351,8 @@
     },
     {
         "login": "Ckomatsuo",
-        "name": "komatsu",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/29550464?v=4",
+        "name": "Ckomatsu",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29550464?u=af3a7f6198cd44132adabd7c3a26ad1bd6864cec&v=4",
         "url": "https://github.com/Ckomatsuo"
     },
     {
@@ -4620,10 +4620,10 @@
         "url": "https://github.com/wukuisheng"
     },
     {
-        "login": "CharlieJ0hn",
-        "name": "CJ",
+        "login": "zcy3",
+        "name": "Charles John",
         "avatarUrl": "https://avatars.githubusercontent.com/u/9925064?u=5065f2b02220b4743d25ef3aae84f825905669ee&v=4",
-        "url": "https://github.com/CharlieJ0hn"
+        "url": "https://github.com/zcy3"
     },
     {
         "login": "Skull-Li",
@@ -6148,5 +6148,23 @@
         "name": "ifenge",
         "avatarUrl": "https://avatars.githubusercontent.com/u/13911593?u=ca38330fe3fb911ca9a3fad3c1731cb09bde11c6&v=4",
         "url": "https://github.com/i11m20n"
+    },
+    {
+        "login": "ntlywxb",
+        "name": "Riiiiiiiiiiiiiiiiiiiick",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40913660?v=4",
+        "url": "https://github.com/ntlywxb"
+    },
+    {
+        "login": "1nhann",
+        "name": "1nhann",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76624149?u=ed45a8c88b8ef91da40457cde414ffe4949e23d4&v=4",
+        "url": "https://github.com/1nhann"
+    },
+    {
+        "login": "hu4wufu",
+        "name": "huahua",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/22029831?u=c9dd7221c3a6ce8901bbd4f708f1444d89a3a70d&v=4",
+        "url": "https://github.com/hu4wufu"
     }
 ]
