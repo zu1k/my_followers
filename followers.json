@@ -5696,7 +5696,7 @@
     {
         "login": "OkamiMks",
         "name": "Okami \u30e9\u30b3\u30b9\u30c6",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=32ff4e11b88eb0dfaca4fc59a4509525ff4dc654&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=9edfd731f808609d6bb12188e4836ab734bec488&v=4",
         "url": "https://github.com/OkamiMks"
     },
     {
@@ -6178,5 +6178,11 @@
         "name": "tols",
         "avatarUrl": "https://avatars.githubusercontent.com/u/73111291?u=b1f8eba08760e93f03ddae54141a15c2bc244712&v=4",
         "url": "https://github.com/MMJ12345"
+    },
+    {
+        "login": "evil2me",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96389304?u=f95b6bd3c77fbf8cb11735a49859dec68dde7a4b&v=4",
+        "url": "https://github.com/evil2me"
     }
 ]
