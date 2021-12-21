@@ -4620,10 +4620,10 @@
         "url": "https://github.com/wukuisheng"
     },
     {
-        "login": "zcy3",
+        "login": "zcyc",
         "name": "Charles John",
         "avatarUrl": "https://avatars.githubusercontent.com/u/9925064?u=5065f2b02220b4743d25ef3aae84f825905669ee&v=4",
-        "url": "https://github.com/zcy3"
+        "url": "https://github.com/zcyc"
     },
     {
         "login": "Skull-Li",
@@ -6001,7 +6001,7 @@
     },
     {
         "login": "TSiin",
-        "name": "siin",
+        "name": "Siin",
         "avatarUrl": "https://avatars.githubusercontent.com/u/4506539?u=eab27929982d57892a85c9e3a45962e32e0e6e80&v=4",
         "url": "https://github.com/TSiin"
     },
@@ -6184,5 +6184,11 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/96389304?u=f95b6bd3c77fbf8cb11735a49859dec68dde7a4b&v=4",
         "url": "https://github.com/evil2me"
+    },
+    {
+        "login": "3315604573",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67220375?v=4",
+        "url": "https://github.com/3315604573"
     }
 ]
