@@ -169,8 +169,8 @@
     },
     {
         "login": "fmpiza",
-        "name": "fridolinmpiza",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/52234785?u=ae3e265262b164cfbeac28c2da52bc1e09fb5366&v=4",
+        "name": "fridolinmpiza, Msc.",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52234785?u=73f7015fdf662ec550c7ed326c9b035405f5c3c8&v=4",
         "url": "https://github.com/fmpiza"
     },
     {
@@ -4094,7 +4094,7 @@
     {
         "login": "RyzeCheng",
         "name": "Ryze",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/36540932?u=83139d67821f8f37e7c4eed9ae92ff1faf26cf8d&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36540932?u=9773dac52f420e07374a2acaf7a5153ec4c3fd08&v=4",
         "url": "https://github.com/RyzeCheng"
     },
     {
@@ -5126,7 +5126,7 @@
     {
         "login": "dongliuqingqing",
         "name": "\u4e1c\u67f3\u9752\u9752",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/74712229?u=99d42f0f06768ebe1023714bf5a9e56c24d91379&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/74712229?u=5ae67e12a90d433c37f867df9c80710455775177&v=4",
         "url": "https://github.com/dongliuqingqing"
     },
     {
@@ -6190,5 +6190,11 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/67220375?v=4",
         "url": "https://github.com/3315604573"
+    },
+    {
+        "login": "yinhediyi",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17943388?v=4",
+        "url": "https://github.com/yinhediyi"
     }
 ]
