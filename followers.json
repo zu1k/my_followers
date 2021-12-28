@@ -5696,7 +5696,7 @@
     {
         "login": "OkamiMks",
         "name": "Okami \u30e9\u30b3\u30b9\u30c6",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=9edfd731f808609d6bb12188e4836ab734bec488&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=0beb54e82ed958880c6be9f2bdf2dd6da24c18b2&v=4",
         "url": "https://github.com/OkamiMks"
     },
     {
@@ -6079,7 +6079,7 @@
     },
     {
         "login": "KpLi0rn",
-        "name": "\u5929\u4e0b\u5927\u6728\u5934",
+        "name": "KpLi0rn",
         "avatarUrl": "https://avatars.githubusercontent.com/u/44540341?u=16b15973923419cd98ad617e47627ccf091bd98b&v=4",
         "url": "https://github.com/KpLi0rn"
     },
@@ -6208,5 +6208,17 @@
         "name": "AlexFord",
         "avatarUrl": "https://avatars.githubusercontent.com/u/56783812?u=1d999cd312e0034e7ae59b3596ce0ab4c95d2e3d&v=4",
         "url": "https://github.com/a1ex4ord"
+    },
+    {
+        "login": "kalexze",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/83171821?v=4",
+        "url": "https://github.com/kalexze"
+    },
+    {
+        "login": "haoruilee",
+        "name": "haorui",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60883781?u=d5de61283bfae8071eee81eea73871d26368ce36&v=4",
+        "url": "https://github.com/haoruilee"
     }
 ]
