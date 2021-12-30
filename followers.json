@@ -536,7 +536,7 @@
     {
         "login": "j5s",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/6801548?u=b6ef809c86a6ae4eb2e52d6da4433f0a47d7405b&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6801548?u=a253f59130a3e1098acc46d56b0df08f2d5108f3&v=4",
         "url": "https://github.com/j5s"
     },
     {
@@ -6226,5 +6226,23 @@
         "name": "Hardy",
         "avatarUrl": "https://avatars.githubusercontent.com/u/23226270?u=f0d2049fdf99132ccb4af3e0a2460982b68f5c97&v=4",
         "url": "https://github.com/hardy-one"
+    },
+    {
+        "login": "weeee4",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/61502973?v=4",
+        "url": "https://github.com/weeee4"
+    },
+    {
+        "login": "guguguc",
+        "name": "gugugu",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30418487?u=644cdc92694159f0b8349e069fb6cccca682eb02&v=4",
+        "url": "https://github.com/guguguc"
+    },
+    {
+        "login": "wzwzaozao",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/38728391?u=9e328cfe2007fbe3f85e1147ea056ac0f51ce153&v=4",
+        "url": "https://github.com/wzwzaozao"
     }
 ]
