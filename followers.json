@@ -865,7 +865,7 @@
     },
     {
         "login": "iam7cn",
-        "name": "xiao7",
+        "name": "\u5c0f\u67d2",
         "avatarUrl": "https://avatars.githubusercontent.com/u/23691239?v=4",
         "url": "https://github.com/iam7cn"
     },
@@ -5695,8 +5695,8 @@
     },
     {
         "login": "OkamiMks",
-        "name": "Okami \u30e9\u30b3\u30b9\u30c6",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=0beb54e82ed958880c6be9f2bdf2dd6da24c18b2&v=4",
+        "name": "Okami \u30c1\u30e0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=2ee5bd037f518c79a70db5a35279ad4ace12b457&v=4",
         "url": "https://github.com/OkamiMks"
     },
     {
@@ -6358,5 +6358,17 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/18167899?u=7aa07eb92327e3a10d806a1323382e46d40750d9&v=4",
         "url": "https://github.com/WoadZS"
+    },
+    {
+        "login": "hangscer8",
+        "name": "\u848b\u822a",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/28976713?u=9b6aafd6cbd43b60d3fc5fb8a4db18dd9f237ba9&v=4",
+        "url": "https://github.com/hangscer8"
+    },
+    {
+        "login": "moslunix",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/3752670?v=4",
+        "url": "https://github.com/moslunix"
     }
 ]
