@@ -536,7 +536,7 @@
     {
         "login": "j5s",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/6801548?u=a253f59130a3e1098acc46d56b0df08f2d5108f3&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6801548?u=c4a68cc2f3a94efae13b91b7da78f60f0457c199&v=4",
         "url": "https://github.com/j5s"
     },
     {
@@ -6334,5 +6334,29 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/33110495?u=ea7993405eb02d19f8ff8c178412dbc1fe913380&v=4",
         "url": "https://github.com/aresbit"
+    },
+    {
+        "login": "popflag",
+        "name": "popflag",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18240463?u=578f8de4eba18a6fab407dc6aa2f552998df206f&v=4",
+        "url": "https://github.com/popflag"
+    },
+    {
+        "login": "aveng",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/19359099?v=4",
+        "url": "https://github.com/aveng"
+    },
+    {
+        "login": "ztohacker",
+        "name": "Dewey",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/68816377?u=27a0aed1f78be5f7a4ad813bb783d9a293185438&v=4",
+        "url": "https://github.com/ztohacker"
+    },
+    {
+        "login": "WoadZS",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18167899?u=7aa07eb92327e3a10d806a1323382e46d40750d9&v=4",
+        "url": "https://github.com/WoadZS"
     }
 ]
