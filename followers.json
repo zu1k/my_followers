@@ -2942,7 +2942,7 @@
     {
         "login": "uhtyj",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/33050859?v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33050859?u=35617d736edd6c7b2a0518a71a1d9073233a8aae&v=4",
         "url": "https://github.com/uhtyj"
     },
     {
@@ -6376,5 +6376,11 @@
         "name": "John Wang",
         "avatarUrl": "https://avatars.githubusercontent.com/u/18166185?v=4",
         "url": "https://github.com/igengdu"
+    },
+    {
+        "login": "jokergaming",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/25496577?u=c8cb14cc5b2ab63a0134aeccfd7b068d7e23b1c2&v=4",
+        "url": "https://github.com/jokergaming"
     }
 ]
