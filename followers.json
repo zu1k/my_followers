@@ -1790,7 +1790,7 @@
     {
         "login": "vonjk",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/30076142?u=da1bc7082c666970f19151c5c1c2259f599898b9&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30076142?u=c6bd805dca07b91363288f5d743a55a9de5c8030&v=4",
         "url": "https://github.com/vonjk"
     },
     {
@@ -5077,7 +5077,7 @@
     },
     {
         "login": "jgzxw",
-        "name": null,
+        "name": "@OSSDAO-ORG\u2022AIRDROP-0x7452Abf81Da1490484F0B5a1C74DdcCbb7Ac1B10",
         "avatarUrl": "https://avatars.githubusercontent.com/u/68600451?v=4",
         "url": "https://github.com/jgzxw"
     },
@@ -6400,5 +6400,17 @@
         "name": "\u4e91\u5f71",
         "avatarUrl": "https://avatars.githubusercontent.com/u/32475005?u=84d16074244fd907882d3a007bc70b7ee1197e36&v=4",
         "url": "https://github.com/K0uaz"
+    },
+    {
+        "login": "famasoon",
+        "name": "Ryota Sakai",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18043941?u=697c15780dea366606262f76898450481b8711b9&v=4",
+        "url": "https://github.com/famasoon"
+    },
+    {
+        "login": "fantasyroot",
+        "name": "Anto17",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8604073?u=9e5d7ea7f8dd4f7866381b6f2a1655f023f3d6fc&v=4",
+        "url": "https://github.com/fantasyroot"
     }
 ]
