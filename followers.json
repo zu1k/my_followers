@@ -5390,7 +5390,7 @@
     {
         "login": "ggssh",
         "name": "ggssh",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/55895271?u=181222d5d498a7b27466d28f331af35d5f54342b&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55895271?u=347b699551f3df468555e6f1d0a43bedfc528336&v=4",
         "url": "https://github.com/ggssh"
     },
     {
@@ -5916,10 +5916,10 @@
         "url": "https://github.com/Yang-lin-09"
     },
     {
-        "login": "chenshoujiang",
+        "login": "xiaoxiongaaa",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/86845884?v=4",
-        "url": "https://github.com/chenshoujiang"
+        "avatarUrl": "https://avatars.githubusercontent.com/u/86845884?u=6bce0d094aabcd106895a4cc7e09ea6b47036d19&v=4",
+        "url": "https://github.com/xiaoxiongaaa"
     },
     {
         "login": "shilr",
@@ -6388,5 +6388,17 @@
         "name": "kaka",
         "avatarUrl": "https://avatars.githubusercontent.com/u/42664193?u=af89ba8ddd0c2d6ca13b36bd65e94cf93c0cb823&v=4",
         "url": "https://github.com/kakarotx2018"
+    },
+    {
+        "login": "zhimiyouwu33",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75343826?v=4",
+        "url": "https://github.com/zhimiyouwu33"
+    },
+    {
+        "login": "K0uaz",
+        "name": "\u4e91\u5f71",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/32475005?u=84d16074244fd907882d3a007bc70b7ee1197e36&v=4",
+        "url": "https://github.com/K0uaz"
     }
 ]
