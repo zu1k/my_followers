@@ -536,7 +536,7 @@
     {
         "login": "j5s",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/6801548?u=c4a68cc2f3a94efae13b91b7da78f60f0457c199&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6801548?u=0f86bf33b67748c860ada55f963147fe6e0df478&v=4",
         "url": "https://github.com/j5s"
     },
     {
@@ -2910,10 +2910,10 @@
         "url": "https://github.com/hui-ba"
     },
     {
-        "login": "huangler",
+        "login": "hhhaqa",
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/71923207?u=8e7242a6484f3573d07cffdd1b9e5f80100f9a3c&v=4",
-        "url": "https://github.com/huangler"
+        "url": "https://github.com/hhhaqa"
     },
     {
         "login": "kevinpbwzj",
@@ -5077,7 +5077,7 @@
     },
     {
         "login": "jgzxw",
-        "name": "@OSSDAO-ORG\u2022AIRDROP-0x7452Abf81Da1490484F0B5a1C74DdcCbb7Ac1B10",
+        "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/68600451?v=4",
         "url": "https://github.com/jgzxw"
     },
@@ -6412,5 +6412,11 @@
         "name": "Anto17",
         "avatarUrl": "https://avatars.githubusercontent.com/u/8604073?u=9e5d7ea7f8dd4f7866381b6f2a1655f023f3d6fc&v=4",
         "url": "https://github.com/fantasyroot"
+    },
+    {
+        "login": "AwesomeW",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/32895742?v=4",
+        "url": "https://github.com/AwesomeW"
     }
 ]
