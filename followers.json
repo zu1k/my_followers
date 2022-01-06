@@ -4202,7 +4202,7 @@
     {
         "login": "Buzz2d0",
         "name": "zznQ",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/26270009?u=fae6d13af283db31cc7f3c5c994a1b94a7262c0b&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/26270009?u=56166c4fe2d17c48480bfc0ce895ca0da17c8ec0&v=4",
         "url": "https://github.com/Buzz2d0"
     },
     {
@@ -6418,5 +6418,23 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/32895742?v=4",
         "url": "https://github.com/AwesomeW"
+    },
+    {
+        "login": "hoooou",
+        "name": "hoooou",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/9627034?v=4",
+        "url": "https://github.com/hoooou"
+    },
+    {
+        "login": "shivanahmady",
+        "name": "Shivan A.",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/32249208?u=9374cadf58ee49fdd1d83be0f851a0dfdf4fa1db&v=4",
+        "url": "https://github.com/shivanahmady"
+    },
+    {
+        "login": "ioliu",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33274641?v=4",
+        "url": "https://github.com/ioliu"
     }
 ]
