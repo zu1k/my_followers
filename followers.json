@@ -530,7 +530,7 @@
     {
         "login": "CrackerCat",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/17995064?u=5ec70ec182f70686fada64f67b3bc9f308017f8f&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17995064?v=4",
         "url": "https://github.com/CrackerCat"
     },
     {
@@ -2923,8 +2923,8 @@
     },
     {
         "login": "moviets",
-        "name": "System.Tor",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/49691826?u=707a331e2ab25d4f1e9b137cf67dc0cc5ac3adf5&v=4",
+        "name": "System.Tor\u53ef\u4e50\u516e\u5c11",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49691826?u=ee0c76126e38b554b727937ca0f2d0c5b3729b28&v=4",
         "url": "https://github.com/moviets"
     },
     {
@@ -5256,10 +5256,10 @@
         "url": "https://github.com/vcd047"
     },
     {
-        "login": "Vdeem",
-        "name": "Vdeem",
+        "login": "cdhe",
+        "name": "cdhe",
         "avatarUrl": "https://avatars.githubusercontent.com/u/24988893?u=7954a4a1c02ee9f0f0aaef3cead3ffaf623e8454&v=4",
-        "url": "https://github.com/Vdeem"
+        "url": "https://github.com/cdhe"
     },
     {
         "login": "99bwhat",
@@ -6442,5 +6442,23 @@
         "name": "Heelie",
         "avatarUrl": "https://avatars.githubusercontent.com/u/27876556?u=764390e32a3c01760a45e7b2d65792acce69e795&v=4",
         "url": "https://github.com/Heelie"
+    },
+    {
+        "login": "secoba",
+        "name": "secoba",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/25523634?u=bcca6f8dd856a54b8bac2ef86c81dea8191ea999&v=4",
+        "url": "https://github.com/secoba"
+    },
+    {
+        "login": "Veedc",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70261330?v=4",
+        "url": "https://github.com/Veedc"
+    },
+    {
+        "login": "thegr8estmay",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/97267518?v=4",
+        "url": "https://github.com/thegr8estmay"
     }
 ]
