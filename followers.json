@@ -5952,12 +5952,6 @@
         "url": "https://github.com/missaved"
     },
     {
-        "login": "beyondjxc",
-        "name": "Evergreen tree",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/68316388?u=62302258a8dc7c759ce11df289117ace2d46addd&v=4",
-        "url": "https://github.com/beyondjxc"
-    },
-    {
         "login": "CXZS-Git",
         "name": "CXZS_Git",
         "avatarUrl": "https://avatars.githubusercontent.com/u/3448255?u=e958bde60a786d0ee16fa697bbc12bcd1aaff4c7&v=4",
@@ -6484,5 +6478,11 @@
         "name": "besscroft",
         "avatarUrl": "https://avatars.githubusercontent.com/u/33775809?u=4b288067b68718f8cee6d8fbdcbd95e72c7eaeaf&v=4",
         "url": "https://github.com/besscroft"
+    },
+    {
+        "login": "hqweay",
+        "name": "\u517b\u6050\u9f99",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23608642?u=03bee9a980194c1d2a216eaaa7497f72c4eabaa7&v=4",
+        "url": "https://github.com/hqweay"
     }
 ]
