@@ -4178,7 +4178,7 @@
     {
         "login": "zerone0x",
         "name": "sober",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/39543393?u=6d3314d24ceaf4a801c5bfb6d90a0d1071312b14&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/39543393?u=c13e0b794e81515dce505478afc25909231dde87&v=4",
         "url": "https://github.com/zerone0x"
     },
     {
@@ -4621,7 +4621,7 @@
     },
     {
         "login": "zcyc",
-        "name": "Charles John",
+        "name": "Charles",
         "avatarUrl": "https://avatars.githubusercontent.com/u/9925064?u=5065f2b02220b4743d25ef3aae84f825905669ee&v=4",
         "url": "https://github.com/zcyc"
     },
@@ -5952,12 +5952,6 @@
         "url": "https://github.com/CXZS-Git"
     },
     {
-        "login": "0ks3iio",
-        "name": "0ks3iio",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/8078301?v=4",
-        "url": "https://github.com/0ks3iio"
-    },
-    {
         "login": "GoodWillChase",
         "name": "Chase",
         "avatarUrl": "https://avatars.githubusercontent.com/u/26741114?u=712db99eccd1ce5e1a794febceb0212f6860c8cb&v=4",
@@ -6478,5 +6472,17 @@
         "name": "\u517b\u6050\u9f99",
         "avatarUrl": "https://avatars.githubusercontent.com/u/23608642?u=03bee9a980194c1d2a216eaaa7497f72c4eabaa7&v=4",
         "url": "https://github.com/hqweay"
+    },
+    {
+        "login": "SheldonNico",
+        "name": "Sheldon Nico",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11974052?u=98982c0615d98087f4eaeb6f4bc2d59c77ec2d37&v=4",
+        "url": "https://github.com/SheldonNico"
+    },
+    {
+        "login": "mastercode10",
+        "name": "Ademola Tosin",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36807046?u=a9fd97f6522a539e0be11d2c6472d79cc95b5a1e&v=4",
+        "url": "https://github.com/mastercode10"
     }
 ]
