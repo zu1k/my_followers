@@ -4081,7 +4081,7 @@
     },
     {
         "login": "Ainevsia",
-        "name": "qczbhds",
+        "name": "ia6a",
         "avatarUrl": "https://avatars.githubusercontent.com/u/31178818?u=c11653e9b683eb8fa996be92d5500fe96a02224b&v=4",
         "url": "https://github.com/Ainevsia"
     },
@@ -4092,10 +4092,10 @@
         "url": "https://github.com/leogo-code"
     },
     {
-        "login": "RyzeCheng",
+        "login": "RyzeChang",
         "name": "Ryze",
         "avatarUrl": "https://avatars.githubusercontent.com/u/36540932?u=435660f35412b7a176121b06ec64d1c841cdce08&v=4",
-        "url": "https://github.com/RyzeCheng"
+        "url": "https://github.com/RyzeChang"
     },
     {
         "login": "thosewords",
@@ -6526,5 +6526,41 @@
         "name": "\u9e4f",
         "avatarUrl": "https://avatars.githubusercontent.com/u/97843777?v=4",
         "url": "https://github.com/pengzxc"
+    },
+    {
+        "login": "cycxtIT",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90236905?u=47449a9319aa0f3fff4ee21577fae498b878387c&v=4",
+        "url": "https://github.com/cycxtIT"
+    },
+    {
+        "login": "BytePrince",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46085764?u=4d3a4dd0d8c2f0beea1d0921a0f3ec84bae34fc2&v=4",
+        "url": "https://github.com/BytePrince"
+    },
+    {
+        "login": "zhaodie",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46781023?u=b67f9b66c9e2a6ddc6479819c30544107fe16f01&v=4",
+        "url": "https://github.com/zhaodie"
+    },
+    {
+        "login": "Neo-peng",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35390171?v=4",
+        "url": "https://github.com/Neo-peng"
+    },
+    {
+        "login": "ab-Alex",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43507436?u=f51cff578f4c0e80a164eb1a9cafbc87ee38dbd2&v=4",
+        "url": "https://github.com/ab-Alex"
+    },
+    {
+        "login": "curtisrecords",
+        "name": "Curtis.CN",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/71839629?u=0b1975bad88028773b8cc5a700179ac3ae8ea0e7&v=4",
+        "url": "https://github.com/curtisrecords"
     }
 ]
