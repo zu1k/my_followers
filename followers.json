@@ -4081,7 +4081,7 @@
     },
     {
         "login": "Ainevsia",
-        "name": "ia6a",
+        "name": "iaba",
         "avatarUrl": "https://avatars.githubusercontent.com/u/31178818?u=c11653e9b683eb8fa996be92d5500fe96a02224b&v=4",
         "url": "https://github.com/Ainevsia"
     },
@@ -6562,5 +6562,17 @@
         "name": "Curtis.CN",
         "avatarUrl": "https://avatars.githubusercontent.com/u/71839629?u=0b1975bad88028773b8cc5a700179ac3ae8ea0e7&v=4",
         "url": "https://github.com/curtisrecords"
+    },
+    {
+        "login": "lambwheit",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/38606611?u=4e4f6cd947becb721f1ed1f3938f3e7b17bfc4f0&v=4",
+        "url": "https://github.com/lambwheit"
+    },
+    {
+        "login": "iyocl",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/97059871?v=4",
+        "url": "https://github.com/iyocl"
     }
 ]
