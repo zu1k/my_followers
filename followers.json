@@ -3848,7 +3848,7 @@
     {
         "login": "nonunicorn",
         "name": "Joe Markberg / code editor",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/82409010?u=6f9e9302b6c38e9e08c18a85efd1c00b44104eb7&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/82409010?u=ac61301f7680bb21a458d1e06335cba1d46b016d&v=4",
         "url": "https://github.com/nonunicorn"
     },
     {
@@ -4094,7 +4094,7 @@
     {
         "login": "RyzeChang",
         "name": "Ryze",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/36540932?u=435660f35412b7a176121b06ec64d1c841cdce08&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36540932?u=11dab2d6727a7bb239594bd62ad0fd34d604d3d4&v=4",
         "url": "https://github.com/RyzeChang"
     },
     {
@@ -6574,5 +6574,11 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/97059871?v=4",
         "url": "https://github.com/iyocl"
+    },
+    {
+        "login": "ShangWangNUST",
+        "name": "Shang Wang",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/80505084?u=21ed676a9e3b12cc6aec6740e043945ac27a81a6&v=4",
+        "url": "https://github.com/ShangWangNUST"
     }
 ]
