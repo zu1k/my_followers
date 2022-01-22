@@ -1573,7 +1573,7 @@
     },
     {
         "login": "lazydogdog",
-        "name": "Break0",
+        "name": "Break",
         "avatarUrl": "https://avatars.githubusercontent.com/u/49097093?u=705d507747bb718021de6a9c1791d4aedee7550c&v=4",
         "url": "https://github.com/lazydogdog"
     },
@@ -1650,10 +1650,10 @@
         "url": "https://github.com/Joackk"
     },
     {
-        "login": "farmsec76",
-        "name": null,
+        "login": "netcat88212",
+        "name": "moot_stat",
         "avatarUrl": "https://avatars.githubusercontent.com/u/51488882?v=4",
-        "url": "https://github.com/farmsec76"
+        "url": "https://github.com/netcat88212"
     },
     {
         "login": "possib1e",
@@ -6580,5 +6580,17 @@
         "name": "Shang Wang",
         "avatarUrl": "https://avatars.githubusercontent.com/u/80505084?u=21ed676a9e3b12cc6aec6740e043945ac27a81a6&v=4",
         "url": "https://github.com/ShangWangNUST"
+    },
+    {
+        "login": "Ceris3s",
+        "name": "Cerises",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47936572?u=8a82e2d06b04bcfbde6ef7ee538e9c27929cdab3&v=4",
+        "url": "https://github.com/Ceris3s"
+    },
+    {
+        "login": "makehuafei",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/91076891?v=4",
+        "url": "https://github.com/makehuafei"
     }
 ]
