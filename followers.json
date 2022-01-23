@@ -1634,7 +1634,7 @@
     {
         "login": "h0nus",
         "name": "h0nus",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/23401728?u=f2c0fd16afbe3113b9c584d3971a371b7a3c19d5&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23401728?u=4c4bdc494fadd6e1513783a3a0e0338509af2ea5&v=4",
         "url": "https://github.com/h0nus"
     },
     {
@@ -4094,7 +4094,7 @@
     {
         "login": "RyzeChang",
         "name": "Ryze",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/36540932?u=11dab2d6727a7bb239594bd62ad0fd34d604d3d4&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36540932?u=c8c7133365bb7b82f6599f3a91276e3499ddf12c&v=4",
         "url": "https://github.com/RyzeChang"
     },
     {
@@ -4580,7 +4580,7 @@
     {
         "login": "maxamin",
         "name": "Mohammed amine guesmi",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/6227311?u=1c2711c9f296279eace91fb6af5d6015c1c19daf&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6227311?u=841ebbf0f88bb70d04b3aa6a41ff2ce1197eed5a&v=4",
         "url": "https://github.com/maxamin"
     },
     {
@@ -6592,5 +6592,11 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/91076891?v=4",
         "url": "https://github.com/makehuafei"
+    },
+    {
+        "login": "xhjian",
+        "name": "xhjian",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/34152554?u=d0454a2eeebca695be0d7b043d3bc606d84d5090&v=4",
+        "url": "https://github.com/xhjian"
     }
 ]
