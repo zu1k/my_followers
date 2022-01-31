@@ -4088,7 +4088,7 @@
     {
         "login": "RyzeChang",
         "name": "Ryze",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/36540932?u=c8c7133365bb7b82f6599f3a91276e3499ddf12c&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36540932?u=5777a3dcfc7dd2df0cad49e72184806bd8e82c77&v=4",
         "url": "https://github.com/RyzeChang"
     },
     {
@@ -5272,12 +5272,6 @@
         "name": "Amesy",
         "avatarUrl": "https://avatars.githubusercontent.com/u/33993958?u=eec2768f37831195afcac1955924d7c9a9e948e0&v=4",
         "url": "https://github.com/amesy"
-    },
-    {
-        "login": "Hsins",
-        "name": "H.-H. Peng",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/26391143?u=e6506ecebd1827ca23709c30b5ee2a770c86a223&v=4",
-        "url": "https://github.com/Hsins"
     },
     {
         "login": "skyrocketZ",
@@ -6616,5 +6610,17 @@
         "name": "DropYearning",
         "avatarUrl": "https://avatars.githubusercontent.com/u/46500169?u=ad42cf42931c92d69f9be57aeb634ba877a3eed2&v=4",
         "url": "https://github.com/DropYearning"
+    },
+    {
+        "login": "Hsins",
+        "name": "H.-H. Peng",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/26391143?u=e6506ecebd1827ca23709c30b5ee2a770c86a223&v=4",
+        "url": "https://github.com/Hsins"
+    },
+    {
+        "login": "XYenon",
+        "name": "XYenon",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20698483?u=dab0e817db31220d025ef1c9216e302fd949f6ef&v=4",
+        "url": "https://github.com/XYenon"
     }
 ]
