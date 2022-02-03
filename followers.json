@@ -1868,7 +1868,7 @@
     {
         "login": "The-Soloist",
         "name": "TheS",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/46804083?u=2aeef4949d5c5bb683eb44deaa40b009e34da46b&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46804083?u=18ff1061eec6cc32f01b301cb9622d7c7efa0f8f&v=4",
         "url": "https://github.com/The-Soloist"
     },
     {
@@ -6622,5 +6622,11 @@
         "name": "XYenon",
         "avatarUrl": "https://avatars.githubusercontent.com/u/20698483?u=dab0e817db31220d025ef1c9216e302fd949f6ef&v=4",
         "url": "https://github.com/XYenon"
+    },
+    {
+        "login": "gitgithubfree",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60177574?u=2ae87b7d04edec3c8a997376cbc0b3434ec049c5&v=4",
+        "url": "https://github.com/gitgithubfree"
     }
 ]
