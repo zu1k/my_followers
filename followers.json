@@ -5672,7 +5672,7 @@
     {
         "login": "OkamiMks",
         "name": "Okami \u30c1\u30e0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=b2fba17cf69603c5eca527052bcc9e5213b2cdba&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=0304185449d5b1efcd1965ee5859584cbd75d4de&v=4",
         "url": "https://github.com/OkamiMks"
     },
     {
@@ -6628,5 +6628,35 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/60177574?u=2ae87b7d04edec3c8a997376cbc0b3434ec049c5&v=4",
         "url": "https://github.com/gitgithubfree"
+    },
+    {
+        "login": "xxooomg",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44080839?v=4",
+        "url": "https://github.com/xxooomg"
+    },
+    {
+        "login": "chiricocurvie",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6447807?v=4",
+        "url": "https://github.com/chiricocurvie"
+    },
+    {
+        "login": "songlinshu",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45619496?v=4",
+        "url": "https://github.com/songlinshu"
+    },
+    {
+        "login": "roaldclark",
+        "name": "Roald Clark",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/83657889?u=6a0aac71477e42fdca3423ecd5508e6789e2ba09&v=4",
+        "url": "https://github.com/roaldclark"
+    },
+    {
+        "login": "bohaoist",
+        "name": "bohaoist",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8103300?v=4",
+        "url": "https://github.com/bohaoist"
     }
 ]
