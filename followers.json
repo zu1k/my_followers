@@ -146,7 +146,7 @@
     {
         "login": "SJTUboy",
         "name": "Angle_He",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/13373715?u=0627b85530c4153289fada4adc23e585a05956f6&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/13373715?u=4bf36db936efedffc2ae3d5016c079c5a920b405&v=4",
         "url": "https://github.com/SJTUboy"
     },
     {
@@ -3163,7 +3163,7 @@
     },
     {
         "login": "d1y",
-        "name": "\u9f99\u99a8\u7af9",
+        "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/45585937?u=6cc351367ce67cc92dc25a53421af35733f65d2c&v=4",
         "url": "https://github.com/d1y"
     },
@@ -4088,7 +4088,7 @@
     {
         "login": "RyzeChang",
         "name": "Ryze",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/36540932?u=5777a3dcfc7dd2df0cad49e72184806bd8e82c77&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36540932?u=85dc57da50c59ab0fb164d328c8305bcd3dd5374&v=4",
         "url": "https://github.com/RyzeChang"
     },
     {
@@ -6658,5 +6658,17 @@
         "name": "bohaoist",
         "avatarUrl": "https://avatars.githubusercontent.com/u/8103300?v=4",
         "url": "https://github.com/bohaoist"
+    },
+    {
+        "login": "pingjingdewo",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/99109662?v=4",
+        "url": "https://github.com/pingjingdewo"
+    },
+    {
+        "login": "qwer-search",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76470356?u=adbea7cff5a531a0b0c367c732cf942dd10f3a82&v=4",
+        "url": "https://github.com/qwer-search"
     }
 ]
