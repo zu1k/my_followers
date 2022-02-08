@@ -1321,8 +1321,8 @@
     },
     {
         "login": "komomon",
-        "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/52700174?v=4",
+        "name": "Komomon",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52700174?u=dd3edbccec18527fc9ca6cd70b549e972164f094&v=4",
         "url": "https://github.com/komomon"
     },
     {
@@ -6670,5 +6670,11 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/76470356?u=adbea7cff5a531a0b0c367c732cf942dd10f3a82&v=4",
         "url": "https://github.com/qwer-search"
+    },
+    {
+        "login": "booleanism",
+        "name": "Hisyam Squartz",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72400749?v=4",
+        "url": "https://github.com/booleanism"
     }
 ]
