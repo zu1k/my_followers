@@ -3066,10 +3066,10 @@
         "url": "https://github.com/JimSmith666"
     },
     {
-        "login": "yangjiahao265",
+        "login": "yangjiahao2022",
         "name": "Jiahao Yang",
         "avatarUrl": "https://avatars.githubusercontent.com/u/57359076?u=501f7c69ee9898508725a367083a854cb4ebc348&v=4",
-        "url": "https://github.com/yangjiahao265"
+        "url": "https://github.com/yangjiahao2022"
     },
     {
         "login": "yyuandd",
@@ -3475,7 +3475,7 @@
     },
     {
         "login": "GLFei",
-        "name": "Guo Lanfei",
+        "name": "Sunboy",
         "avatarUrl": "https://avatars.githubusercontent.com/u/35721163?u=afb183378ac9326bf6f2b354f84d16161002cb35&v=4",
         "url": "https://github.com/GLFei"
     },
@@ -4088,7 +4088,7 @@
     {
         "login": "RyzeChang",
         "name": "Ryze",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/36540932?u=85dc57da50c59ab0fb164d328c8305bcd3dd5374&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36540932?u=446bd926dd1e333f6d2295eccaaaf8ba8ee317cc&v=4",
         "url": "https://github.com/RyzeChang"
     },
     {
@@ -6688,5 +6688,17 @@
         "name": "Pa55w0rd",
         "avatarUrl": "https://avatars.githubusercontent.com/u/16274549?u=afc132cfeebe42264d0b5cea5da834ca04a6b4be&v=4",
         "url": "https://github.com/Pa55w0rd"
+    },
+    {
+        "login": "huangxiongfei666",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/99327546?v=4",
+        "url": "https://github.com/huangxiongfei666"
+    },
+    {
+        "login": "Vrinan",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/21699594?u=6e2aafc3052f1830f45f3b6945abde3fa24d38f6&v=4",
+        "url": "https://github.com/Vrinan"
     }
 ]
