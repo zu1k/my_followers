@@ -3925,8 +3925,8 @@
     },
     {
         "login": "KochCow",
-        "name": "KochCow",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/83562660?v=4",
+        "name": "Hyperion",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/83562660?u=8904345246439a870f4f99dbcf7ed668dad01990&v=4",
         "url": "https://github.com/KochCow"
     },
     {
@@ -6718,5 +6718,11 @@
         "name": "gqlxj1987",
         "avatarUrl": "https://avatars.githubusercontent.com/u/233066?v=4",
         "url": "https://github.com/gqlxj1987"
+    },
+    {
+        "login": "WUY64",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54277975?v=4",
+        "url": "https://github.com/WUY64"
     }
 ]
