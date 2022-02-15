@@ -5666,7 +5666,7 @@
     {
         "login": "OkamiMks",
         "name": "Okami \u30c1\u30e0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=0304185449d5b1efcd1965ee5859584cbd75d4de&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=3cbf05275364b2a8ed22ed83b03399592b501b50&v=4",
         "url": "https://github.com/OkamiMks"
     },
     {
@@ -6718,5 +6718,17 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/54277975?v=4",
         "url": "https://github.com/WUY64"
+    },
+    {
+        "login": "Go0p",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/38928800?u=c0b4995d2613f605adfa348063f1985687c38678&v=4",
+        "url": "https://github.com/Go0p"
+    },
+    {
+        "login": "aishlai",
+        "name": "Arvin",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2181146?v=4",
+        "url": "https://github.com/aishlai"
     }
 ]
