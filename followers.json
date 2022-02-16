@@ -2318,7 +2318,7 @@
     {
         "login": "Cl0udG0d",
         "name": "\u6f58\u4e00\u4e8c\u4e09",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/45556496?u=b413b14563eee361a5e65e3f18c88590d5e3375c&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45556496?u=d3553dc7d5dee9899e4eee710a8e0fa433618c8a&v=4",
         "url": "https://github.com/Cl0udG0d"
     },
     {
@@ -5666,7 +5666,7 @@
     {
         "login": "OkamiMks",
         "name": "Okami \u30c1\u30e0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=3cbf05275364b2a8ed22ed83b03399592b501b50&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=0262bdb8fc0d9dcfe5de808466906017fefc857b&v=4",
         "url": "https://github.com/OkamiMks"
     },
     {
@@ -6730,5 +6730,11 @@
         "name": "Arvin",
         "avatarUrl": "https://avatars.githubusercontent.com/u/2181146?v=4",
         "url": "https://github.com/aishlai"
+    },
+    {
+        "login": "yuchen",
+        "name": "clark",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/190684?v=4",
+        "url": "https://github.com/yuchen"
     }
 ]
