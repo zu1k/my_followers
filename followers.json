@@ -1634,7 +1634,7 @@
     {
         "login": "h0nus",
         "name": "h0nus",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/23401728?u=4c4bdc494fadd6e1513783a3a0e0338509af2ea5&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23401728?u=dc97056d8f5e9ea8bc3766be25630d6812a312a5&v=4",
         "url": "https://github.com/h0nus"
     },
     {
@@ -6736,5 +6736,11 @@
         "name": "clark",
         "avatarUrl": "https://avatars.githubusercontent.com/u/190684?v=4",
         "url": "https://github.com/yuchen"
+    },
+    {
+        "login": "stan-7k",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72269597?u=edbd225522683d2cbddf5475e9fb7cade775570e&v=4",
+        "url": "https://github.com/stan-7k"
     }
 ]
