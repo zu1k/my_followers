@@ -1766,7 +1766,7 @@
     {
         "login": "r00tSe7en",
         "name": "Se7en",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/24263756?u=fef4b211b07ca73206924b6ab03394823ad12a5e&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/24263756?u=a0115cb9efe0248b59021e988957c893e9aab4c9&v=4",
         "url": "https://github.com/r00tSe7en"
     },
     {
@@ -3098,7 +3098,7 @@
     {
         "login": "yuzhen1024",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/47154428?u=b77c6a2ddaa6972521335495689328f90321bddd&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47154428?u=e74db8d2d5d4c7a291cecf3fbfa51fb1ff3b7d83&v=4",
         "url": "https://github.com/yuzhen1024"
     },
     {
@@ -4002,10 +4002,10 @@
         "url": "https://github.com/yixueheng"
     },
     {
-        "login": "ShmilySec",
+        "login": "3hm1ly",
         "name": "Shmily",
         "avatarUrl": "https://avatars.githubusercontent.com/u/26423638?u=e476fde2c2c3bbeb95207b74b717ed3f1d3b2fc7&v=4",
-        "url": "https://github.com/ShmilySec"
+        "url": "https://github.com/3hm1ly"
     },
     {
         "login": "macing",
@@ -5660,7 +5660,7 @@
     {
         "login": "OkamiMks",
         "name": "Okami \u30c1\u30e0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=d5b73e5318baa16036b098e51583672af2fcbe01&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=4b9fc08a16a53a565f50cdc3f3af1ed7672a6135&v=4",
         "url": "https://github.com/OkamiMks"
     },
     {
@@ -6802,5 +6802,11 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/96800930?v=4",
         "url": "https://github.com/cfdny0113"
+    },
+    {
+        "login": "yztzcm1",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/92417058?v=4",
+        "url": "https://github.com/yztzcm1"
     }
 ]
