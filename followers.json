@@ -2792,7 +2792,7 @@
     {
         "login": "Charlie-Mars",
         "name": "Charlie Mars",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/74394539?u=d74be39bbe9cf467eb3cc0900b53b68d09140458&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/74394539?u=cc7cd38376dd98af3c31a6bea64eb10f03b0c4a0&v=4",
         "url": "https://github.com/Charlie-Mars"
     },
     {
@@ -6838,5 +6838,35 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/45234567?u=f861df5a96bed73c2029100eecaecbb90ce988bb&v=4",
         "url": "https://github.com/JOJO-CF"
+    },
+    {
+        "login": "reed-soul",
+        "name": "lushiqiang",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23180118?u=8940fce787a1e25f181fad9dabc87179f982148a&v=4",
+        "url": "https://github.com/reed-soul"
+    },
+    {
+        "login": "QYXA",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88200297?v=4",
+        "url": "https://github.com/QYXA"
+    },
+    {
+        "login": "wooyun-Evil",
+        "name": "_Evil",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29675613?v=4",
+        "url": "https://github.com/wooyun-Evil"
+    },
+    {
+        "login": "Nthily",
+        "name": "Nthily",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=7aa82cf9dae6ff40993081f5d9afc2bcf7cab7a5&v=4",
+        "url": "https://github.com/Nthily"
+    },
+    {
+        "login": "Naccl",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44741777?u=d00f51ab110b167b06baeb91df4a3b35179cfb37&v=4",
+        "url": "https://github.com/Naccl"
     }
 ]
