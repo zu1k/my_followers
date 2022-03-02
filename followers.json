@@ -4352,7 +4352,7 @@
     {
         "login": "swarupsro",
         "name": "Swarup Saha",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/7780919?u=f02b66611d1880210326e9eaca46527212a679d8&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7780919?u=185ab39230b094fb92385d4a88ed13ebed04f246&v=4",
         "url": "https://github.com/swarupsro"
     },
     {
@@ -6757,7 +6757,7 @@
     },
     {
         "login": "wuchunfu",
-        "name": null,
+        "name": "ChunFu Wu",
         "avatarUrl": "https://avatars.githubusercontent.com/u/29206593?u=33742909c3844c3865a987f42291d780e17be352&v=4",
         "url": "https://github.com/wuchunfu"
     },
@@ -6868,5 +6868,47 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/44741777?u=d00f51ab110b167b06baeb91df4a3b35179cfb37&v=4",
         "url": "https://github.com/Naccl"
+    },
+    {
+        "login": "gamblingmaster2020",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76604792?v=4",
+        "url": "https://github.com/gamblingmaster2020"
+    },
+    {
+        "login": "Littlerabbit20221220",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/100501379?v=4",
+        "url": "https://github.com/Littlerabbit20221220"
+    },
+    {
+        "login": "GGttyyy",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42407379?v=4",
+        "url": "https://github.com/GGttyyy"
+    },
+    {
+        "login": "BeanWei",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33516660?u=f51e866b3fd426b8c738f5fc4fd35114809a4ed4&v=4",
+        "url": "https://github.com/BeanWei"
+    },
+    {
+        "login": "setrsw",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49087816?u=6947ace970487201fdb27a55f2d11e44ae62b50e&v=4",
+        "url": "https://github.com/setrsw"
+    },
+    {
+        "login": "maratrixx",
+        "name": "MARATRIX Li",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45666616?u=115d48c71acab9ae64ab2659e67390f9a752f78d&v=4",
+        "url": "https://github.com/maratrixx"
+    },
+    {
+        "login": "hezhizhen",
+        "name": "Zhizhen He",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7611700?u=b3b6c8f0b66cc771cf8fa63c427e9043fa948695&v=4",
+        "url": "https://github.com/hezhizhen"
     }
 ]
