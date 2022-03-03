@@ -3900,12 +3900,6 @@
         "url": "https://github.com/HeyManMan"
     },
     {
-        "login": "5iCruise",
-        "name": "ROGER.S",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/31684227?u=32c307a324a7abe542a4049a740a41112058fb56&v=4",
-        "url": "https://github.com/5iCruise"
-    },
-    {
         "login": "KochCow",
         "name": "Hyperion",
         "avatarUrl": "https://avatars.githubusercontent.com/u/83562660?u=8904345246439a870f4f99dbcf7ed668dad01990&v=4",
@@ -5125,7 +5119,7 @@
     },
     {
         "login": "mutalisk999",
-        "name": null,
+        "name": "Mutalisk",
         "avatarUrl": "https://avatars.githubusercontent.com/u/16113233?u=91fb5acf5dff2559b435f518cdf7f6ba68f4a96a&v=4",
         "url": "https://github.com/mutalisk999"
     },
@@ -6910,5 +6904,47 @@
         "name": "Zhizhen He",
         "avatarUrl": "https://avatars.githubusercontent.com/u/7611700?u=b3b6c8f0b66cc771cf8fa63c427e9043fa948695&v=4",
         "url": "https://github.com/hezhizhen"
+    },
+    {
+        "login": "5iCruise",
+        "name": "ROGER.S",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31684227?u=32c307a324a7abe542a4049a740a41112058fb56&v=4",
+        "url": "https://github.com/5iCruise"
+    },
+    {
+        "login": "Zhang21",
+        "name": "Leslie Zhang",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18358275?u=d8be6a0abc5508b056f7981186a22db41b0de752&v=4",
+        "url": "https://github.com/Zhang21"
+    },
+    {
+        "login": "mythsman",
+        "name": "mythsman",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11818556?u=b8f9b2a709162b60d6cc69fa35957ac680e27421&v=4",
+        "url": "https://github.com/mythsman"
+    },
+    {
+        "login": "zhangt2333",
+        "name": "Teng Zhang",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35210901?u=093be3f7a17654652183de0082e6888b33a856f3&v=4",
+        "url": "https://github.com/zhangt2333"
+    },
+    {
+        "login": "enochii",
+        "name": "Shi Chenghang",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33364190?u=2a2504f970920a5f57b5c0fa229461a9c0cec745&v=4",
+        "url": "https://github.com/enochii"
+    },
+    {
+        "login": "Wongony",
+        "name": "Wongony",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/25788037?u=663f4f3eb488d837768b2fc83da3486683ffc15b&v=4",
+        "url": "https://github.com/Wongony"
+    },
+    {
+        "login": "JearyCheung",
+        "name": "Jeary Cheung",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17697466?u=ca61f11d12033a25a700ae66c3b8eb907592b595&v=4",
+        "url": "https://github.com/JearyCheung"
     }
 ]
