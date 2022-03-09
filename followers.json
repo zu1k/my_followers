@@ -1573,7 +1573,7 @@
     },
     {
         "login": "lazydogdog",
-        "name": "Break",
+        "name": "Break.D",
         "avatarUrl": "https://avatars.githubusercontent.com/u/49097093?u=705d507747bb718021de6a9c1791d4aedee7550c&v=4",
         "url": "https://github.com/lazydogdog"
     },
@@ -4692,12 +4692,6 @@
         "url": "https://github.com/amoyonglee"
     },
     {
-        "login": "Ayimlu",
-        "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/70791013?u=8e3d6ea02e45cbf6032b4347e6885179ca915850&v=4",
-        "url": "https://github.com/Ayimlu"
-    },
-    {
         "login": "milianks",
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/62286233?v=4",
@@ -6577,8 +6571,8 @@
     },
     {
         "login": "J0hnbX",
-        "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/98451016?v=4",
+        "name": "J0hnBx",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/98451016?u=7e428f4ebe542239ddfbd8f023414172807fe346&v=4",
         "url": "https://github.com/J0hnbX"
     },
     {
@@ -7012,5 +7006,23 @@
         "name": "fanqinyang",
         "avatarUrl": "https://avatars.githubusercontent.com/u/42639257?u=635f758bcbf5a6cca343f4b90ec14c61556d808e&v=4",
         "url": "https://github.com/BonjourYY"
+    },
+    {
+        "login": "uglyliu",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/22983421?v=4",
+        "url": "https://github.com/uglyliu"
+    },
+    {
+        "login": "maskwang",
+        "name": "\u51af\u5764",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1431025?v=4",
+        "url": "https://github.com/maskwang"
+    },
+    {
+        "login": "tranquac",
+        "name": "tranquac",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51528368?u=d4301b165860ca09869c6b544a00f79a0e812856&v=4",
+        "url": "https://github.com/tranquac"
     }
 ]
