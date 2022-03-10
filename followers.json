@@ -2582,7 +2582,7 @@
     {
         "login": "un4ckn0wl3z",
         "name": "Anu\u0337w\u00e5t",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/16059320?u=8bed5a41e6e34b169b8569d152474501bd03b0bc&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16059320?u=e37c365d43ec1337d59afdc4312ba1bfa5780154&v=4",
         "url": "https://github.com/un4ckn0wl3z"
     },
     {
@@ -3594,10 +3594,10 @@
         "url": "https://github.com/prosperotrading"
     },
     {
-        "login": "ToWeLong",
+        "login": "towelong",
         "name": "WeLong",
         "avatarUrl": "https://avatars.githubusercontent.com/u/41502558?u=75960b8ef6f47a8db93bcaa431fa4db70f5b276d&v=4",
-        "url": "https://github.com/ToWeLong"
+        "url": "https://github.com/towelong"
     },
     {
         "login": "mahtamun-hoque-fahim",
@@ -4690,6 +4690,12 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/49242974?v=4",
         "url": "https://github.com/amoyonglee"
+    },
+    {
+        "login": "Ayimlu",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70791013?u=8e3d6ea02e45cbf6032b4347e6885179ca915850&v=4",
+        "url": "https://github.com/Ayimlu"
     },
     {
         "login": "milianks",
@@ -6752,7 +6758,7 @@
     {
         "login": "cnhouzi",
         "name": "m0nk3y",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/88301075?u=d23210e1b48da95c7c3f4b0fb9039359e671263c&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88301075?u=5cda5dadefad80564859b31dc61ba9afdc3a716b&v=4",
         "url": "https://github.com/cnhouzi"
     },
     {
@@ -7024,5 +7030,17 @@
         "name": "tranquac",
         "avatarUrl": "https://avatars.githubusercontent.com/u/51528368?u=d4301b165860ca09869c6b544a00f79a0e812856&v=4",
         "url": "https://github.com/tranquac"
+    },
+    {
+        "login": "mlm22222",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/83006984?v=4",
+        "url": "https://github.com/mlm22222"
+    },
+    {
+        "login": "favers",
+        "name": "F",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/19677784?u=014b699d0e84b596b74300f0316dede36ae1a8b9&v=4",
+        "url": "https://github.com/favers"
     }
 ]
