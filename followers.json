@@ -4736,7 +4736,7 @@
     {
         "login": "abserari",
         "name": "DingRui Yang",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/32089134?u=6ada91632f5cd19a58ae512b1e5e62d8c9a97ba4&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/32089134?u=c0caf2ffcc9bfaaa768fca2a08efa60c815c9153&v=4",
         "url": "https://github.com/abserari"
     },
     {
@@ -7042,5 +7042,41 @@
         "name": "F",
         "avatarUrl": "https://avatars.githubusercontent.com/u/19677784?u=014b699d0e84b596b74300f0316dede36ae1a8b9&v=4",
         "url": "https://github.com/favers"
+    },
+    {
+        "login": "PPP1G",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56902719?v=4",
+        "url": "https://github.com/PPP1G"
+    },
+    {
+        "login": "ngloom",
+        "name": "NGloom",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/495831?u=1b059072335ec2cae5f5d61add0c4dba62cdbcb5&v=4",
+        "url": "https://github.com/ngloom"
+    },
+    {
+        "login": "GeekWorkCode",
+        "name": "zsCool",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7720942?u=be5e8b1f48be1ff8163a85c975fcb0206c93f526&v=4",
+        "url": "https://github.com/GeekWorkCode"
+    },
+    {
+        "login": "ZevaXu",
+        "name": "Zeva",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36792308?u=043b3ac6dd0982cf7ed8ac64a5c13a43206f87ce&v=4",
+        "url": "https://github.com/ZevaXu"
+    },
+    {
+        "login": "developers-youcong",
+        "name": "The Full Stack Development Engineer",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45055576?v=4",
+        "url": "https://github.com/developers-youcong"
+    },
+    {
+        "login": "ArreyChan",
+        "name": "ERRUI",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63032433?u=40058f95bc93b0a130a8a8dc8134445b3a6f4482&v=4",
+        "url": "https://github.com/ArreyChan"
     }
 ]
