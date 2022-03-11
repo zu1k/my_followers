@@ -1867,7 +1867,7 @@
     },
     {
         "login": "The-Soloist",
-        "name": "TheS",
+        "name": "Th3S",
         "avatarUrl": "https://avatars.githubusercontent.com/u/46804083?u=18ff1061eec6cc32f01b301cb9622d7c7efa0f8f&v=4",
         "url": "https://github.com/The-Soloist"
     },
@@ -7432,5 +7432,53 @@
         "name": "bin",
         "avatarUrl": "https://avatars.githubusercontent.com/u/170050?v=4",
         "url": "https://github.com/iamsk"
+    },
+    {
+        "login": "lnyzx",
+        "name": "myddm",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12728068?u=38f2ab72bd2a0a2aeb73f16e742ad6ce70b1f1d2&v=4",
+        "url": "https://github.com/lnyzx"
+    },
+    {
+        "login": "0xGale",
+        "name": "Data Structure",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10388311?u=da4f6b62d1958a83f41761f0c78811458105a6a4&v=4",
+        "url": "https://github.com/0xGale"
+    },
+    {
+        "login": "MrKsec",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58287175?u=f726ad54943dfab9da8d0643e375ad7a121a26bc&v=4",
+        "url": "https://github.com/MrKsec"
+    },
+    {
+        "login": "daidai21",
+        "name": ".",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36124626?u=56614c46d2da54aafaa85abb260eab3a589237fc&v=4",
+        "url": "https://github.com/daidai21"
+    },
+    {
+        "login": "signfind",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/97871760?u=4504f91ffcacf64094eea2c2025480d76147f0ac&v=4",
+        "url": "https://github.com/signfind"
+    },
+    {
+        "login": "x1aochuan",
+        "name": "xiaochuan",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/97670155?v=4",
+        "url": "https://github.com/x1aochuan"
+    },
+    {
+        "login": "liaovq",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/74915079?u=dc567e9d8494f83e105d11f4d689ff87720ac840&v=4",
+        "url": "https://github.com/liaovq"
+    },
+    {
+        "login": "cccZc",
+        "name": "CubicZ",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45618899?u=c57a7e671471284e6be077c0d5af2bcb2bde1f17&v=4",
+        "url": "https://github.com/cccZc"
     }
 ]
