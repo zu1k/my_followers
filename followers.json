@@ -1682,7 +1682,7 @@
     {
         "login": "Wfzsec",
         "name": "tr1ple",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/24896161?u=73d8264a7afce5e294a423f66e2cc8d57766593a&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/24896161?u=262157e51e906b89c698264b0a249ba1ff965aee&v=4",
         "url": "https://github.com/Wfzsec"
     },
     {
@@ -6757,7 +6757,7 @@
     },
     {
         "login": "cnhouzi",
-        "name": "m0nk3y",
+        "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/88301075?u=5cda5dadefad80564859b31dc61ba9afdc3a716b&v=4",
         "url": "https://github.com/cnhouzi"
     },
@@ -7516,5 +7516,53 @@
         "name": "ZhangZhiChao",
         "avatarUrl": "https://avatars.githubusercontent.com/u/54631354?u=fc22bfd2baeafd76be793731a5aefd58328828fd&v=4",
         "url": "https://github.com/Alkaidcc"
+    },
+    {
+        "login": "gkdgkdgkdgkd",
+        "name": "\u6c37\u6ce0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/50223031?u=c231b169954ad880ed9e98109144e96885284d74&v=4",
+        "url": "https://github.com/gkdgkdgkdgkd"
+    },
+    {
+        "login": "D-S-C-J",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43565419?u=5462a5100b4be632dbd4fb7ef83fe41fb4d83e9a&v=4",
+        "url": "https://github.com/D-S-C-J"
+    },
+    {
+        "login": "hengstchon",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7352093?u=9e9e99a1fd3bc991ceeed1fa43643ec579b47c9b&v=4",
+        "url": "https://github.com/hengstchon"
+    },
+    {
+        "login": "myluke",
+        "name": "Luke",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1701036?u=7f3036f1e78361418987c72601ebd142e274d9e1&v=4",
+        "url": "https://github.com/myluke"
+    },
+    {
+        "login": "BangKk",
+        "name": "Kai Xie",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/13979818?u=f67c5602ca2d45940ef990e97933c48d199b051e&v=4",
+        "url": "https://github.com/BangKk"
+    },
+    {
+        "login": "guotenv",
+        "name": "guotenv",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23737519?u=8372b4f4748061c158d42bfafc0a7d5c1a757c8d&v=4",
+        "url": "https://github.com/guotenv"
+    },
+    {
+        "login": "xujie666",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57591634?v=4",
+        "url": "https://github.com/xujie666"
+    },
+    {
+        "login": "shuaihanhungry",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8935339?u=79ed6dd1ac762c3f88b42a1ae6c7313f1eb62e92&v=4",
+        "url": "https://github.com/shuaihanhungry"
     }
 ]
