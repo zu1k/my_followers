@@ -6859,7 +6859,7 @@
     },
     {
         "login": "Naccl",
-        "name": null,
+        "name": "Naccl Lu",
         "avatarUrl": "https://avatars.githubusercontent.com/u/44741777?u=d00f51ab110b167b06baeb91df4a3b35179cfb37&v=4",
         "url": "https://github.com/Naccl"
     },
@@ -7564,5 +7564,17 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/8935339?u=79ed6dd1ac762c3f88b42a1ae6c7313f1eb62e92&v=4",
         "url": "https://github.com/shuaihanhungry"
+    },
+    {
+        "login": "qwert2i",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2772530?v=4",
+        "url": "https://github.com/qwert2i"
+    },
+    {
+        "login": "SometimesNative",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55150429?v=4",
+        "url": "https://github.com/SometimesNative"
     }
 ]
