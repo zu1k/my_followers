@@ -7213,7 +7213,7 @@
     },
     {
         "login": "weishen250",
-        "name": null,
+        "name": "GODV",
         "avatarUrl": "https://avatars.githubusercontent.com/u/71580418?u=c4413dcde9196426aa4a69cf8c68cc8afb7b40c7&v=4",
         "url": "https://github.com/weishen250"
     },
@@ -7566,10 +7566,10 @@
         "url": "https://github.com/qwert2i"
     },
     {
-        "login": "SometimesNative",
-        "name": null,
+        "login": "nokws",
+        "name": "SometimeNaive",
         "avatarUrl": "https://avatars.githubusercontent.com/u/55150429?v=4",
-        "url": "https://github.com/SometimesNative"
+        "url": "https://github.com/nokws"
     },
     {
         "login": "wealeson1",
@@ -7606,5 +7606,65 @@
         "name": "Nerijus Jasinskas",
         "avatarUrl": "https://avatars.githubusercontent.com/u/17604010?u=ad4335997d1afc96665495de69e919f655176f8f&v=4",
         "url": "https://github.com/jasineri"
+    },
+    {
+        "login": "wz930206",
+        "name": "wu zhao",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/37261842?u=9196af37ebd4a70dbd11282bf0f3340a7fde7468&v=4",
+        "url": "https://github.com/wz930206"
+    },
+    {
+        "login": "vwr3600",
+        "name": "berryz beta",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/13810035?u=216d542562463594f4c5673c0ce6eae25791de42&v=4",
+        "url": "https://github.com/vwr3600"
+    },
+    {
+        "login": "Lay0us1",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/99304369?u=2b5db904cc7a99041aca57818f8d82c99394c5aa&v=4",
+        "url": "https://github.com/Lay0us1"
+    },
+    {
+        "login": "kiwiflydream",
+        "name": "KIWI",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/13311001?u=b6150b86476699210af51884ccc5c69ad7d7b5db&v=4",
+        "url": "https://github.com/kiwiflydream"
+    },
+    {
+        "login": "happyhacking123",
+        "name": "happyhacking",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40079061?u=4b2326223d826abf84c177a19ad9543af4625fd9&v=4",
+        "url": "https://github.com/happyhacking123"
+    },
+    {
+        "login": "JZU5q2",
+        "name": "JZU5q2",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/41297816?u=9edfbbea3b6866cd1da6fa646fed5d0b4f5edcf1&v=4",
+        "url": "https://github.com/JZU5q2"
+    },
+    {
+        "login": "A403",
+        "name": "A403",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/59276674?u=491cbe8b47e85af51843c4ad99189f39d24018b8&v=4",
+        "url": "https://github.com/A403"
+    },
+    {
+        "login": "chennqqi",
+        "name": "chennqqi",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5073720?u=afbe97323e0b657861ecf8c6a8ad197189db9429&v=4",
+        "url": "https://github.com/chennqqi"
+    },
+    {
+        "login": "wwl012345",
+        "name": "Wh0isR00T",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53456907?u=136c04781352a8d81e3ef6b99468c2f9de1424fa&v=4",
+        "url": "https://github.com/wwl012345"
+    },
+    {
+        "login": "Serin26",
+        "name": "Hello World",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/32117409?u=e468c9729a765ce850dba59e553653206a4825cc&v=4",
+        "url": "https://github.com/Serin26"
     }
 ]
