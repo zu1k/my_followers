@@ -2582,7 +2582,7 @@
     {
         "login": "un4ckn0wl3z",
         "name": "Anu\u0337w\u00e5t",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/16059320?u=5541e57323eeddd16f9913738c1384e4b7dc99b0&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16059320?u=0a515bc415ba9cd272b865e32e351edf45aedc0f&v=4",
         "url": "https://github.com/un4ckn0wl3z"
     },
     {
@@ -5496,12 +5496,6 @@
         "url": "https://github.com/Godsent92"
     },
     {
-        "login": "cn-kali-team",
-        "name": "\u4e09\u7c73\u524d\u6709\u8549\u76ae",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/30642514?u=1d1f9f4aebf7fc2b32baac7be705222b66bc5ae9&v=4",
-        "url": "https://github.com/cn-kali-team"
-    },
-    {
         "login": "SuperDong",
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/34377884?v=4",
@@ -5642,7 +5636,7 @@
     {
         "login": "OkamiMks",
         "name": "Okami \u30c1\u30e0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=656e4d687b18749baa99e5de48928ac8cee863c5&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=1335aa1e36b21333e886dc362d6c9a3fe438a4ae&v=4",
         "url": "https://github.com/OkamiMks"
     },
     {
@@ -7684,5 +7678,17 @@
         "name": "buzai",
         "avatarUrl": "https://avatars.githubusercontent.com/u/12568747?u=a7a43863e8629cbe1ca357a8c3922cf91ae050f1&v=4",
         "url": "https://github.com/buzai"
+    },
+    {
+        "login": "a496127282",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51961044?u=c3654de74608986e6770920243e65cf412e7a31e&v=4",
+        "url": "https://github.com/a496127282"
+    },
+    {
+        "login": "codealphago",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23433416?u=ef4c94a2bfe1c95656f55140819225987417f5c0&v=4",
+        "url": "https://github.com/codealphago"
     }
 ]
