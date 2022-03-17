@@ -5636,7 +5636,7 @@
     {
         "login": "OkamiMks",
         "name": "Okami \u30c1\u30e0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=1335aa1e36b21333e886dc362d6c9a3fe438a4ae&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=738f533901db1d83f925c20e417e8d2ddf36f9ba&v=4",
         "url": "https://github.com/OkamiMks"
     },
     {
@@ -7690,5 +7690,29 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/23433416?u=ef4c94a2bfe1c95656f55140819225987417f5c0&v=4",
         "url": "https://github.com/codealphago"
+    },
+    {
+        "login": "share007",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30823659?v=4",
+        "url": "https://github.com/share007"
+    },
+    {
+        "login": "develon2015",
+        "name": "Develon",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/27133157?u=7fe5e89aa2ae654041aba62808f0e07da3ddc74f&v=4",
+        "url": "https://github.com/develon2015"
+    },
+    {
+        "login": "Gy-Hu",
+        "name": "Gary Hu",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43922980?u=31cd5f4e9d812fec6a2cef0224716d23170eff94&v=4",
+        "url": "https://github.com/Gy-Hu"
+    },
+    {
+        "login": "1260277330",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49123735?v=4",
+        "url": "https://github.com/1260277330"
     }
 ]
