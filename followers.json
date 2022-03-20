@@ -4808,7 +4808,7 @@
     {
         "login": "dp0d",
         "name": "Oliver",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/54127793?u=ec816a8277e3b1cc8e5e751ec07a2b693d6344f6&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54127793?u=18b00eb2e270e3022d22c49a868c1f0f8cabd1cb&v=4",
         "url": "https://github.com/dp0d"
     },
     {
@@ -7135,7 +7135,7 @@
     },
     {
         "login": "KIDZLX",
-        "name": "\u671d\u95fb\u9053",
+        "name": "KID",
         "avatarUrl": "https://avatars.githubusercontent.com/u/43517412?u=5fdcce46f18a928a10d8fa0b4d1a730b459ffabd&v=4",
         "url": "https://github.com/KIDZLX"
     },
@@ -7744,5 +7744,11 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/5519532?v=4",
         "url": "https://github.com/jacklon"
+    },
+    {
+        "login": "catosu",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/101029875?v=4",
+        "url": "https://github.com/catosu"
     }
 ]
