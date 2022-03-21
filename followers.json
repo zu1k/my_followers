@@ -2490,10 +2490,10 @@
         "url": "https://github.com/huiyuan2001cn"
     },
     {
-        "login": "XTpeeps",
-        "name": "XT",
+        "login": "x7peeps",
+        "name": "X7",
         "avatarUrl": "https://avatars.githubusercontent.com/u/9640837?u=b2ea775ed12396b286f29a09337bb62b7f061bc4&v=4",
-        "url": "https://github.com/XTpeeps"
+        "url": "https://github.com/x7peeps"
     },
     {
         "login": "zhyong68",
@@ -6306,10 +6306,10 @@
         "url": "https://github.com/jokergaming"
     },
     {
-        "login": "kakarotx2018",
-        "name": "kaka",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/42664193?u=af89ba8ddd0c2d6ca13b36bd65e94cf93c0cb823&v=4",
-        "url": "https://github.com/kakarotx2018"
+        "login": "dajisiyyds",
+        "name": "\u5927\u796d\u53f8",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42664193?u=60706033adceb98cb0d2de6630006f1ddb974d38&v=4",
+        "url": "https://github.com/dajisiyyds"
     },
     {
         "login": "zhimiyouwu33",
@@ -6320,7 +6320,7 @@
     {
         "login": "K0uaz",
         "name": "\u4e91\u5f71",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/32475005?u=84d16074244fd907882d3a007bc70b7ee1197e36&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/32475005?u=e807f7d5c30b96ab57dbec6a79ce7b6ace3762f7&v=4",
         "url": "https://github.com/K0uaz"
     },
     {
@@ -7750,5 +7750,23 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/101029875?v=4",
         "url": "https://github.com/catosu"
+    },
+    {
+        "login": "m1crofan",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96855680?u=26f2add83d9e6d8aeb87a8e3016018eec0783e60&v=4",
+        "url": "https://github.com/m1crofan"
+    },
+    {
+        "login": "wuziwei",
+        "name": "sleepywzw",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35966556?v=4",
+        "url": "https://github.com/wuziwei"
+    },
+    {
+        "login": "chrislouis0106",
+        "name": "chris",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31423097?v=4",
+        "url": "https://github.com/chrislouis0106"
     }
 ]
