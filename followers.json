@@ -7768,5 +7768,17 @@
         "name": "chris",
         "avatarUrl": "https://avatars.githubusercontent.com/u/31423097?v=4",
         "url": "https://github.com/chrislouis0106"
+    },
+    {
+        "login": "eat4toast",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/98031688?v=4",
+        "url": "https://github.com/eat4toast"
+    },
+    {
+        "login": "vampire-lab",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57279424?v=4",
+        "url": "https://github.com/vampire-lab"
     }
 ]
