@@ -3836,7 +3836,7 @@
     {
         "login": "For3stCo1d",
         "name": "\u6797\u5bd2",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/57119052?u=2e20170753b044f59dba18af741d0e0b470fcae8&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57119052?u=16233321db1da30b742877e7f0cfd8fbfc50bb27&v=4",
         "url": "https://github.com/For3stCo1d"
     },
     {
@@ -5636,7 +5636,7 @@
     {
         "login": "OkamiMks",
         "name": "Okami \u30c1\u30e0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=738f533901db1d83f925c20e417e8d2ddf36f9ba&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=db66c841aa2a13a69cf1508e2739289f8a19748e&v=4",
         "url": "https://github.com/OkamiMks"
     },
     {
@@ -7780,5 +7780,11 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/57279424?v=4",
         "url": "https://github.com/vampire-lab"
+    },
+    {
+        "login": "hayeslam",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/4018271?v=4",
+        "url": "https://github.com/hayeslam"
     }
 ]
