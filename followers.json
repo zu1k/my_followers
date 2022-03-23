@@ -2582,7 +2582,7 @@
     {
         "login": "un4ckn0wl3z",
         "name": "Anu\u0337w\u00e5t",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/16059320?u=0a515bc415ba9cd272b865e32e351edf45aedc0f&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16059320?u=feba670202230a07947ab5ebc472d1ab48a4252a&v=4",
         "url": "https://github.com/un4ckn0wl3z"
     },
     {
@@ -7786,5 +7786,35 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/4018271?v=4",
         "url": "https://github.com/hayeslam"
+    },
+    {
+        "login": "danielhelloworld",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/92640078?v=4",
+        "url": "https://github.com/danielhelloworld"
+    },
+    {
+        "login": "curiousleer",
+        "name": "Simon Lee",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12377073?v=4",
+        "url": "https://github.com/curiousleer"
+    },
+    {
+        "login": "HczChn",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90227716?v=4",
+        "url": "https://github.com/HczChn"
+    },
+    {
+        "login": "f4x-safe",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43954740?v=4",
+        "url": "https://github.com/f4x-safe"
+    },
+    {
+        "login": "limintara",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49082806?v=4",
+        "url": "https://github.com/limintara"
     }
 ]
