@@ -6224,7 +6224,7 @@
     {
         "login": "leiless",
         "name": "Fishbone\u00b0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/38041294?u=79f399009b0e202616b64d1e0b536fd02738358c&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/38041294?u=29803e9ec83eb455a3c6f54c59c62f9396d45e57&v=4",
         "url": "https://github.com/leiless"
     },
     {
@@ -7846,5 +7846,23 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/97133617?v=4",
         "url": "https://github.com/bug0321"
+    },
+    {
+        "login": "DaxiaSec",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/102129762?v=4",
+        "url": "https://github.com/DaxiaSec"
+    },
+    {
+        "login": "jaspermalik",
+        "name": "JasperMalik",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17902671?u=d4654f04745a71d9a003ab213bd36c9b579e165c&v=4",
+        "url": "https://github.com/jaspermalik"
+    },
+    {
+        "login": "qianxiaohao",
+        "name": "\u53eb\u5565\u540d\u5b57\u597d",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45895996?v=4",
+        "url": "https://github.com/qianxiaohao"
     }
 ]
