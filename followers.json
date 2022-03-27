@@ -1634,7 +1634,7 @@
     {
         "login": "h0nus",
         "name": "h0nus",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/23401728?u=dc97056d8f5e9ea8bc3766be25630d6812a312a5&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23401728?u=bd38420094926163467632bfa9d426983a19b8be&v=4",
         "url": "https://github.com/h0nus"
     },
     {
@@ -4086,10 +4086,10 @@
         "url": "https://github.com/woow-wu7"
     },
     {
-        "login": "Jiew-KuieJwiang",
-        "name": null,
+        "login": "Jiew-KueJwiaeng",
+        "name": "\u59da\u59ab\u988d",
         "avatarUrl": "https://avatars.githubusercontent.com/u/73825939?v=4",
-        "url": "https://github.com/Jiew-KuieJwiang"
+        "url": "https://github.com/Jiew-KueJwiaeng"
     },
     {
         "login": "61peng",
@@ -7864,5 +7864,11 @@
         "name": "\u53eb\u5565\u540d\u5b57\u597d",
         "avatarUrl": "https://avatars.githubusercontent.com/u/45895996?v=4",
         "url": "https://github.com/qianxiaohao"
+    },
+    {
+        "login": "kingcanfish",
+        "name": "\u9752\u6728",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43931057?u=46086b8180bb0e7d1e4a05939b3c58c2b13d9fd3&v=4",
+        "url": "https://github.com/kingcanfish"
     }
 ]
