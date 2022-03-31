@@ -3805,7 +3805,7 @@
     },
     {
         "login": "Sugar-Coder",
-        "name": "Victor",
+        "name": "Jinyang Shao",
         "avatarUrl": "https://avatars.githubusercontent.com/u/46956540?u=5cd6720bb0ceee9219b53d3583b72b65e7991c7c&v=4",
         "url": "https://github.com/Sugar-Coder"
     },
@@ -4171,7 +4171,7 @@
     },
     {
         "login": "wangyigui",
-        "name": null,
+        "name": "wunanxing",
         "avatarUrl": "https://avatars.githubusercontent.com/u/43491384?u=7933b95a306833d3908e012b54acdcb0b339ea7d&v=4",
         "url": "https://github.com/wangyigui"
     },
@@ -7918,5 +7918,17 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/51162150?v=4",
         "url": "https://github.com/Project-Rin"
+    },
+    {
+        "login": "drdaliang",
+        "name": "Zhiyu Yang",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12724762?u=83dc445c77f3232ad9eda2d04a263ebbe2782a85&v=4",
+        "url": "https://github.com/drdaliang"
+    },
+    {
+        "login": "Swords2",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/94677548?v=4",
+        "url": "https://github.com/Swords2"
     }
 ]
