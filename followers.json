@@ -1400,7 +1400,7 @@
     {
         "login": "gh0stkey",
         "name": "\u1d0b\u1d07\u028f",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/24655118?u=cd5eecb7e1ef11226e235895e52df78c7c0fc8b1&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/24655118?u=18f67cc50571371a5396570db95350e593b84aff&v=4",
         "url": "https://github.com/gh0stkey"
     },
     {
@@ -3836,7 +3836,7 @@
     {
         "login": "For3stCo1d",
         "name": "\u6797\u5bd2",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/57119052?u=16233321db1da30b742877e7f0cfd8fbfc50bb27&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57119052?u=bc7aa8f3a24e7ff3460649e41fdb3bb62e83ffb0&v=4",
         "url": "https://github.com/For3stCo1d"
     },
     {
@@ -7942,5 +7942,29 @@
         "name": "yym68686",
         "avatarUrl": "https://avatars.githubusercontent.com/u/31803242?u=696ac47a18e38abce33ba0bb61015ad0f65ec329&v=4",
         "url": "https://github.com/yym68686"
+    },
+    {
+        "login": "Darylsaxton",
+        "name": "Daryl",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63181242?v=4",
+        "url": "https://github.com/Darylsaxton"
+    },
+    {
+        "login": "c0urag1",
+        "name": "courage",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56526282?u=e527097f6f9a4d443bea9dad5ddc957b81522170&v=4",
+        "url": "https://github.com/c0urag1"
+    },
+    {
+        "login": "fsq190818",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57343412?v=4",
+        "url": "https://github.com/fsq190818"
+    },
+    {
+        "login": "Kesk0",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/77038052?u=344f838adddd5c03618efef62a245826656cba8d&v=4",
+        "url": "https://github.com/Kesk0"
     }
 ]
