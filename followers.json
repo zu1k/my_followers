@@ -3163,7 +3163,7 @@
     },
     {
         "login": "d1y",
-        "name": null,
+        "name": "\u9f99\u99a8\u7af9",
         "avatarUrl": "https://avatars.githubusercontent.com/u/45585937?u=6cc351367ce67cc92dc25a53421af35733f65d2c&v=4",
         "url": "https://github.com/d1y"
     },
@@ -5341,7 +5341,7 @@
     },
     {
         "login": "ggssh",
-        "name": null,
+        "name": "big waste",
         "avatarUrl": "https://avatars.githubusercontent.com/u/55895271?u=ac1943589f88e95e8872c1cbb44b7ea35b4e8f58&v=4",
         "url": "https://github.com/ggssh"
     },
@@ -6842,7 +6842,7 @@
     {
         "login": "Nthily",
         "name": "Nthily",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=c711343c895dde3b9f688ce31533d44089f153ee&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=768cc849218d648768281fc9f4f4e6d911d6534f&v=4",
         "url": "https://github.com/Nthily"
     },
     {
@@ -7596,12 +7596,6 @@
         "url": "https://github.com/onesecurity"
     },
     {
-        "login": "jasineri",
-        "name": "Nerijus Jasinskas",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/17604010?u=ad4335997d1afc96665495de69e919f655176f8f&v=4",
-        "url": "https://github.com/jasineri"
-    },
-    {
         "login": "wz930206",
         "name": "wu zhao",
         "avatarUrl": "https://avatars.githubusercontent.com/u/37261842?u=9196af37ebd4a70dbd11282bf0f3340a7fde7468&v=4",
@@ -8284,5 +8278,71 @@
         "name": "allenyu",
         "avatarUrl": "https://avatars.githubusercontent.com/u/7732447?u=59584e34ce99740e10fa4cc567d7de835c803c81&v=4",
         "url": "https://github.com/AllenYu0118"
+    },
+    {
+        "login": "crazylxr",
+        "name": "lxr",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16161407?u=e316135d62ea5875ee2899b8d0af13dcdd4a94e0&v=4",
+        "url": "https://github.com/crazylxr"
+    },
+    {
+        "login": "LinXunFeng",
+        "name": "\u6797\u6d35\u950b",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/19367531?u=50f180a9aead4aaf6b0eeba3ec83ea336416bf14&v=4",
+        "url": "https://github.com/LinXunFeng"
+    },
+    {
+        "login": "xiamuguizhi",
+        "name": "\u590f\u76ee\u8d35\u5fd7",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/19650297?u=276f89095e3d4397e07d210ef0ee0db2e2894e53&v=4",
+        "url": "https://github.com/xiamuguizhi"
+    },
+    {
+        "login": "SkyMing1024",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16987954?u=f2abe7fa9acc57406c6a5e1c06da000ad86a8893&v=4",
+        "url": "https://github.com/SkyMing1024"
+    },
+    {
+        "login": "solstice23",
+        "name": "solstice23",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23134847?u=df9867c64f5d7dc011111208353ea7ed24f96f56&v=4",
+        "url": "https://github.com/solstice23"
+    },
+    {
+        "login": "lbr77",
+        "name": "Borui Li",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53066066?v=4",
+        "url": "https://github.com/lbr77"
+    },
+    {
+        "login": "CoelacanthusHex",
+        "name": "Coelacanthus",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43064781?u=3cf564993a40a3d0b36e421909da9b10f9b0bc92&v=4",
+        "url": "https://github.com/CoelacanthusHex"
+    },
+    {
+        "login": "haukeng",
+        "name": "Haukeng",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/93363611?u=d9ef9d3f0dd9e7f070532854c33991df04b71f80&v=4",
+        "url": "https://github.com/haukeng"
+    },
+    {
+        "login": "funny-lee",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/77663964?u=6b9ccd15bc9ee90b3a9a7eff0e7856af6d8f453e&v=4",
+        "url": "https://github.com/funny-lee"
+    },
+    {
+        "login": "NatsuGaOwatta",
+        "name": "\u521d\u4e5f.",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/68507149?u=1c564711adf9706d0c5293cd60b0721c291dd201&v=4",
+        "url": "https://github.com/NatsuGaOwatta"
+    },
+    {
+        "login": "bqeek",
+        "name": "Bangqi Cao",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47022305?u=c3b3543e024f93f6e53e4c535b1e95886e54e75d&v=4",
+        "url": "https://github.com/bqeek"
     }
 ]
