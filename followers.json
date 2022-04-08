@@ -7620,10 +7620,10 @@
         "url": "https://github.com/kiwiflydream"
     },
     {
-        "login": "happyhacking123",
+        "login": "happyhacking-k",
         "name": "happyhacking_k",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/40079061?u=4b2326223d826abf84c177a19ad9543af4625fd9&v=4",
-        "url": "https://github.com/happyhacking123"
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40079061?u=08e5badc210bc8410395158d262cc66de5aae71d&v=4",
+        "url": "https://github.com/happyhacking-k"
     },
     {
         "login": "JZU5q2",
@@ -8980,5 +8980,17 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/45278594?u=13fcd1502e2497c3f2ae5a4398868e7f5c6e68d1&v=4",
         "url": "https://github.com/tangerl"
+    },
+    {
+        "login": "octigha",
+        "name": "sslu",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/50577823?u=9a0c713d866984d1583a498d57ff834e22997a29&v=4",
+        "url": "https://github.com/octigha"
+    },
+    {
+        "login": "andatoshiki",
+        "name": "Anda Toshiki",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/101481353?u=567ff71c3243ed979a3ab2dd1806faa319ebdbbb&v=4",
+        "url": "https://github.com/andatoshiki"
     }
 ]
