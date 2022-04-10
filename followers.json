@@ -3151,7 +3151,7 @@
     },
     {
         "login": "xidaner",
-        "name": "XiDanEr",
+        "name": "X1DanE2",
         "avatarUrl": "https://avatars.githubusercontent.com/u/52145536?u=182b3c8b3540e86605207e0279ba85c3058cf3dd&v=4",
         "url": "https://github.com/xidaner"
     },
@@ -9124,5 +9124,35 @@
         "name": "EthanShen",
         "avatarUrl": "https://avatars.githubusercontent.com/u/47592704?u=f5582419248630c4d5fd4d447894eb793f910746&v=4",
         "url": "https://github.com/EthanShen10086"
+    },
+    {
+        "login": "LypGitHub",
+        "name": "\u6d41\u6d6a\u4eba",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18143450?u=1e6f30fb63e556ee49aa68b5144626729035aaf3&v=4",
+        "url": "https://github.com/LypGitHub"
+    },
+    {
+        "login": "Litch1-v",
+        "name": "Litchi",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/32562186?u=b3816594035b37cbc7274e72a5effda4410923fc&v=4",
+        "url": "https://github.com/Litch1-v"
+    },
+    {
+        "login": "AlanRayburn",
+        "name": "AlanRayburn",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46223530?u=454e2051fa870d3c2ce69c04883a6144b2353197&v=4",
+        "url": "https://github.com/AlanRayburn"
+    },
+    {
+        "login": "crisprss",
+        "name": "Crispr ",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55953931?u=f3b559114914673123a1709823eaf76ea3561d73&v=4",
+        "url": "https://github.com/crisprss"
+    },
+    {
+        "login": "zhangyuncheng",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17986642?v=4",
+        "url": "https://github.com/zhangyuncheng"
     }
 ]
