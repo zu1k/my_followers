@@ -9162,12 +9162,6 @@
         "url": "https://github.com/monsterhxw"
     },
     {
-        "login": "NiceSeven",
-        "name": "0xFF",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/45738057?v=4",
-        "url": "https://github.com/NiceSeven"
-    },
-    {
         "login": "biepin7",
         "name": "\u522b\u5ad4",
         "avatarUrl": "https://avatars.githubusercontent.com/u/53242125?u=f608d93824315c981fc01f1fed6a5b42e7f8bfbd&v=4",
@@ -9190,5 +9184,29 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/88916001?v=4",
         "url": "https://github.com/z10mx7"
+    },
+    {
+        "login": "zingdle",
+        "name": "Jiading Guo",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31171119?u=968eee1c7a95e5b8a116eb5807aeeef13f57b6f0&v=4",
+        "url": "https://github.com/zingdle"
+    },
+    {
+        "login": "NiceSeven",
+        "name": "0xFF",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45738057?v=4",
+        "url": "https://github.com/NiceSeven"
+    },
+    {
+        "login": "shadowsock5",
+        "name": "shadowsock5",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30398606?v=4",
+        "url": "https://github.com/shadowsock5"
+    },
+    {
+        "login": "crazy0x70",
+        "name": "\u83dc\u9e1f",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/85382711?u=0ca6706df7eea7caddeaf5079ad277ac6412c918&v=4",
+        "url": "https://github.com/crazy0x70"
     }
 ]
