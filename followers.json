@@ -2185,7 +2185,7 @@
     },
     {
         "login": "M1k0er",
-        "name": "m1k0er",
+        "name": "M1k0er",
         "avatarUrl": "https://avatars.githubusercontent.com/u/18186758?u=b5b839236216bee2c4165e4b9cdaca666336b5e7&v=4",
         "url": "https://github.com/M1k0er"
     },
@@ -5222,7 +5222,7 @@
     {
         "login": "99bwhat",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/81715743?v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81715743?u=3cd0eb1e06a7cb7ed9a54a0f9c90e593f41197c6&v=4",
         "url": "https://github.com/99bwhat"
     },
     {
@@ -7370,7 +7370,7 @@
     {
         "login": "wwhai",
         "name": "wwhai",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/20577297?u=2e554d746001b7366608e9d18291b9d8e917bea6&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20577297?u=bc0ea30b2b0606a9bbc991e5a7e5cc60590398f3&v=4",
         "url": "https://github.com/wwhai"
     },
     {
@@ -9244,5 +9244,17 @@
         "name": "Adminxe",
         "avatarUrl": "https://avatars.githubusercontent.com/u/55630958?u=e212f379ea3a643b7c43431a505cbe94da776f72&v=4",
         "url": "https://github.com/Adminxe"
+    },
+    {
+        "login": "thinkinghere",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44504696?u=8e91ca1099ff7ddd981d7703270f90402c99c8f4&v=4",
+        "url": "https://github.com/thinkinghere"
+    },
+    {
+        "login": "willsho",
+        "name": "Will Wang",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/15623414?v=4",
+        "url": "https://github.com/willsho"
     }
 ]
