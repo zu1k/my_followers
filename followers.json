@@ -4554,10 +4554,10 @@
         "url": "https://github.com/dyl131742"
     },
     {
-        "login": "hzzeason",
-        "name": null,
+        "login": "hzzheyang",
+        "name": "hzzheyang",
         "avatarUrl": "https://avatars.githubusercontent.com/u/11496030?v=4",
-        "url": "https://github.com/hzzeason"
+        "url": "https://github.com/hzzheyang"
     },
     {
         "login": "hzr1791577934",
@@ -5496,6 +5496,12 @@
         "url": "https://github.com/Godsent92"
     },
     {
+        "login": "cn-kali-team",
+        "name": "\u4e09\u7c73\u524d\u6709\u8549\u76ae",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30642514?u=1d1f9f4aebf7fc2b32baac7be705222b66bc5ae9&v=4",
+        "url": "https://github.com/cn-kali-team"
+    },
+    {
         "login": "SuperDong",
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/34377884?v=4",
@@ -5636,7 +5642,7 @@
     {
         "login": "OkamiMks",
         "name": "Okami \u30c1\u30e0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=db66c841aa2a13a69cf1508e2739289f8a19748e&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=1a7e8a2fbd20c927e991cc0663f4da3be561c87d&v=4",
         "url": "https://github.com/OkamiMks"
     },
     {
@@ -9268,5 +9274,35 @@
         "name": "rerange",
         "avatarUrl": "https://avatars.githubusercontent.com/u/78526012?u=96f1fbf4d246dacccf51225b80d732a06099c672&v=4",
         "url": "https://github.com/Quandong-Zhang"
+    },
+    {
+        "login": "Jan-xao",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52351872?u=a817c1907de789861ec02e6c96ee45985d06df86&v=4",
+        "url": "https://github.com/Jan-xao"
+    },
+    {
+        "login": "cave-",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2154427?u=c12c2585d9514e6543f3a593ffe1e8d7f63e33d6&v=4",
+        "url": "https://github.com/cave-"
+    },
+    {
+        "login": "Yu3H0",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/82574337?u=be475a75c3f631595ee9a0e7e26aac398d0a7017&v=4",
+        "url": "https://github.com/Yu3H0"
+    },
+    {
+        "login": "hackerfollower",
+        "name": "Lance Lee",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1174259?u=e2c17a4eebc69f0b7b68f51126166258fb79e2d7&v=4",
+        "url": "https://github.com/hackerfollower"
+    },
+    {
+        "login": "chenhaozhou",
+        "name": "\u9648\u6d69\u5dde",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/59969135?v=4",
+        "url": "https://github.com/chenhaozhou"
     }
 ]
