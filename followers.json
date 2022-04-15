@@ -4224,10 +4224,10 @@
         "url": "https://github.com/olist213"
     },
     {
-        "login": "J0eke",
+        "login": "G0uZ1",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/89082700?v=4",
-        "url": "https://github.com/J0eke"
+        "avatarUrl": "https://avatars.githubusercontent.com/u/89082700?u=748042dd6a106c2bb099cb2082c82ee419831c32&v=4",
+        "url": "https://github.com/G0uZ1"
     },
     {
         "login": "368573607",
@@ -4303,7 +4303,7 @@
     },
     {
         "login": "Spambustas",
-        "name": null,
+        "name": "EvilCorpHacker",
         "avatarUrl": "https://avatars.githubusercontent.com/u/55084779?v=4",
         "url": "https://github.com/Spambustas"
     },
@@ -7376,7 +7376,7 @@
     {
         "login": "wwhai",
         "name": "wwhai",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/20577297?u=bc0ea30b2b0606a9bbc991e5a7e5cc60590398f3&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20577297?u=2b4957f17d0212ce3c8644286c0bde80ba5c89c4&v=4",
         "url": "https://github.com/wwhai"
     },
     {
@@ -9406,5 +9406,23 @@
         "name": "Zong",
         "avatarUrl": "https://avatars.githubusercontent.com/u/22429236?u=8952846ab56b0f9279c9373b7dd733ae3b488150&v=4",
         "url": "https://github.com/zongzi531"
+    },
+    {
+        "login": "gpsbird",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/9528059?v=4",
+        "url": "https://github.com/gpsbird"
+    },
+    {
+        "login": "ironmole666",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/77827615?v=4",
+        "url": "https://github.com/ironmole666"
+    },
+    {
+        "login": "Risuntsy",
+        "name": "Risun",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/79560036?u=de0c9808cbe18c42f6a456bfb7ffe7e71c9407e3&v=4",
+        "url": "https://github.com/Risuntsy"
     }
 ]
