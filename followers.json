@@ -5642,7 +5642,7 @@
     {
         "login": "OkamiMks",
         "name": "Okami \u30c1\u30e0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=1a7e8a2fbd20c927e991cc0663f4da3be561c87d&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=c0e915fab65ba549982d8b751a5f0bbb024b6dd1&v=4",
         "url": "https://github.com/OkamiMks"
     },
     {
@@ -8263,7 +8263,7 @@
     },
     {
         "login": "L3au",
-        "name": "Ben Liu",
+        "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/830732?u=3404d508c9cbc51886bb7d660118a37e6ae293c5&v=4",
         "url": "https://github.com/L3au"
     },
@@ -9424,5 +9424,23 @@
         "name": "Risun",
         "avatarUrl": "https://avatars.githubusercontent.com/u/79560036?u=de0c9808cbe18c42f6a456bfb7ffe7e71c9407e3&v=4",
         "url": "https://github.com/Risuntsy"
+    },
+    {
+        "login": "AnJT",
+        "name": "\u756a\u8304\u7092\u9e21\u86cb",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57489474?u=be6bb7eee22badfe5e7dad395b30cb7688eaf696&v=4",
+        "url": "https://github.com/AnJT"
+    },
+    {
+        "login": "MountPOTATO",
+        "name": "Kaixin Chen",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55170303?u=4180b5a8575ae801fd2b40d71cc2bc9e9b67df98&v=4",
+        "url": "https://github.com/MountPOTATO"
+    },
+    {
+        "login": "jwyjohn",
+        "name": "Wenyuan Jiang",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10951449?u=7e65436eded6bf41620d14fabe15bda22d8345af&v=4",
+        "url": "https://github.com/jwyjohn"
     }
 ]
