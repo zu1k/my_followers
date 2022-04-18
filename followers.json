@@ -5642,7 +5642,7 @@
     {
         "login": "OkamiMks",
         "name": "Okami \u30c1\u30e0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=c0e915fab65ba549982d8b751a5f0bbb024b6dd1&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=26f23cbf87e9e5a2b699324ed7b4c87d62a9d2e1&v=4",
         "url": "https://github.com/OkamiMks"
     },
     {
@@ -8264,7 +8264,7 @@
     {
         "login": "L3au",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/830732?u=3404d508c9cbc51886bb7d660118a37e6ae293c5&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/830732?u=8c414fe479664c55f43240ac4fed499f077693a9&v=4",
         "url": "https://github.com/L3au"
     },
     {
@@ -9442,5 +9442,11 @@
         "name": "Wenyuan Jiang",
         "avatarUrl": "https://avatars.githubusercontent.com/u/10951449?u=7e65436eded6bf41620d14fabe15bda22d8345af&v=4",
         "url": "https://github.com/jwyjohn"
+    },
+    {
+        "login": "kamikredstone",
+        "name": "Gil Shvarzman",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/92250304?v=4",
+        "url": "https://github.com/kamikredstone"
     }
 ]
