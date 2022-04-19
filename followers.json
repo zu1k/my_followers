@@ -2773,7 +2773,7 @@
     },
     {
         "login": "hqy2088",
-        "name": "Oliver Hou",
+        "name": "Hou",
         "avatarUrl": "https://avatars.githubusercontent.com/u/48686956?u=50902083a0f00c7dc0e503d9ba5980da0810498e&v=4",
         "url": "https://github.com/hqy2088"
     },
@@ -4207,7 +4207,7 @@
     },
     {
         "login": "safe6Sec",
-        "name": "safe6Sec",
+        "name": "safe6",
         "avatarUrl": "https://avatars.githubusercontent.com/u/26316334?u=4087d3ff16d9868d4af580b9925578370e32a789&v=4",
         "url": "https://github.com/safe6Sec"
     },
@@ -7933,7 +7933,7 @@
     },
     {
         "login": "liansweb",
-        "name": "arp",
+        "name": "dreamSs",
         "avatarUrl": "https://avatars.githubusercontent.com/u/97089510?u=2d3745cc087cca3a2f3337ae2890f3459e95406b&v=4",
         "url": "https://github.com/liansweb"
     },
@@ -8996,7 +8996,7 @@
     {
         "login": "andatoshiki",
         "name": "Anda Toshiki",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/101481353?u=567ff71c3243ed979a3ab2dd1806faa319ebdbbb&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/101481353?u=2ebad99484ac3eb5556fcf847cf510d2b733982a&v=4",
         "url": "https://github.com/andatoshiki"
     },
     {
@@ -9448,5 +9448,29 @@
         "name": "Gil Shvarzman",
         "avatarUrl": "https://avatars.githubusercontent.com/u/92250304?v=4",
         "url": "https://github.com/kamikredstone"
+    },
+    {
+        "login": "yimiyuanxue",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/102893471?v=4",
+        "url": "https://github.com/yimiyuanxue"
+    },
+    {
+        "login": "AmagiDDmxh",
+        "name": "AmagiDDmxh",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/22388514?u=29c4e21563cba31a1496a661da4c956be0ce8625&v=4",
+        "url": "https://github.com/AmagiDDmxh"
+    },
+    {
+        "login": "Georgehu716",
+        "name": "Georgehu",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/26440011?u=b7eb07678fed8cd79db3c62d537c7524deef660f&v=4",
+        "url": "https://github.com/Georgehu716"
+    },
+    {
+        "login": "Brx86",
+        "name": "Ayatale",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44391900?u=42fe28a30cc6a22c58dfe0736ea8ad0e2d87a842&v=4",
+        "url": "https://github.com/Brx86"
     }
 ]
