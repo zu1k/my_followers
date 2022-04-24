@@ -5335,7 +5335,7 @@
     },
     {
         "login": "ggssh",
-        "name": "big waste",
+        "name": "\u72e0\u4eba\u9547\u7684\u4eba\uff5e",
         "avatarUrl": "https://avatars.githubusercontent.com/u/55895271?u=ac1943589f88e95e8872c1cbb44b7ea35b4e8f58&v=4",
         "url": "https://github.com/ggssh"
     },
@@ -6786,10 +6786,10 @@
         "url": "https://github.com/songquanpeng"
     },
     {
-        "login": "Zchary-Ma",
+        "login": "Zachema",
         "name": "Zchary",
         "avatarUrl": "https://avatars.githubusercontent.com/u/57801678?u=b0f64fa6bebd932ee977fb6670fe9c0fda33fa7a&v=4",
-        "url": "https://github.com/Zchary-Ma"
+        "url": "https://github.com/Zachema"
     },
     {
         "login": "indulgeyu",
@@ -7940,7 +7940,7 @@
     {
         "login": "c0urag1",
         "name": "c0urag1",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/56526282?u=40e09039fc4fc6a5816ce0863811105b4f2aa365&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56526282?u=bf29a81e895dc713ff1ccb43724457d90d8ada2f&v=4",
         "url": "https://github.com/c0urag1"
     },
     {
@@ -9550,5 +9550,17 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/103015607?v=4",
         "url": "https://github.com/cwj1024"
+    },
+    {
+        "login": "tomtry610",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5909842?u=2ba315aa2a8d31e46bed4a960839a5a24cd39a10&v=4",
+        "url": "https://github.com/tomtry610"
+    },
+    {
+        "login": "v1nh1shungry",
+        "name": "v1nh1shungry",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/98312435?u=fe6e0ffe4632cd8e9c70cd8eb2640505e9b48f00&v=4",
+        "url": "https://github.com/v1nh1shungry"
     }
 ]
