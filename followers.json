@@ -620,7 +620,7 @@
     {
         "login": "gem-p4trick",
         "name": "p4trickZ",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/40588351?u=ceefc284cb7fb19697da6ba917c0c2073cfb1727&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40588351?u=28e30ec967d46e0684ce53ba4b5b7a0fedae8ed3&v=4",
         "url": "https://github.com/gem-p4trick"
     },
     {
@@ -5335,8 +5335,8 @@
     },
     {
         "login": "ggssh",
-        "name": "\u72e0\u4eba\u9547\u7684\u4eba\uff5e",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/55895271?u=ac1943589f88e95e8872c1cbb44b7ea35b4e8f58&v=4",
+        "name": "henrenzhenderen",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55895271?u=885a8ba5e669b33ddc93a571e11775c59068cb0d&v=4",
         "url": "https://github.com/ggssh"
     },
     {
@@ -5372,7 +5372,7 @@
     {
         "login": "BronnyWang",
         "name": "Bronny",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/43341738?u=0959b78744f55ad0f8a87b4e0ae48a6cbae36c98&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43341738?u=8a6bb320e7a0401ef005d4ca9398e5ad5355bb9e&v=4",
         "url": "https://github.com/BronnyWang"
     },
     {
@@ -8292,10 +8292,10 @@
         "url": "https://github.com/xiamuguizhi"
     },
     {
-        "login": "SkyMing1024",
+        "login": "mingtian1024",
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/16987954?u=f2abe7fa9acc57406c6a5e1c06da000ad86a8893&v=4",
-        "url": "https://github.com/SkyMing1024"
+        "url": "https://github.com/mingtian1024"
     },
     {
         "login": "solstice23",
@@ -8808,10 +8808,10 @@
         "url": "https://github.com/PHPPlay"
     },
     {
-        "login": "RinOrz",
+        "login": "rinorz",
         "name": "\u6e05\u8336",
         "avatarUrl": "https://avatars.githubusercontent.com/u/58068445?u=ec573783d6104ff9d61ae17e7fdf836bd197fd33&v=4",
-        "url": "https://github.com/RinOrz"
+        "url": "https://github.com/rinorz"
     },
     {
         "login": "kalifun",
@@ -9562,5 +9562,29 @@
         "name": "v1nh1shungry",
         "avatarUrl": "https://avatars.githubusercontent.com/u/98312435?u=fe6e0ffe4632cd8e9c70cd8eb2640505e9b48f00&v=4",
         "url": "https://github.com/v1nh1shungry"
+    },
+    {
+        "login": "blastbao",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10666977?v=4",
+        "url": "https://github.com/blastbao"
+    },
+    {
+        "login": "pwnhxl",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/104293903?v=4",
+        "url": "https://github.com/pwnhxl"
+    },
+    {
+        "login": "liuxing-1987",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84753560?v=4",
+        "url": "https://github.com/liuxing-1987"
+    },
+    {
+        "login": "zhwx00",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/97282069?v=4",
+        "url": "https://github.com/zhwx00"
     }
 ]
