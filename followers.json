@@ -6836,7 +6836,7 @@
     {
         "login": "Nthily",
         "name": "Nthily",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=649d95bbf21019ba5a9b152208af830180a56732&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=d63629c9b5a201c0af2259c2c5f2fd4b2274bffe&v=4",
         "url": "https://github.com/Nthily"
     },
     {
@@ -9601,8 +9601,8 @@
     },
     {
         "login": "BlinkingStars",
-        "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/45963858?v=4",
+        "name": "XuShuojie",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45963858?u=62d22b6ec9ae25d1cbb1ae2c77193a0c39fdce59&v=4",
         "url": "https://github.com/BlinkingStars"
     },
     {
@@ -9610,5 +9610,35 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/56866268?v=4",
         "url": "https://github.com/ZXL-github"
+    },
+    {
+        "login": "Wxh16144",
+        "name": "Wuxh",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/32004925?u=1756bf59f926e629b26c68ce20a30470872bb65e&v=4",
+        "url": "https://github.com/Wxh16144"
+    },
+    {
+        "login": "kingdream123",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/14135124?v=4",
+        "url": "https://github.com/kingdream123"
+    },
+    {
+        "login": "tron-robin",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/38208297?u=2c7a7955ae17aed085f52d2252eab5c1601a0107&v=4",
+        "url": "https://github.com/tron-robin"
+    },
+    {
+        "login": "buginote",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17897107?v=4",
+        "url": "https://github.com/buginote"
+    },
+    {
+        "login": "lewis32",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11739161?u=80c6132b739c8967ed61f39e600c26f5c1cf65c0&v=4",
+        "url": "https://github.com/lewis32"
     }
 ]
