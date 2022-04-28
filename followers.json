@@ -4926,12 +4926,6 @@
         "url": "https://github.com/Horace2027"
     },
     {
-        "login": "X1a0day",
-        "name": "Vu1ner",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/47616650?u=bf594ea27c4caa288d0e8e9eb9a51e1779c65ebe&v=4",
-        "url": "https://github.com/X1a0day"
-    },
-    {
         "login": "chengliang8056",
         "name": "ChengL",
         "avatarUrl": "https://avatars.githubusercontent.com/u/85043867?u=81a80dbb41091f8140128cba2d3929c40cd1580d&v=4",
@@ -5712,10 +5706,10 @@
         "url": "https://github.com/defrindr"
     },
     {
-        "login": "0xD3vl",
+        "login": "0x3vl",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/89870344?u=bd91cb7c50b0ee73e0cae6d8179b5a7a09962d5e&v=4",
-        "url": "https://github.com/0xD3vl"
+        "avatarUrl": "https://avatars.githubusercontent.com/u/89870344?u=e6fb159676c3a01359e6d1ea2e55cf0c446c48c5&v=4",
+        "url": "https://github.com/0x3vl"
     },
     {
         "login": "ro0tmylove",
@@ -6836,7 +6830,7 @@
     {
         "login": "Nthily",
         "name": "Nthily",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=d63629c9b5a201c0af2259c2c5f2fd4b2274bffe&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=88a6e896f91b0527469779718981513464761395&v=4",
         "url": "https://github.com/Nthily"
     },
     {
@@ -9640,5 +9634,23 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/11739161?u=80c6132b739c8967ed61f39e600c26f5c1cf65c0&v=4",
         "url": "https://github.com/lewis32"
+    },
+    {
+        "login": "fkpol",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/104475023?v=4",
+        "url": "https://github.com/fkpol"
+    },
+    {
+        "login": "Aphlios",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90774457?v=4",
+        "url": "https://github.com/Aphlios"
+    },
+    {
+        "login": "axh2018",
+        "name": "cherry",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58505743?u=e11fc43a271064357a2118a9935d42a66932f5df&v=4",
+        "url": "https://github.com/axh2018"
     }
 ]
