@@ -1116,10 +1116,10 @@
         "url": "https://github.com/icodeface"
     },
     {
-        "login": "sec-cdg",
-        "name": "sec-cdg",
+        "login": "Sec-9527",
+        "name": "sec9527",
         "avatarUrl": "https://avatars.githubusercontent.com/u/8966746?u=18ae3562122a097936fe109cd54927f872a687b2&v=4",
-        "url": "https://github.com/sec-cdg"
+        "url": "https://github.com/Sec-9527"
     },
     {
         "login": "217cyz",
@@ -8802,10 +8802,10 @@
         "url": "https://github.com/PHPPlay"
     },
     {
-        "login": "rinorz",
+        "login": "chachako",
         "name": "\u6e05\u8336",
         "avatarUrl": "https://avatars.githubusercontent.com/u/58068445?u=ec573783d6104ff9d61ae17e7fdf836bd197fd33&v=4",
-        "url": "https://github.com/rinorz"
+        "url": "https://github.com/chachako"
     },
     {
         "login": "kalifun",
@@ -9652,5 +9652,29 @@
         "name": "cherry",
         "avatarUrl": "https://avatars.githubusercontent.com/u/58505743?u=e11fc43a271064357a2118a9935d42a66932f5df&v=4",
         "url": "https://github.com/axh2018"
+    },
+    {
+        "login": "CaliInn-Li",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40906144?v=4",
+        "url": "https://github.com/CaliInn-Li"
+    },
+    {
+        "login": "Lorde627",
+        "name": "Archie627",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63381047?u=78a360b46eec1d8b4aed0c4d2852d23b0c292e15&v=4",
+        "url": "https://github.com/Lorde627"
+    },
+    {
+        "login": "FateBanzhuan",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67565073?v=4",
+        "url": "https://github.com/FateBanzhuan"
+    },
+    {
+        "login": "IDforHYIT",
+        "name": "IDforHYIT",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/41300598?u=d763ebb76b013cd33b5552c850a044620df1572e&v=4",
+        "url": "https://github.com/IDforHYIT"
     }
 ]
