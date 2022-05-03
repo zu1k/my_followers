@@ -144,10 +144,10 @@
         "url": "https://github.com/maxwell-jun"
     },
     {
-        "login": "SJTUboy",
-        "name": "Angle_He",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/13373715?u=4bf36db936efedffc2ae3d5016c079c5a920b405&v=4",
-        "url": "https://github.com/SJTUboy"
+        "login": "product-think2049",
+        "name": "Benjamin Franklin",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/13373715?u=f98a4e0293a471de4d7ae473cba7cf697b2fb621&v=4",
+        "url": "https://github.com/product-think2049"
     },
     {
         "login": "ju0632",
@@ -8754,12 +8754,6 @@
         "url": "https://github.com/bufsnake"
     },
     {
-        "login": "listenfree",
-        "name": "listenfree",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/21120547?u=12914fa1744d314553c7fb2e6a9660a67f9d4e93&v=4",
-        "url": "https://github.com/listenfree"
-    },
-    {
         "login": "diggzhang",
         "name": "Xingze Zhang",
         "avatarUrl": "https://avatars.githubusercontent.com/u/2420385?u=d89a5a4848476c76a1dc3ebeb065ef8479223e84&v=4",
@@ -9688,5 +9682,17 @@
         "name": "Es Muss Sein",
         "avatarUrl": "https://avatars.githubusercontent.com/u/33059559?u=4e961c6a6d34ca1f14b4bab0369d27a16509a3f3&v=4",
         "url": "https://github.com/EsMussSeinHui"
+    },
+    {
+        "login": "Steve9338",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/104795921?v=4",
+        "url": "https://github.com/Steve9338"
+    },
+    {
+        "login": "vuuzleroma",
+        "name": "Sarah",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95317717?u=c3ba72451cb92f17208fa2b1eaf51a15b00798ea&v=4",
+        "url": "https://github.com/vuuzleroma"
     }
 ]
