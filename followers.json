@@ -2731,7 +2731,7 @@
     },
     {
         "login": "Net-9QdV",
-        "name": "lidia",
+        "name": "Net-9QdV",
         "avatarUrl": "https://avatars.githubusercontent.com/u/45084833?v=4",
         "url": "https://github.com/Net-9QdV"
     },
@@ -6392,7 +6392,7 @@
     {
         "login": "besscroft",
         "name": "besscroft",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/33775809?u=4b288067b68718f8cee6d8fbdcbd95e72c7eaeaf&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33775809?u=9956a411256c907e907b2114c1ea4820232da901&v=4",
         "url": "https://github.com/besscroft"
     },
     {
@@ -9694,5 +9694,17 @@
         "name": "Sarah",
         "avatarUrl": "https://avatars.githubusercontent.com/u/95317717?u=c3ba72451cb92f17208fa2b1eaf51a15b00798ea&v=4",
         "url": "https://github.com/vuuzleroma"
+    },
+    {
+        "login": "ambition927",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70682435?v=4",
+        "url": "https://github.com/ambition927"
+    },
+    {
+        "login": "tx1ee",
+        "name": "tx1ee",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/28696494?u=4c623228243753a5a073796ed9a0f030bea54cd8&v=4",
+        "url": "https://github.com/tx1ee"
     }
 ]
