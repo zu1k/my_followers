@@ -763,7 +763,7 @@
     },
     {
         "login": "langu-sec",
-        "name": "\u84dd\u9aa8",
+        "name": "langu_xyz",
         "avatarUrl": "https://avatars.githubusercontent.com/u/12745454?u=6c944e775840095c4d7247641a80d9b53d9b3f83&v=4",
         "url": "https://github.com/langu-sec"
     },
@@ -3152,7 +3152,7 @@
     {
         "login": "n1f2c3",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/33882395?u=6ee5d10afaafba3b79076ff5302727f4e85c92d6&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33882395?u=1a7e7df21eaa4cd7bc7ea0997c9be82b7ac9153a&v=4",
         "url": "https://github.com/n1f2c3"
     },
     {
@@ -6156,12 +6156,6 @@
         "url": "https://github.com/wzwzaozao"
     },
     {
-        "login": "rockyou",
-        "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/195133?u=0778d12e2120f7e69eaed80c4469668ff16df8e8&v=4",
-        "url": "https://github.com/rockyou"
-    },
-    {
         "login": "pillar",
         "name": "pillar",
         "avatarUrl": "https://avatars.githubusercontent.com/u/156289?u=9766dca148a528d0fe0a7dd5f998ab5d641355f0&v=4",
@@ -7538,7 +7532,7 @@
     {
         "login": "qwert2i",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/2772530?v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2772530?u=62a478e35efd76ea474560ff79240a0ce6ef5c55&v=4",
         "url": "https://github.com/qwert2i"
     },
     {
@@ -9730,5 +9724,29 @@
         "name": "rocketzhang",
         "avatarUrl": "https://avatars.githubusercontent.com/u/11608532?u=2442e1e49bd2e5e1c89e05c107ca1e3e4d4ec018&v=4",
         "url": "https://github.com/yanming-zhang"
+    },
+    {
+        "login": "fni535",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45054692?u=e79d72e64ab95f123e6e55c929585f83d32b5ed1&v=4",
+        "url": "https://github.com/fni535"
+    },
+    {
+        "login": "linbuxiao",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56839018?u=2209021b95dc7bbbdecbd0fab7f8ce9c8113a39b&v=4",
+        "url": "https://github.com/linbuxiao"
+    },
+    {
+        "login": "mast1ren",
+        "name": "masteren",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44404634?u=0ff115c14c7a772dee8c0b661a63eeb10c24b570&v=4",
+        "url": "https://github.com/mast1ren"
+    },
+    {
+        "login": "BenweiWu",
+        "name": "Benwei Wu",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30998077?v=4",
+        "url": "https://github.com/BenweiWu"
     }
 ]
