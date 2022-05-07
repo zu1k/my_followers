@@ -5630,7 +5630,7 @@
     {
         "login": "OkamiMks",
         "name": "Okami \u30c1\u30e0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=26f23cbf87e9e5a2b699324ed7b4c87d62a9d2e1&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=b60dce0827ccf06d8a9c1072b6c334927eeef868&v=4",
         "url": "https://github.com/OkamiMks"
     },
     {
@@ -6512,7 +6512,7 @@
     {
         "login": "Ceris3s",
         "name": "Cerises",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/47936572?u=8a82e2d06b04bcfbde6ef7ee538e9c27929cdab3&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47936572?u=4fb152af635e294c535ceba77af6b50ad09fb081&v=4",
         "url": "https://github.com/Ceris3s"
     },
     {
@@ -6824,7 +6824,7 @@
     {
         "login": "Nthily",
         "name": "Nthily",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=88a6e896f91b0527469779718981513464761395&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=dd6e51db4bad0c49fe121fc16f26d601a8b80545&v=4",
         "url": "https://github.com/Nthily"
     },
     {
@@ -6896,7 +6896,7 @@
     {
         "login": "enochii",
         "name": "Shi Chenghang",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/33364190?u=2a2504f970920a5f57b5c0fa229461a9c0cec745&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33364190?u=83a14b350a3d510c155529fa90adce5456bffa1a&v=4",
         "url": "https://github.com/enochii"
     },
     {
@@ -7531,7 +7531,7 @@
     },
     {
         "login": "qwert2i",
-        "name": null,
+        "name": "Mr Fox",
         "avatarUrl": "https://avatars.githubusercontent.com/u/2772530?u=62a478e35efd76ea474560ff79240a0ce6ef5c55&v=4",
         "url": "https://github.com/qwert2i"
     },
@@ -7656,10 +7656,10 @@
         "url": "https://github.com/codealphago"
     },
     {
-        "login": "share007",
+        "login": "share007008",
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/30823659?v=4",
-        "url": "https://github.com/share007"
+        "url": "https://github.com/share007008"
     },
     {
         "login": "develon2015",
@@ -8960,7 +8960,7 @@
     {
         "login": "andatoshiki",
         "name": "Anda Toshiki",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/101481353?u=2ebad99484ac3eb5556fcf847cf510d2b733982a&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/101481353?u=59d6fcd852f68cde2fe2c9e5d5125d3b9233b167&v=4",
         "url": "https://github.com/andatoshiki"
     },
     {
@@ -9748,5 +9748,53 @@
         "name": "Benwei Wu",
         "avatarUrl": "https://avatars.githubusercontent.com/u/30998077?v=4",
         "url": "https://github.com/BenweiWu"
+    },
+    {
+        "login": "xutianyi1999",
+        "name": "XTY",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31791535?v=4",
+        "url": "https://github.com/xutianyi1999"
+    },
+    {
+        "login": "c4bbage",
+        "name": "c4bbage",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6246158?v=4",
+        "url": "https://github.com/c4bbage"
+    },
+    {
+        "login": "trippup",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67765147?v=4",
+        "url": "https://github.com/trippup"
+    },
+    {
+        "login": "startagain2016",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/24870919?v=4",
+        "url": "https://github.com/startagain2016"
+    },
+    {
+        "login": "foolb",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/26821939?u=b6d078fc0b8ef1f309dec9a184963100a82d8fa0&v=4",
+        "url": "https://github.com/foolb"
+    },
+    {
+        "login": "gngpp",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51810656?u=2ef271cd2cbaaaa7fe4e93418d42ee06fbdc4598&v=4",
+        "url": "https://github.com/gngpp"
+    },
+    {
+        "login": "zhuweijin",
+        "name": "Justin",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2434681?v=4",
+        "url": "https://github.com/zhuweijin"
+    },
+    {
+        "login": "waderwu",
+        "name": "yxxx",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/22170978?v=4",
+        "url": "https://github.com/waderwu"
     }
 ]
