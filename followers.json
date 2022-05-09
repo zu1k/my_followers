@@ -3356,7 +3356,7 @@
     {
         "login": "andmeics",
         "name": "Callisthenes Don",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/82715226?v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/82715226?u=3738e090f6edf1b346b44c20ada39c14ae3979a6&v=4",
         "url": "https://github.com/andmeics"
     },
     {
@@ -3756,10 +3756,10 @@
         "url": "https://github.com/jiayouxujin"
     },
     {
-        "login": "TsuiEnPeng",
-        "name": "AndrewTsui",
+        "login": "tsuienpeng",
+        "name": "AndrewTs'ui",
         "avatarUrl": "https://avatars.githubusercontent.com/u/38204629?u=38d92c45de3509bdcbcbd41018d31b6ac58a70b1&v=4",
-        "url": "https://github.com/TsuiEnPeng"
+        "url": "https://github.com/tsuienpeng"
     },
     {
         "login": "heal6",
@@ -5624,7 +5624,7 @@
     {
         "login": "OkamiMks",
         "name": "Okami \u30c1\u30e0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=b60dce0827ccf06d8a9c1072b6c334927eeef868&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=768307e553d49e7da4ee043afa9ad68abb97d853&v=4",
         "url": "https://github.com/OkamiMks"
     },
     {
@@ -8022,12 +8022,6 @@
         "url": "https://github.com/eligao"
     },
     {
-        "login": "lukeshere",
-        "name": "luke",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/49981373?u=0db25cc7c3a0cbfec835811cb93b175190747c65&v=4",
-        "url": "https://github.com/lukeshere"
-    },
-    {
         "login": "goldpumpkin",
         "name": "Gold",
         "avatarUrl": "https://avatars.githubusercontent.com/u/22197388?u=e705d1567feeb09bac19cec29d7b38b401527584&v=4",
@@ -9916,5 +9910,89 @@
         "name": "Geeng.Hoong",
         "avatarUrl": "https://avatars.githubusercontent.com/u/23466163?u=013b921f3cd2c48d8934ec14b9e171eb0a825e23&v=4",
         "url": "https://github.com/deluser8"
+    },
+    {
+        "login": "jackjm",
+        "name": "Brady Lee",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/442539?u=89a880e119748e7cf102cc3b0cd58a034fbaa594&v=4",
+        "url": "https://github.com/jackjm"
+    },
+    {
+        "login": "tzwm",
+        "name": "Samwise Wang",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/828837?v=4",
+        "url": "https://github.com/tzwm"
+    },
+    {
+        "login": "efewijum",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75942418?v=4",
+        "url": "https://github.com/efewijum"
+    },
+    {
+        "login": "crazygit",
+        "name": "Crazygit",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1240997?u=0963ac116d187a21c16cf07a717575ac037f63c0&v=4",
+        "url": "https://github.com/crazygit"
+    },
+    {
+        "login": "Gkirito",
+        "name": "Gkirito",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/24670858?u=2d2b0335b5f25541ce37f14ca6cb064ec608b462&v=4",
+        "url": "https://github.com/Gkirito"
+    },
+    {
+        "login": "tlxhl",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/82189069?v=4",
+        "url": "https://github.com/tlxhl"
+    },
+    {
+        "login": "bu-wei",
+        "name": "bu-wei",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/77634935?v=4",
+        "url": "https://github.com/bu-wei"
+    },
+    {
+        "login": "shuxiaa",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40327551?v=4",
+        "url": "https://github.com/shuxiaa"
+    },
+    {
+        "login": "jingfelix",
+        "name": "jingfelix",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72600955?u=ffc16309f3ad9d858e0c6f1162838ad2729a962c&v=4",
+        "url": "https://github.com/jingfelix"
+    },
+    {
+        "login": "tianrking",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10758833?v=4",
+        "url": "https://github.com/tianrking"
+    },
+    {
+        "login": "Jonathan1727",
+        "name": "Jiahao Zhang",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/22929142?v=4",
+        "url": "https://github.com/Jonathan1727"
+    },
+    {
+        "login": "IC3-CR3AM",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/14077779?v=4",
+        "url": "https://github.com/IC3-CR3AM"
+    },
+    {
+        "login": "RSJYPJY",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/83913354?v=4",
+        "url": "https://github.com/RSJYPJY"
+    },
+    {
+        "login": "xuohei",
+        "name": "xuohei",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75795621?v=4",
+        "url": "https://github.com/xuohei"
     }
 ]
