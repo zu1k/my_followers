@@ -1448,7 +1448,7 @@
     {
         "login": "avboy1337",
         "name": "avboy1337",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/5463104?u=5402be7c6f2d76d59aa3b173e46083f8e1c24d1a&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5463104?u=3b65483f2007771985cc3d00033ade53d34b42be&v=4",
         "url": "https://github.com/avboy1337"
     },
     {
@@ -5624,7 +5624,7 @@
     {
         "login": "OkamiMks",
         "name": "Okami \u30c1\u30e0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=e7564eabd4595f936c28eb6bfe456c14a9110e7f&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=b304b74d3cd45347310ac18ddf84e0f0d03a24d7&v=4",
         "url": "https://github.com/OkamiMks"
     },
     {
@@ -6722,7 +6722,7 @@
     {
         "login": "cnM0nk3y",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/88301075?v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88301075?u=6e3240456b2555bb3d66ba9e683b8683703c0fa4&v=4",
         "url": "https://github.com/cnM0nk3y"
     },
     {
@@ -7705,8 +7705,8 @@
     },
     {
         "login": "catosu",
-        "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/101029875?v=4",
+        "name": "IDCN",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/101029875?u=6337e21fab1eeaaf5532aae520abe3b90bf85e5a&v=4",
         "url": "https://github.com/catosu"
     },
     {
@@ -10150,5 +10150,47 @@
         "name": "\u57fa\u5c3c\u67ef",
         "avatarUrl": "https://avatars.githubusercontent.com/u/34304497?u=2719b95dd33b6a1d2932ffa2d01b4982697b01c5&v=4",
         "url": "https://github.com/gitkeniwo"
+    },
+    {
+        "login": "dynchen",
+        "name": "Dyn",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/3733854?u=6e30b3e55b0330a3a752757a66c47a31b1ab35ce&v=4",
+        "url": "https://github.com/dynchen"
+    },
+    {
+        "login": "LucasSurin",
+        "name": "\u827a\u672f\u5c31\u662f\u6d3e\u5927\u661f",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/87013782?u=28fdf81c4dfd341a9de11db1f1ba4bad3db1bda1&v=4",
+        "url": "https://github.com/LucasSurin"
+    },
+    {
+        "login": "Jagerx",
+        "name": "NO.ONE",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42521386?v=4",
+        "url": "https://github.com/Jagerx"
+    },
+    {
+        "login": "silverling",
+        "name": "Silver Ling",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36693973?u=412bb71f7c3014c042ccf21c62edcec5d19d8cb6&v=4",
+        "url": "https://github.com/silverling"
+    },
+    {
+        "login": "qukekeji",
+        "name": "qukekeji",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/79002363?v=4",
+        "url": "https://github.com/qukekeji"
+    },
+    {
+        "login": "kitescat",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/34134292?u=66e966e2c882d8e5b77895dee788768d9b7d08b5&v=4",
+        "url": "https://github.com/kitescat"
+    },
+    {
+        "login": "bobby520520",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/103013941?v=4",
+        "url": "https://github.com/bobby520520"
     }
 ]
