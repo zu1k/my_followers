@@ -8948,7 +8948,7 @@
     {
         "login": "andatoshiki",
         "name": "Anda Toshiki",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/101481353?u=59d6fcd852f68cde2fe2c9e5d5125d3b9233b167&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/101481353?u=ae6e65e585036d9019d98051f6fd52261426655b&v=4",
         "url": "https://github.com/andatoshiki"
     },
     {
@@ -10204,5 +10204,29 @@
         "name": "StarrySky1",
         "avatarUrl": "https://avatars.githubusercontent.com/u/38827394?u=e209120d621f6efc05f154d4bf4094896e9f670b&v=4",
         "url": "https://github.com/LinnyR"
+    },
+    {
+        "login": "Masterexle",
+        "name": "Master le",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/66830421?u=0d4c8dd2c1e4f71ced2d1ac4a81499235a9989fb&v=4",
+        "url": "https://github.com/Masterexle"
+    },
+    {
+        "login": "ID-10086",
+        "name": "\u505a\u4eba\u662f\u4e2a\u6280\u672f\u6d3b",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/24827946?u=a58b55523a5925c7b508907ae78f0464ea58812b&v=4",
+        "url": "https://github.com/ID-10086"
+    },
+    {
+        "login": "HiroHsu",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/28015427?u=4ee4b0c7b3ddfff3d6681fed6d247d33be748d4c&v=4",
+        "url": "https://github.com/HiroHsu"
+    },
+    {
+        "login": "xianshang",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57832866?v=4",
+        "url": "https://github.com/xianshang"
     }
 ]
