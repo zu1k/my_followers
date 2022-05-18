@@ -4214,7 +4214,7 @@
     {
         "login": "olist213",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/46209842?u=8e940b32da2a2850f75a05c2580e91a272048dc4&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46209842?u=0682664407c4c16ea5a65080094d4159860059da&v=4",
         "url": "https://github.com/olist213"
     },
     {
@@ -5624,7 +5624,7 @@
     {
         "login": "OkamiMks",
         "name": "Okami \u30c1\u30e0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=b304b74d3cd45347310ac18ddf84e0f0d03a24d7&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=c5690319c638539dc52fb32431fbb96954b84a1d&v=4",
         "url": "https://github.com/OkamiMks"
     },
     {
@@ -6769,7 +6769,7 @@
     },
     {
         "login": "zcharym",
-        "name": "Zchary",
+        "name": "Zach",
         "avatarUrl": "https://avatars.githubusercontent.com/u/57801678?u=b0f64fa6bebd932ee977fb6670fe9c0fda33fa7a&v=4",
         "url": "https://github.com/zcharym"
     },
@@ -8263,7 +8263,7 @@
     },
     {
         "login": "mingtian1024",
-        "name": null,
+        "name": "skyming",
         "avatarUrl": "https://avatars.githubusercontent.com/u/16987954?u=f2abe7fa9acc57406c6a5e1c06da000ad86a8893&v=4",
         "url": "https://github.com/mingtian1024"
     },
@@ -10252,5 +10252,41 @@
         "name": "William Chan",
         "avatarUrl": "https://avatars.githubusercontent.com/u/9210430?u=83cd7f00a3bf479f1ea09e2be851b6adfa94e4d6&v=4",
         "url": "https://github.com/luckyyyyy"
+    },
+    {
+        "login": "xflxfl",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/13144103?u=ad142b54d0a0efe55e46e801f2b71b88fea15de1&v=4",
+        "url": "https://github.com/xflxfl"
+    },
+    {
+        "login": "sudo0m",
+        "name": "sudo0m",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35640560?u=9d76a0c127be2d196472f562c864d61d5ac27583&v=4",
+        "url": "https://github.com/sudo0m"
+    },
+    {
+        "login": "jacelift",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/74590290?u=2c9346a95c33ca820310992011886c1d3d6b2fa1&v=4",
+        "url": "https://github.com/jacelift"
+    },
+    {
+        "login": "ycaedes",
+        "name": "sp7der",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52424625?u=c57fd6bdd8592bcc5f831a3062ac953a202e67c7&v=4",
+        "url": "https://github.com/ycaedes"
+    },
+    {
+        "login": "SundayBySunBoy",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/104492652?v=4",
+        "url": "https://github.com/SundayBySunBoy"
+    },
+    {
+        "login": "WordDealer",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56788639?v=4",
+        "url": "https://github.com/WordDealer"
     }
 ]
