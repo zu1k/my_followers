@@ -170,7 +170,7 @@
     {
         "login": "fmpiza",
         "name": "fridolinmpiza, Msc.",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/52234785?u=73f7015fdf662ec550c7ed326c9b035405f5c3c8&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52234785?u=ba97caa4ce26b533a2ff51485614d31ce637d709&v=4",
         "url": "https://github.com/fmpiza"
     },
     {
@@ -5318,7 +5318,7 @@
     {
         "login": "ggssh",
         "name": "henrenzhenderen",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/55895271?u=0170947ee6a5c01ccf188c1d5dfdfcf4a5151ab0&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55895271?u=ef955be76666c9048a805072f672f0758ab8e1cd&v=4",
         "url": "https://github.com/ggssh"
     },
     {
@@ -8580,12 +8580,6 @@
         "url": "https://github.com/courtrts"
     },
     {
-        "login": "younger-1",
-        "name": "Xavier Young",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/45989017?u=9fa63a097dbbd716e1a406b8bddbca9f2d5bf3ca&v=4",
-        "url": "https://github.com/younger-1"
-    },
-    {
         "login": "pengx17",
         "name": "Peng Xiao",
         "avatarUrl": "https://avatars.githubusercontent.com/u/584378?u=0dfb9a8a32dd40fe6691fbc3e0153efd718f66a1&v=4",
@@ -10294,5 +10288,11 @@
         "name": "CANTONHK",
         "avatarUrl": "https://avatars.githubusercontent.com/u/14064825?u=58932848de3750f9cb23e529ddc07dcd180683ce&v=4",
         "url": "https://github.com/cantonhk"
+    },
+    {
+        "login": "RevAtN",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90074634?v=4",
+        "url": "https://github.com/RevAtN"
     }
 ]
