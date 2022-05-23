@@ -4153,7 +4153,7 @@
     },
     {
         "login": "Buzz2d0",
-        "name": "zznQ",
+        "name": "zznq",
         "avatarUrl": "https://avatars.githubusercontent.com/u/26270009?u=d3b65000912be15108020435b16be29f04b95fdf&v=4",
         "url": "https://github.com/Buzz2d0"
     },
@@ -6812,7 +6812,7 @@
     {
         "login": "Nthily",
         "name": "Nthily",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=0d2a08ea860076ec02d6ab1ceb4018dd8ff9ba5d&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=67473379a8f02b7f119301208eb5c04fefd1b8c5&v=4",
         "url": "https://github.com/Nthily"
     },
     {
@@ -7910,7 +7910,7 @@
     {
         "login": "c0urag1",
         "name": "c0urag1",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/56526282?u=bf29a81e895dc713ff1ccb43724457d90d8ada2f&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56526282?u=e3a9958f16de32385e3f14a73edd3da5f3611598&v=4",
         "url": "https://github.com/c0urag1"
     },
     {
@@ -10294,5 +10294,23 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/90074634?v=4",
         "url": "https://github.com/RevAtN"
+    },
+    {
+        "login": "leonardo-o1",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/38599982?u=ba807ac6eb901f2b9e09e245dc5f25d614da0c4e&v=4",
+        "url": "https://github.com/leonardo-o1"
+    },
+    {
+        "login": "guomaimang",
+        "name": "hanjiaming",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47519540?u=9832d24ddf7d1f91fc5f1bd93e501983f27c4a66&v=4",
+        "url": "https://github.com/guomaimang"
+    },
+    {
+        "login": "Raison-insuffisante",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/98399685?v=4",
+        "url": "https://github.com/Raison-insuffisante"
     }
 ]
