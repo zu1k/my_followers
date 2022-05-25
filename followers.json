@@ -7573,7 +7573,7 @@
     },
     {
         "login": "Lay0us1",
-        "name": null,
+        "name": "Lay0us",
         "avatarUrl": "https://avatars.githubusercontent.com/u/99304369?u=2b5db904cc7a99041aca57818f8d82c99394c5aa&v=4",
         "url": "https://github.com/Lay0us1"
     },
@@ -10336,5 +10336,17 @@
         "name": "iYuanWeize",
         "avatarUrl": "https://avatars.githubusercontent.com/u/30067203?u=bd418ca13b4eafa7a757a4136f76f74b54507af1&v=4",
         "url": "https://github.com/yuanweize"
+    },
+    {
+        "login": "iverJisty",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/4309210?v=4",
+        "url": "https://github.com/iverJisty"
+    },
+    {
+        "login": "yz-solo",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/66792072?u=6ec9d7a6e39f6cdb3b4cd078598b109b05f36ffb&v=4",
+        "url": "https://github.com/yz-solo"
     }
 ]
