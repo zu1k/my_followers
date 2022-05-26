@@ -1484,7 +1484,7 @@
     {
         "login": "Super262",
         "name": "Fengwei Zhang",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/42017768?u=9dcbb4d7345a20e860c96569e7add2a11ade0d9a&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42017768?u=3425c90265ae0c28534d63e5a119a1be3f2b7b14&v=4",
         "url": "https://github.com/Super262"
     },
     {
@@ -6812,7 +6812,7 @@
     {
         "login": "Nthily",
         "name": "Nthily",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=67473379a8f02b7f119301208eb5c04fefd1b8c5&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=a5ec06cd6499d4d5bb9df39c62386798cb96e6fa&v=4",
         "url": "https://github.com/Nthily"
     },
     {
@@ -9745,7 +9745,7 @@
     },
     {
         "login": "foolb",
-        "name": null,
+        "name": "YoloQAQ",
         "avatarUrl": "https://avatars.githubusercontent.com/u/26821939?u=b6d078fc0b8ef1f309dec9a184963100a82d8fa0&v=4",
         "url": "https://github.com/foolb"
     },
@@ -10348,5 +10348,29 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/66792072?u=6ec9d7a6e39f6cdb3b4cd078598b109b05f36ffb&v=4",
         "url": "https://github.com/yz-solo"
+    },
+    {
+        "login": "CreatorMetaSky",
+        "name": "MetaSky",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8367760?u=cc4f991e8973c4c9dc39e12b7a0dc472a2b32375&v=4",
+        "url": "https://github.com/CreatorMetaSky"
+    },
+    {
+        "login": "7hang",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48209216?u=3965a90e46fa0c52c7253ecc10ab8c7b275fbc97&v=4",
+        "url": "https://github.com/7hang"
+    },
+    {
+        "login": "romanofficial",
+        "name": "Roman Hossain Shaon",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47697490?u=e04ea0910507ab1b63fb84fdd11ec9fd82c90cd4&v=4",
+        "url": "https://github.com/romanofficial"
+    },
+    {
+        "login": "achillesss",
+        "name": "Achillesss",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18339919?u=2fb076ac807f48d33b678ff9ada07890b201e567&v=4",
+        "url": "https://github.com/achillesss"
     }
 ]
