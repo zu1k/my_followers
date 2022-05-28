@@ -4154,7 +4154,7 @@
     {
         "login": "Buzz2d0",
         "name": "zznq",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/26270009?u=d3b65000912be15108020435b16be29f04b95fdf&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/26270009?u=b6b0016a606537644c4016b277023f802a36c752&v=4",
         "url": "https://github.com/Buzz2d0"
     },
     {
@@ -6812,7 +6812,7 @@
     {
         "login": "Nthily",
         "name": "Nthily",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=a5ec06cd6499d4d5bb9df39c62386798cb96e6fa&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=226c59e11c4c8a4fdfdaec4afd7d86be5b0b0337&v=4",
         "url": "https://github.com/Nthily"
     },
     {
@@ -7327,8 +7327,8 @@
     },
     {
         "login": "nu0l",
-        "name": "iak",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/54735907?u=7fa7dca68f6c6ed21d0d3ed2c219b9a135edccb8&v=4",
+        "name": "iak3ec",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54735907?u=93c1ef2c352b1d80b142f28e38f191ee106c5fdc&v=4",
         "url": "https://github.com/nu0l"
     },
     {
@@ -7644,10 +7644,10 @@
         "url": "https://github.com/codealphago"
     },
     {
-        "login": "share007008",
+        "login": "share008",
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/30823659?v=4",
-        "url": "https://github.com/share007008"
+        "url": "https://github.com/share008"
     },
     {
         "login": "develon2015",
@@ -7698,10 +7698,10 @@
         "url": "https://github.com/jacklon"
     },
     {
-        "login": "catosu",
+        "login": "nextmi",
         "name": "IDCN",
         "avatarUrl": "https://avatars.githubusercontent.com/u/101029875?u=6337e21fab1eeaaf5532aae520abe3b90bf85e5a&v=4",
-        "url": "https://github.com/catosu"
+        "url": "https://github.com/nextmi"
     },
     {
         "login": "m1crofan",
@@ -9482,7 +9482,7 @@
     {
         "login": "PushM",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/47212914?u=b96a2c31990b0ddea87946b98368c3aaf3664e73&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47212914?u=0e64a27952f47f5b7330a21a6efad3bf80f8b6ac&v=4",
         "url": "https://github.com/PushM"
     },
     {
@@ -10384,5 +10384,11 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/38418027?v=4",
         "url": "https://github.com/GH-2018"
+    },
+    {
+        "login": "scorpionnickf",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95681326?v=4",
+        "url": "https://github.com/scorpionnickf"
     }
 ]
