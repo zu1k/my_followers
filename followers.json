@@ -7628,7 +7628,7 @@
     {
         "login": "buzai",
         "name": "buzai",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/12568747?u=a7a43863e8629cbe1ca357a8c3922cf91ae050f1&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12568747?u=1bc36265fcfb8696e09958485a5f76a56fec56e1&v=4",
         "url": "https://github.com/buzai"
     },
     {
@@ -8731,7 +8731,7 @@
     },
     {
         "login": "Huangxt57",
-        "name": "Eureka Hwang",
+        "name": "Xuanteng Huang",
         "avatarUrl": "https://avatars.githubusercontent.com/u/44627253?u=386128773e2e18a0584ec73d5614f66731ad00a6&v=4",
         "url": "https://github.com/Huangxt57"
     },
@@ -8821,7 +8821,7 @@
     },
     {
         "login": "Notsetup",
-        "name": "Zheyu-Tian",
+        "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/34407979?v=4",
         "url": "https://github.com/Notsetup"
     },
@@ -9050,7 +9050,7 @@
     {
         "login": "Vzmsel",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/66295818?u=511e14b81931ec585824cb5b29e7de980dc12b86&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/66295818?u=9e866968cf59bdecaaca28cea4f180a6a96f644f&v=4",
         "url": "https://github.com/Vzmsel"
     },
     {
@@ -10510,5 +10510,23 @@
         "name": "Chris Lin",
         "avatarUrl": "https://avatars.githubusercontent.com/u/5526096?u=10b2f1de247176d3ded0e60b3f9b92bdcdfe6fc5&v=4",
         "url": "https://github.com/seognil"
+    },
+    {
+        "login": "RenaLio",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/100777033?u=3ccf2baa14c3055a7824458e4c98a9e74d10003e&v=4",
+        "url": "https://github.com/RenaLio"
+    },
+    {
+        "login": "YYvanYang",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/15884336?u=02f5e77bd628728e53a183f86ca8732eaf2dff02&v=4",
+        "url": "https://github.com/YYvanYang"
+    },
+    {
+        "login": "shervinchen",
+        "name": "Shervin Chen",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/9639671?u=82baf8c35937493f589254122abc3ee1671b176b&v=4",
+        "url": "https://github.com/shervinchen"
     }
 ]
