@@ -624,10 +624,10 @@
         "url": "https://github.com/gem-p4trick"
     },
     {
-        "login": "garnettk",
+        "login": "puzzithinker",
         "name": "Simon Leung",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/2639268?v=4",
-        "url": "https://github.com/garnettk"
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2639268?u=16642a7b6dce0381239fcd643984e72ff94ab49f&v=4",
+        "url": "https://github.com/puzzithinker"
     },
     {
         "login": "tharavel",
@@ -6056,7 +6056,7 @@
     {
         "login": "1nhann",
         "name": "inHann",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/76624149?u=ed45a8c88b8ef91da40457cde414ffe4949e23d4&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76624149?u=59aed596d9903545d8e2979c6e0c46c144c8d5fa&v=4",
         "url": "https://github.com/1nhann"
     },
     {
@@ -7696,12 +7696,6 @@
         "name": "jacklon",
         "avatarUrl": "https://avatars.githubusercontent.com/u/5519532?v=4",
         "url": "https://github.com/jacklon"
-    },
-    {
-        "login": "nextmi",
-        "name": "IDCN",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/101029875?u=6337e21fab1eeaaf5532aae520abe3b90bf85e5a&v=4",
-        "url": "https://github.com/nextmi"
     },
     {
         "login": "m1crofan",
@@ -9618,10 +9612,10 @@
         "url": "https://github.com/Lorde627"
     },
     {
-        "login": "FateBanzhuan",
+        "login": "yuzh0n9",
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/67565073?v=4",
-        "url": "https://github.com/FateBanzhuan"
+        "url": "https://github.com/yuzh0n9"
     },
     {
         "login": "IDforHYIT",
@@ -9896,7 +9890,7 @@
     {
         "login": "jackjm",
         "name": "Brady Lee",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/442539?u=89a880e119748e7cf102cc3b0cd58a034fbaa594&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/442539?v=4",
         "url": "https://github.com/jackjm"
     },
     {
@@ -10610,7 +10604,7 @@
     {
         "login": "flydzy",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/77653369?v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/77653369?u=e633852c73400bee06090e3bfc63cb60752f3ccd&v=4",
         "url": "https://github.com/flydzy"
     },
     {
@@ -10630,5 +10624,35 @@
         "name": "iKath",
         "avatarUrl": "https://avatars.githubusercontent.com/u/42527047?u=2719ac0d95a38c9b798c95479354f85c2261dd0b&v=4",
         "url": "https://github.com/iKath"
+    },
+    {
+        "login": "Littlecowherd",
+        "name": "\u5c0f\u4e48\u5c0f\u513f\u90ceEL",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/19882756?u=4a39380a4206011007d3e2374b9e030322dd2d08&v=4",
+        "url": "https://github.com/Littlecowherd"
+    },
+    {
+        "login": "lqqyt2423",
+        "name": "liqiang",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6959784?u=12adff99f407c0d9f31776faaa7c9733f511a762&v=4",
+        "url": "https://github.com/lqqyt2423"
+    },
+    {
+        "login": "ifeegoo",
+        "name": "ifeegoo",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5191094?u=49470deb49ade0e92154a0c9ca613e49cbfebec9&v=4",
+        "url": "https://github.com/ifeegoo"
+    },
+    {
+        "login": "CodecodeChen",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/26318469?v=4",
+        "url": "https://github.com/CodecodeChen"
+    },
+    {
+        "login": "edison7500",
+        "name": "err",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/720175?u=a8a503ad0dd08753e55e8e9a70593524c31382b6&v=4",
+        "url": "https://github.com/edison7500"
     }
 ]
