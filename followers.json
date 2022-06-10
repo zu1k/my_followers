@@ -5618,7 +5618,7 @@
     {
         "login": "OkamiMks",
         "name": "Okami \u30c1\u30e0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=7c261dc001fe42ef1067fbf64f20a09379962715&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=bd3130f379a4cee05947e30dabc62ae1acb80de9&v=4",
         "url": "https://github.com/OkamiMks"
     },
     {
@@ -6758,7 +6758,7 @@
     {
         "login": "songquanpeng",
         "name": "JustSong",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/39998050?u=ccfe0983d34a6f0f0462661cb6025903f7fbd6e7&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/39998050?v=4",
         "url": "https://github.com/songquanpeng"
     },
     {
@@ -10726,5 +10726,29 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/46489632?u=41548d43681c274fbb70b184ffaee86b451bc42a&v=4",
         "url": "https://github.com/int3hh"
+    },
+    {
+        "login": "elf3",
+        "name": "elf",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18027182?u=00ac829fbfd19ad2d0615278f23409f9d2f13d16&v=4",
+        "url": "https://github.com/elf3"
+    },
+    {
+        "login": "SinxLinonZ",
+        "name": "h-kys",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/25523173?u=0cb5f2ec9000937a41972b35b6dd746d3f2bede9&v=4",
+        "url": "https://github.com/SinxLinonZ"
+    },
+    {
+        "login": "afeiluo",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6848479?u=53590a582c01a217fa68b1bd951f988b70772b7c&v=4",
+        "url": "https://github.com/afeiluo"
+    },
+    {
+        "login": "couldntaccept",
+        "name": "zEalor",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42738714?u=73c7a272e17e4e2ae8a3d75b76627c2ba49a8b6e&v=4",
+        "url": "https://github.com/couldntaccept"
     }
 ]
