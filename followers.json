@@ -3931,7 +3931,7 @@
     },
     {
         "login": "ripperhe",
-        "name": "Lewei",
+        "name": "Zongyi",
         "avatarUrl": "https://avatars.githubusercontent.com/u/13943595?u=9b1bbc27ce67e9d33c535eb0744eab8c4410cc24&v=4",
         "url": "https://github.com/ripperhe"
     },
@@ -5042,7 +5042,7 @@
     {
         "login": "killdayu",
         "name": "killdayu",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/62084769?u=03316ac600cc02e4232ac7691b0b80a862100c9f&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/62084769?u=da9613805321d1f8d32bce975e10a6d9d8c68de0&v=4",
         "url": "https://github.com/killdayu"
     },
     {
@@ -10798,5 +10798,17 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/105582705?v=4",
         "url": "https://github.com/Sovaico"
+    },
+    {
+        "login": "PerrinGao",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57226827?v=4",
+        "url": "https://github.com/PerrinGao"
+    },
+    {
+        "login": "xiangsanliu",
+        "name": "Chien",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/19505695?u=72afa63583ef78ed7e8de6ee96b4844c994ae4c5&v=4",
+        "url": "https://github.com/xiangsanliu"
     }
 ]
