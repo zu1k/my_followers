@@ -6812,7 +6812,7 @@
     {
         "login": "Nthily",
         "name": "Nthily",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=aaffdaf9994e78abb69bdcf9adf5d9fd3a1a92cc&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=0e3e346d7f60023fcf238c717254df9610936542&v=4",
         "url": "https://github.com/Nthily"
     },
     {
@@ -7027,7 +7027,7 @@
     },
     {
         "login": "ArreyChan",
-        "name": "ERRUI",
+        "name": "ArreyChan",
         "avatarUrl": "https://avatars.githubusercontent.com/u/63032433?u=40058f95bc93b0a130a8a8dc8134445b3a6f4482&v=4",
         "url": "https://github.com/ArreyChan"
     },
@@ -7561,7 +7561,7 @@
     },
     {
         "login": "wz930206",
-        "name": "wu zhao",
+        "name": "mark",
         "avatarUrl": "https://avatars.githubusercontent.com/u/37261842?u=9196af37ebd4a70dbd11282bf0f3340a7fde7468&v=4",
         "url": "https://github.com/wz930206"
     },
@@ -10810,5 +10810,29 @@
         "name": "Chien",
         "avatarUrl": "https://avatars.githubusercontent.com/u/19505695?u=72afa63583ef78ed7e8de6ee96b4844c994ae4c5&v=4",
         "url": "https://github.com/xiangsanliu"
+    },
+    {
+        "login": "Sylviaracheal",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69726901?u=dca818e7fbc7db54a995dc3e2a8dcf75b82b05e7&v=4",
+        "url": "https://github.com/Sylviaracheal"
+    },
+    {
+        "login": "ddgszc",
+        "name": "CSN:)",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43497785?u=45f94a3602f58a5bdf46694e26fe7d88bcbb94ce&v=4",
+        "url": "https://github.com/ddgszc"
+    },
+    {
+        "login": "xuhuaq",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57892805?v=4",
+        "url": "https://github.com/xuhuaq"
+    },
+    {
+        "login": "z3mu",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96642373?u=267f65acdc2690765054d16a6d549d90bcb622f1&v=4",
+        "url": "https://github.com/z3mu"
     }
 ]
