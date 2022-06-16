@@ -3931,7 +3931,7 @@
     },
     {
         "login": "ripperhe",
-        "name": "Zongyi",
+        "name": "zongyi",
         "avatarUrl": "https://avatars.githubusercontent.com/u/13943595?u=9b1bbc27ce67e9d33c535eb0744eab8c4410cc24&v=4",
         "url": "https://github.com/ripperhe"
     },
@@ -5372,7 +5372,7 @@
     {
         "login": "xxcdd",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/42600601?u=98c14115d91620781fc18fbbd54594d2edb00d42&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42600601?u=3deef5e29d840aad89ee6325d31fb75f1081aca6&v=4",
         "url": "https://github.com/xxcdd"
     },
     {
@@ -6812,7 +6812,7 @@
     {
         "login": "Nthily",
         "name": "Nthily",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=0e3e346d7f60023fcf238c717254df9610936542&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=9df36a7607e30e23c345fd97d86b810f12ae9595&v=4",
         "url": "https://github.com/Nthily"
     },
     {
@@ -8029,7 +8029,7 @@
     },
     {
         "login": "MePride",
-        "name": "Aer",
+        "name": "Pride",
         "avatarUrl": "https://avatars.githubusercontent.com/u/20747927?u=8f4ded0ffaace25a74abebf7864ab62fe7bfc514&v=4",
         "url": "https://github.com/MePride"
     },
@@ -10008,12 +10008,6 @@
         "url": "https://github.com/ajinwu"
     },
     {
-        "login": "jamiedevsandbox",
-        "name": "Jamie Sparks",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/27640403?u=3b2abb1c48fdf270c2c05be160c42f29506e113b&v=4",
-        "url": "https://github.com/jamiedevsandbox"
-    },
-    {
         "login": "suzg",
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/1287378?u=9adb5ba9a7592f21fe179e4fb055216e0ea0128a&v=4",
@@ -10834,5 +10828,17 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/96642373?u=267f65acdc2690765054d16a6d549d90bcb622f1&v=4",
         "url": "https://github.com/z3mu"
+    },
+    {
+        "login": "WilliamsJustin",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96124224?v=4",
+        "url": "https://github.com/WilliamsJustin"
+    },
+    {
+        "login": "live2nic",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/106173743?v=4",
+        "url": "https://github.com/live2nic"
     }
 ]
