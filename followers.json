@@ -4123,7 +4123,7 @@
     },
     {
         "login": "Comolli",
-        "name": null,
+        "name": "comolli",
         "avatarUrl": "https://avatars.githubusercontent.com/u/47921612?u=920e98a4e731508f644c7614aaa200da0f9b3f96&v=4",
         "url": "https://github.com/Comolli"
     },
@@ -6812,7 +6812,7 @@
     {
         "login": "Nthily",
         "name": "Nthily",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=9df36a7607e30e23c345fd97d86b810f12ae9595&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=eedc69ed9e1ac68b06012b41b1a8a58126653e15&v=4",
         "url": "https://github.com/Nthily"
     },
     {
@@ -6979,7 +6979,7 @@
     },
     {
         "login": "tranquac",
-        "name": "tranquac",
+        "name": "quactv",
         "avatarUrl": "https://avatars.githubusercontent.com/u/51528368?u=d4301b165860ca09869c6b544a00f79a0e812856&v=4",
         "url": "https://github.com/tranquac"
     },
@@ -7590,10 +7590,10 @@
         "url": "https://github.com/happyhacking-k"
     },
     {
-        "login": "JZU5q2",
-        "name": "JZU5q2",
+        "login": "yyy1mu",
+        "name": "\u6613\u6728",
         "avatarUrl": "https://avatars.githubusercontent.com/u/41297816?u=9edfbbea3b6866cd1da6fa646fed5d0b4f5edcf1&v=4",
-        "url": "https://github.com/JZU5q2"
+        "url": "https://github.com/yyy1mu"
     },
     {
         "login": "A403",
@@ -7798,12 +7798,6 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/97133617?v=4",
         "url": "https://github.com/bug0321"
-    },
-    {
-        "login": "DaxiaSec",
-        "name": "CyberDaxia",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/102129762?u=7b4d0390e6fa7f720a83ca7f66377db820c6805b&v=4",
-        "url": "https://github.com/DaxiaSec"
     },
     {
         "login": "jaspermalik",
@@ -9740,7 +9734,7 @@
     {
         "login": "gngpp",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51810656?u=0502c1f14702fb63968a8bbc417ad78213ceb688&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51810656?u=99863c6c6abe8bf2f2adcf1d3f9f8002de1efa44&v=4",
         "url": "https://github.com/gngpp"
     },
     {
@@ -10483,7 +10477,7 @@
     },
     {
         "login": "bastill",
-        "name": "lucky",
+        "name": "Lucky Simon",
         "avatarUrl": "https://avatars.githubusercontent.com/u/24283323?u=14017715857736592ddae4f764c155741df60ccf&v=4",
         "url": "https://github.com/bastill"
     },
@@ -10840,5 +10834,11 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/106173743?v=4",
         "url": "https://github.com/live2nic"
+    },
+    {
+        "login": "Simple0X",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/99126528?u=e0d67dc248354b70e99891487a67dfe2bcf365e7&v=4",
+        "url": "https://github.com/Simple0X"
     }
 ]
