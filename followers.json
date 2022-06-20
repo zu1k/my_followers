@@ -9090,12 +9090,6 @@
         "url": "https://github.com/monsterhxw"
     },
     {
-        "login": "biepin7",
-        "name": "\u522b\u5ad4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53242125?u=f608d93824315c981fc01f1fed6a5b42e7f8bfbd&v=4",
-        "url": "https://github.com/biepin7"
-    },
-    {
         "login": "Ininit",
         "name": "Ininit",
         "avatarUrl": "https://avatars.githubusercontent.com/u/16256436?u=33440c780c127cd00ffe3f790be050b521d25b4e&v=4",
@@ -10870,5 +10864,29 @@
         "name": "fengyueZz",
         "avatarUrl": "https://avatars.githubusercontent.com/u/89948717?v=4",
         "url": "https://github.com/fengyueZz233"
+    },
+    {
+        "login": "EasyChris",
+        "name": "Easy",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/9960087?u=f60dc888460a87e0ddc941d59d21ea190d1326ac&v=4",
+        "url": "https://github.com/EasyChris"
+    },
+    {
+        "login": "biepin7",
+        "name": "\u522b\u5ad4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53242125?u=f608d93824315c981fc01f1fed6a5b42e7f8bfbd&v=4",
+        "url": "https://github.com/biepin7"
+    },
+    {
+        "login": "openkimdd",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/107818755?v=4",
+        "url": "https://github.com/openkimdd"
+    },
+    {
+        "login": "secSongcn",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/103708310?v=4",
+        "url": "https://github.com/secSongcn"
     }
 ]
