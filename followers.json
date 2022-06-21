@@ -3824,7 +3824,7 @@
     {
         "login": "For3stCo1d",
         "name": "\u6797\u5bd2",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/57119052?u=bc7aa8f3a24e7ff3460649e41fdb3bb62e83ffb0&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57119052?u=695d0d7d298720f10c1aa3dd8564b909fbc4f20f&v=4",
         "url": "https://github.com/For3stCo1d"
     },
     {
@@ -4154,7 +4154,7 @@
     {
         "login": "Buzz2d0",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/26270009?u=ebc56f0c5198ae26524a38adf20d982350081aba&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/26270009?u=c538332aa74f8fc7f1aa64e69098aa0c3a7a8227&v=4",
         "url": "https://github.com/Buzz2d0"
     },
     {
@@ -10748,7 +10748,7 @@
     {
         "login": "zhangweixsw",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/37978839?v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/37978839?u=232f62bf6c7562507d264d12b8e2d61851d4f31f&v=4",
         "url": "https://github.com/zhangweixsw"
     },
     {
@@ -10888,5 +10888,41 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/103708310?v=4",
         "url": "https://github.com/secSongcn"
+    },
+    {
+        "login": "john1688",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/14961314?v=4",
+        "url": "https://github.com/john1688"
+    },
+    {
+        "login": "fly51fly",
+        "name": "\u7231\u53ef\u53ef-\u7231\u751f\u6d3b",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/128885?u=c94144933329ff1a4f4a0d21c29195dff512953f&v=4",
+        "url": "https://github.com/fly51fly"
+    },
+    {
+        "login": "owlsforest",
+        "name": "Owls Forest",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20067686?u=7d02f3b5df49a2007053fb338b1ae895dabe7bf0&v=4",
+        "url": "https://github.com/owlsforest"
+    },
+    {
+        "login": "i0Ek3",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/9475646?u=7b89eaa027f965b54a816e39a5007ab2d876a11c&v=4",
+        "url": "https://github.com/i0Ek3"
+    },
+    {
+        "login": "CDN18",
+        "name": "CDN",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46210502?u=82fcc82144312e0d2b5926e381433b11e2fedf0b&v=4",
+        "url": "https://github.com/CDN18"
+    },
+    {
+        "login": "Nono-no",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/74528519?v=4",
+        "url": "https://github.com/Nono-no"
     }
 ]
