@@ -5354,7 +5354,7 @@
     {
         "login": "BronnyWang",
         "name": "Bronny",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/43341738?u=8a6bb320e7a0401ef005d4ca9398e5ad5355bb9e&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43341738?u=6d4badf77ebaeec691d50509ba29a901424f3467&v=4",
         "url": "https://github.com/BronnyWang"
     },
     {
@@ -5618,7 +5618,7 @@
     {
         "login": "OkamiMks",
         "name": "Okami \u30c1\u30e0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=bd3130f379a4cee05947e30dabc62ae1acb80de9&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=5659ed7b8243b3fd926589a460683c8bf3ce616e&v=4",
         "url": "https://github.com/OkamiMks"
     },
     {
@@ -5888,7 +5888,7 @@
     {
         "login": "yuyan-sec",
         "name": "@\u9884\u8a00",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/43353917?u=85d0bb6c397c9ea1913467d1f57c11d4ee2dedda&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43353917?u=e301538e67e45ef33e5c47f196ce09809202a6a3&v=4",
         "url": "https://github.com/yuyan-sec"
     },
     {
@@ -6812,7 +6812,7 @@
     {
         "login": "Nthily",
         "name": "Nthily",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=d7b0454c836a7e4e1d94b459ff111b0028be7df8&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=64f8a03088e189b41612cc03da30253c5c509147&v=4",
         "url": "https://github.com/Nthily"
     },
     {
@@ -9762,10 +9762,10 @@
         "url": "https://github.com/nthtre"
     },
     {
-        "login": "orangiest",
-        "name": "Orangiest",
+        "login": "3at-dev",
+        "name": "Weimi Chen",
         "avatarUrl": "https://avatars.githubusercontent.com/u/31028998?u=9c1a8464b47895fb58ede64a48c534847e361a56&v=4",
-        "url": "https://github.com/orangiest"
+        "url": "https://github.com/3at-dev"
     },
     {
         "login": "vski5",
@@ -9854,7 +9854,7 @@
     {
         "login": "yzou",
         "name": "Goblin",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/1464693?v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1464693?u=3cf96e1bf8ae48fb1483a7e168708aa7393bedbe&v=4",
         "url": "https://github.com/yzou"
     },
     {
@@ -10942,5 +10942,29 @@
         "name": "Lu Ruipeng",
         "avatarUrl": "https://avatars.githubusercontent.com/u/10544640?u=5d10638bbdecf18181f9caacd0306d7d284d5ced&v=4",
         "url": "https://github.com/ruipenglu"
+    },
+    {
+        "login": "hezhongfeng",
+        "name": "hezf",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12163050?u=b13cac28b7cac69cfa106391d4bbe71efd39d937&v=4",
+        "url": "https://github.com/hezhongfeng"
+    },
+    {
+        "login": "futarimisaka",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/105144797?v=4",
+        "url": "https://github.com/futarimisaka"
+    },
+    {
+        "login": "greatislee",
+        "name": "liam",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/24658478?u=acea95cc2362c352ca28ad874364b1260f75e498&v=4",
+        "url": "https://github.com/greatislee"
+    },
+    {
+        "login": "Originat",
+        "name": "Origin Legend",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/25012485?u=e0d8900818b6e1a0622152540e30369fc5e02d79&v=4",
+        "url": "https://github.com/Originat"
     }
 ]
