@@ -3554,7 +3554,7 @@
     {
         "login": "niudaii",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/41844046?u=9301538f2118cf35a39bccac117405470f39c145&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/41844046?u=90987af8cb593c4ed2ab005cfd949e474a49d615&v=4",
         "url": "https://github.com/niudaii"
     },
     {
@@ -3883,8 +3883,8 @@
     },
     {
         "login": "KochCow",
-        "name": "Hyperion",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/83562660?u=8904345246439a870f4f99dbcf7ed668dad01990&v=4",
+        "name": "saturn",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/83562660?v=4",
         "url": "https://github.com/KochCow"
     },
     {
@@ -5618,7 +5618,7 @@
     {
         "login": "OkamiMks",
         "name": "Okami \u30c1\u30e0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=4720accb9144aa6c2d04a1959112633bc01a99b4&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=a7eefa60bf8afb0c29a5eab4c5c6fc70a8caedfc&v=4",
         "url": "https://github.com/OkamiMks"
     },
     {
@@ -10682,7 +10682,7 @@
     {
         "login": "Clownsw",
         "name": "Smliexx",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/28394742?u=ccf508ff905484d820b30cfe406a2c8b910e3f4c&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/28394742?u=ab2bf07a5bdb554f8ba347da3250946dcd755cfd&v=4",
         "url": "https://github.com/Clownsw"
     },
     {
@@ -11020,5 +11020,17 @@
         "name": "Future_Creator",
         "avatarUrl": "https://avatars.githubusercontent.com/u/59189040?u=23610446092bcf23fef13a3584a11d87ea66a32b&v=4",
         "url": "https://github.com/Dylan-OuYang"
+    },
+    {
+        "login": "wolo2603",
+        "name": "Wolo",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73325638?u=a9e0f05d4d5429ebda5127addf4813252100bda4&v=4",
+        "url": "https://github.com/wolo2603"
+    },
+    {
+        "login": "hkreporters",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43838016?v=4",
+        "url": "https://github.com/hkreporters"
     }
 ]
