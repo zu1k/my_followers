@@ -8372,7 +8372,7 @@
     {
         "login": "DejavuMoe",
         "name": "Dejavu Moe",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/57177121?u=18896a28724ecc1dc4f189394baabf2a271ed147&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57177121?u=54e864c09ce29cc97b50371e3bd773a1d357e432&v=4",
         "url": "https://github.com/DejavuMoe"
     },
     {
@@ -11032,5 +11032,17 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/43838016?v=4",
         "url": "https://github.com/hkreporters"
+    },
+    {
+        "login": "msghost",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16555025?v=4",
+        "url": "https://github.com/msghost"
+    },
+    {
+        "login": "christiancalara",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/94495956?v=4",
+        "url": "https://github.com/christiancalara"
     }
 ]
