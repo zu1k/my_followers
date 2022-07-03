@@ -3576,12 +3576,6 @@
         "url": "https://github.com/shaykhullinsergey"
     },
     {
-        "login": "prosperotrading",
-        "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/78395800?v=4",
-        "url": "https://github.com/prosperotrading"
-    },
-    {
         "login": "towelong",
         "name": "WeLong",
         "avatarUrl": "https://avatars.githubusercontent.com/u/41502558?u=75960b8ef6f47a8db93bcaa431fa4db70f5b276d&v=4",
@@ -5618,7 +5612,7 @@
     {
         "login": "OkamiMks",
         "name": "Okami \u30c1\u30e0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=0ab7b90fef6ea10e1ffa342abd39c036a3de8351&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=b40a085f5525f73b11e64e34372cb8829e6584a9&v=4",
         "url": "https://github.com/OkamiMks"
     },
     {
@@ -8366,7 +8360,7 @@
     {
         "login": "DejavuMoe",
         "name": "Dejavu Moe",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/57177121?u=54e864c09ce29cc97b50371e3bd773a1d357e432&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57177121?u=818403ca340951b157c9bc04e7bc5706a4853ce2&v=4",
         "url": "https://github.com/DejavuMoe"
     },
     {
@@ -10010,7 +10004,7 @@
     {
         "login": "Asura88",
         "name": "Mannix",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/25000885?v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/25000885?u=90e68093e83fd8719d55042a550589c37e709a91&v=4",
         "url": "https://github.com/Asura88"
     },
     {
@@ -11062,5 +11056,17 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/108521909?u=75c4051b66889df203c95ee1d0db22234d24bec9&v=4",
         "url": "https://github.com/kiooodpw"
+    },
+    {
+        "login": "hutuxs",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/108227776?v=4",
+        "url": "https://github.com/hutuxs"
+    },
+    {
+        "login": "GoldGuaranteedCoinMining",
+        "name": "Gold Guaranteed Coin-Mining",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35251264?u=d05ba9152f264e5fb09bc5ace80b77c77417e54c&v=4",
+        "url": "https://github.com/GoldGuaranteedCoinMining"
     }
 ]
