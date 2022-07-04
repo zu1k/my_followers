@@ -6800,7 +6800,7 @@
     {
         "login": "Nthily",
         "name": "Nthily",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=077dbe83d18235b030f8aaf7cabb04eef0348594&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=443e24a2e54e0b4209be49e9b660ddfb76c2366f&v=4",
         "url": "https://github.com/Nthily"
     },
     {
@@ -11068,5 +11068,29 @@
         "name": "Gold Guaranteed Coin-Mining",
         "avatarUrl": "https://avatars.githubusercontent.com/u/35251264?u=d05ba9152f264e5fb09bc5ace80b77c77417e54c&v=4",
         "url": "https://github.com/GoldGuaranteedCoinMining"
+    },
+    {
+        "login": "ervingjacobs",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/104367912?u=c0ef5a532a17282d5cd9c7939607c5735a8558c1&v=4",
+        "url": "https://github.com/ervingjacobs"
+    },
+    {
+        "login": "Annotate1",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/108607557?u=456fd2f89791ea8c45940242da85df5a39eeef90&v=4",
+        "url": "https://github.com/Annotate1"
+    },
+    {
+        "login": "qiuyuyin",
+        "name": "yili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56574474?u=bacf443a6e83061f11f68603f02e7283f73da678&v=4",
+        "url": "https://github.com/qiuyuyin"
+    },
+    {
+        "login": "sixtiethz",
+        "name": "Arch",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/108639555?u=2e1556c8e9c5b62e30f5948a4546d874eac70c95&v=4",
+        "url": "https://github.com/sixtiethz"
     }
 ]
