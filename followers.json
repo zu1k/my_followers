@@ -5612,7 +5612,7 @@
     {
         "login": "OkamiMks",
         "name": "Okami \u30c1\u30e0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=b40a085f5525f73b11e64e34372cb8829e6584a9&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=43878b308c231e58c991567facf3fa8111d20b3b&v=4",
         "url": "https://github.com/OkamiMks"
     },
     {
@@ -9650,7 +9650,7 @@
     {
         "login": "ExaAlice",
         "name": "Alice",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/48439969?u=2b8db37d0f6f1f2db1f28621782a606e71f5e875&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48439969?u=4277d588f125b0348ecfb854475956154de556ae&v=4",
         "url": "https://github.com/ExaAlice"
     },
     {
@@ -11092,5 +11092,23 @@
         "name": "Arch",
         "avatarUrl": "https://avatars.githubusercontent.com/u/108639555?u=2e1556c8e9c5b62e30f5948a4546d874eac70c95&v=4",
         "url": "https://github.com/sixtiethz"
+    },
+    {
+        "login": "lanrenfenxiang",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/105545197?v=4",
+        "url": "https://github.com/lanrenfenxiang"
+    },
+    {
+        "login": "gaojunbin",
+        "name": "junbin",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/28158241?u=582f61e470896f92e1a57ee92293bdb432f7fa06&v=4",
+        "url": "https://github.com/gaojunbin"
+    },
+    {
+        "login": "dingye18",
+        "name": "Ye Ding",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/13417572?u=6ab78400ff07f45fd6dffbd4cabcc972add9d686&v=4",
+        "url": "https://github.com/dingye18"
     }
 ]
