@@ -6788,7 +6788,7 @@
     {
         "login": "Nthily",
         "name": "Nthily",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=5d1bae9bc8df2f8dfe3426a97b8d4a552fe5db88&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=8ef0e9c9d03a0d394211066db1ffe06b151ceac6&v=4",
         "url": "https://github.com/Nthily"
     },
     {
@@ -11122,5 +11122,29 @@
         "name": "Jian Zhu",
         "avatarUrl": "https://avatars.githubusercontent.com/u/1498207?u=f1d01676b7104e79e476c0604b7b089217102dbd&v=4",
         "url": "https://github.com/zhujian0805"
+    },
+    {
+        "login": "xjasonlyu",
+        "name": "Jason Lyu",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/28824352?u=23b6f8589e174c584fcd19698e49e558cf0e3c61&v=4",
+        "url": "https://github.com/xjasonlyu"
+    },
+    {
+        "login": "ygbingo",
+        "name": "Bingo_Yan",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11473732?u=f24d663c886a2db52c121bb98a3d8c2ff4e2f9e1&v=4",
+        "url": "https://github.com/ygbingo"
+    },
+    {
+        "login": "iamazy",
+        "name": "iamazy",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16559960?u=f1b7c96bd938e929282a692ee3254bb6acbec577&v=4",
+        "url": "https://github.com/iamazy"
+    },
+    {
+        "login": "shuo625",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/77735550?v=4",
+        "url": "https://github.com/shuo625"
     }
 ]
