@@ -10934,7 +10934,7 @@
     {
         "login": "Originat",
         "name": "Origin Legend",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/25012485?u=e0d8900818b6e1a0622152540e30369fc5e02d79&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/25012485?u=21f3270b10a22db18a668e2b60df0c5a9b67fc3b&v=4",
         "url": "https://github.com/Originat"
     },
     {
@@ -11212,5 +11212,23 @@
         "name": "\u957f\u98ce",
         "avatarUrl": "https://avatars.githubusercontent.com/u/32054226?u=1a02d82f370367fe884f9e35c2f9d79b09b9cc42&v=4",
         "url": "https://github.com/isteven-xu"
+    },
+    {
+        "login": "DSHUGUI",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/50968963?v=4",
+        "url": "https://github.com/DSHUGUI"
+    },
+    {
+        "login": "ankh04",
+        "name": "ankh",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23905895?u=4f9eef2228325860f765d000e167b5796a85b666&v=4",
+        "url": "https://github.com/ankh04"
+    },
+    {
+        "login": "mekalz",
+        "name": "Mekal Zheng",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/4115097?u=ccd7c0a6c35069f62a96ada8c1b46e2dd6618d02&v=4",
+        "url": "https://github.com/mekalz"
     }
 ]
