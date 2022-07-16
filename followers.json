@@ -6674,7 +6674,7 @@
     {
         "login": "Ca1337",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/99875713?v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/99875713?u=c32388acbc4ee9e0fbbde0d53b98f53dadc51427&v=4",
         "url": "https://github.com/Ca1337"
     },
     {
@@ -9528,12 +9528,6 @@
         "url": "https://github.com/kingdream123"
     },
     {
-        "login": "tron-robin",
-        "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/38208297?u=2c7a7955ae17aed085f52d2252eab5c1601a0107&v=4",
-        "url": "https://github.com/tron-robin"
-    },
-    {
         "login": "buginote",
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/17897107?v=4",
@@ -10704,15 +10698,15 @@
         "url": "https://github.com/sangkaka"
     },
     {
-        "login": "morleybread",
+        "login": "yusifmorley",
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/87937243?u=56ba57d1d47f5c74c25e985a6fcc0ea77f7fdf3a&v=4",
-        "url": "https://github.com/morleybread"
+        "url": "https://github.com/yusifmorley"
     },
     {
         "login": "Ykong1337",
         "name": "Ykong1337",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/66518156?u=2f3d18a2450e85cf664e9547b9b504cd4ff7d15e&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/66518156?u=ed7ee0db8692f326a6738b2debd4c47c13b28e33&v=4",
         "url": "https://github.com/Ykong1337"
     },
     {
@@ -10802,7 +10796,7 @@
     {
         "login": "Simple0X",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/99126528?u=e0d67dc248354b70e99891487a67dfe2bcf365e7&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/99126528?v=4",
         "url": "https://github.com/Simple0X"
     },
     {
@@ -10990,12 +10984,6 @@
         "name": "Future_Creator",
         "avatarUrl": "https://avatars.githubusercontent.com/u/59189040?u=23610446092bcf23fef13a3584a11d87ea66a32b&v=4",
         "url": "https://github.com/Dylan-OuYang"
-    },
-    {
-        "login": "wolo2603",
-        "name": "Wolo",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/73325638?u=a9e0f05d4d5429ebda5127addf4813252100bda4&v=4",
-        "url": "https://github.com/wolo2603"
     },
     {
         "login": "hkreporters",
@@ -11272,5 +11260,17 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/25973366?u=01d4762626550851e9a307abd333010b39570339&v=4",
         "url": "https://github.com/jmpoep"
+    },
+    {
+        "login": "lu-you",
+        "name": "luyou",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45353925?v=4",
+        "url": "https://github.com/lu-you"
+    },
+    {
+        "login": "wolo2603",
+        "name": "Wolo",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73325638?u=a9e0f05d4d5429ebda5127addf4813252100bda4&v=4",
+        "url": "https://github.com/wolo2603"
     }
 ]
