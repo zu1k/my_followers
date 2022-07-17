@@ -5600,7 +5600,7 @@
     {
         "login": "OkamiMks",
         "name": "Okami \u30c1\u30e0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=43878b308c231e58c991567facf3fa8111d20b3b&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=8f25482c9094090e9eac8c21d98cfedfdb058332&v=4",
         "url": "https://github.com/OkamiMks"
     },
     {
@@ -6788,7 +6788,7 @@
     {
         "login": "Nthily",
         "name": "Nthily",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=108b94bc984bf1748f82a376b623d0b9db48fef0&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=a3d26cf83ed34041db9ece133d1521e056e92616&v=4",
         "url": "https://github.com/Nthily"
     },
     {
@@ -7748,7 +7748,7 @@
     {
         "login": "jesee030",
         "name": "jesee",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/56341676?u=3b7c7fc6b862e631410d4b503453b429d54d0b89&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56341676?u=5beaf5c18db2ec153675dc9950c73e8123293ffd&v=4",
         "url": "https://github.com/jesee030"
     },
     {
@@ -11272,5 +11272,17 @@
         "name": "Wolo",
         "avatarUrl": "https://avatars.githubusercontent.com/u/73325638?u=a9e0f05d4d5429ebda5127addf4813252100bda4&v=4",
         "url": "https://github.com/wolo2603"
+    },
+    {
+        "login": "sijskdnn",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109069788?v=4",
+        "url": "https://github.com/sijskdnn"
+    },
+    {
+        "login": "YanXin01s",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/108708141?v=4",
+        "url": "https://github.com/YanXin01s"
     }
 ]
