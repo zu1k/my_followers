@@ -7070,7 +7070,7 @@
     {
         "login": "KIDZLX",
         "name": "KID",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/43517412?u=5fdcce46f18a928a10d8fa0b4d1a730b459ffabd&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43517412?u=05e86c97ebc08aa8a7ae1988f726b0fe4e047c36&v=4",
         "url": "https://github.com/KIDZLX"
     },
     {
@@ -9944,7 +9944,7 @@
     {
         "login": "teamssix",
         "name": "TeamsSix",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/49087564?u=bf4bb96bf2a7007bcdb429932b3d39bdd7c98264&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49087564?u=784b24bdfccc97a7e84a16c7c11d428ab3f2615a&v=4",
         "url": "https://github.com/teamssix"
     },
     {
@@ -11308,5 +11308,17 @@
         "name": "duriancat",
         "avatarUrl": "https://avatars.githubusercontent.com/u/18467476?u=9bee140ef159f8dfc4cd68fba2b36abab5a65e89&v=4",
         "url": "https://github.com/chris-ss"
+    },
+    {
+        "login": "zac1024",
+        "name": "Zac Pei",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18136549?u=99c04e6874d407896a2d0eccbe6eda1a6bf31b5a&v=4",
+        "url": "https://github.com/zac1024"
+    },
+    {
+        "login": "huhuhang",
+        "name": "huhuhang",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5147530?u=d749adc7264672a181b62d8a152966f44a941dc7&v=4",
+        "url": "https://github.com/huhuhang"
     }
 ]
