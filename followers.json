@@ -3510,12 +3510,6 @@
         "url": "https://github.com/sty521521"
     },
     {
-        "login": "JudgementH",
-        "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/45507447?u=0b6fe0a824839ac34ae90d23344153f6fd34a7db&v=4",
-        "url": "https://github.com/JudgementH"
-    },
-    {
         "login": "chinggg",
         "name": "chinggg",
         "avatarUrl": "https://avatars.githubusercontent.com/u/24590067?u=f6c5028771d3358e472c2cdd05e0abf05fca34cd&v=4",
@@ -11005,7 +10999,7 @@
     },
     {
         "login": "Zhengqbbb",
-        "name": "zhengqbbb",
+        "name": "Q.Ben Zheng",
         "avatarUrl": "https://avatars.githubusercontent.com/u/40693636?u=8bc189dfe6f45e35ecec7f3304db2b1ffb875961&v=4",
         "url": "https://github.com/Zhengqbbb"
     },
@@ -11344,5 +11338,11 @@
         "name": "\u738b\u5c0f\u55e8",
         "avatarUrl": "https://avatars.githubusercontent.com/u/5824590?u=c8f82c147dc2cef74c2cc74ca226d3cbf0a0c56a&v=4",
         "url": "https://github.com/yeahwong"
+    },
+    {
+        "login": "lyleshaw",
+        "name": "Lyle Shaw",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/25427168?u=19937df52e2b6c7c366a136597859e7c2cba4cb6&v=4",
+        "url": "https://github.com/lyleshaw"
     }
 ]
