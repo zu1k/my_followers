@@ -3002,7 +3002,7 @@
     {
         "login": "No-Github",
         "name": "r0fus0d",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/18167071?u=dc5d200b90977646286b4e1eaf1b7a6abb4ebe5d&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18167071?u=9655f9638e662ad05e73e2fa6b3c27df08a78b20&v=4",
         "url": "https://github.com/No-Github"
     },
     {
@@ -6788,7 +6788,7 @@
     {
         "login": "Nthily",
         "name": "Nthily",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=a3d26cf83ed34041db9ece133d1521e056e92616&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=fe1cc556e811dccc343a733460c20638f829b290&v=4",
         "url": "https://github.com/Nthily"
     },
     {
@@ -9620,7 +9620,7 @@
     {
         "login": "tx1ee",
         "name": "tx1ee",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/28696494?u=4c623228243753a5a073796ed9a0f030bea54cd8&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/28696494?u=a71670ff90008555d78f1fb460818a269686088b&v=4",
         "url": "https://github.com/tx1ee"
     },
     {
@@ -11320,5 +11320,29 @@
         "name": "huhuhang",
         "avatarUrl": "https://avatars.githubusercontent.com/u/5147530?u=d749adc7264672a181b62d8a152966f44a941dc7&v=4",
         "url": "https://github.com/huhuhang"
+    },
+    {
+        "login": "no-today",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/34943822?u=62c6afbc7d0c9260ee17d7d4a2dbcb8dd7b4147d&v=4",
+        "url": "https://github.com/no-today"
+    },
+    {
+        "login": "yingxianwang",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/100404418?v=4",
+        "url": "https://github.com/yingxianwang"
+    },
+    {
+        "login": "Mykola-Kryvyi",
+        "name": "Mykola Kryvyi",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/4518998?u=0980cadfa97bfae880a1d932d90b86456ce8730d&v=4",
+        "url": "https://github.com/Mykola-Kryvyi"
+    },
+    {
+        "login": "yeahwong",
+        "name": "\u738b\u5c0f\u55e8",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5824590?u=c8f82c147dc2cef74c2cc74ca226d3cbf0a0c56a&v=4",
+        "url": "https://github.com/yeahwong"
     }
 ]
