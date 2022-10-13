@@ -1525,7 +1525,7 @@
     },
     {
         "login": "wang-c-h",
-        "name": null,
+        "name": "wangchanghao",
         "avatarUrl": "https://avatars.githubusercontent.com/u/64407035?v=4",
         "url": "https://github.com/wang-c-h"
     },
@@ -4026,10 +4026,10 @@
         "url": "https://github.com/thosewords"
     },
     {
-        "login": "CeresCa",
-        "name": "Ceres Cartman",
+        "login": "khuencheng",
+        "name": "Jack Cheng",
         "avatarUrl": "https://avatars.githubusercontent.com/u/5327960?u=1a823ec8e32e124e7962acb1188c185226318a1f&v=4",
-        "url": "https://github.com/CeresCa"
+        "url": "https://github.com/khuencheng"
     },
     {
         "login": "njzydark",
@@ -8846,7 +8846,7 @@
     {
         "login": "andatoshiki",
         "name": "Anda Toshiki",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/101481353?u=4a8a2f7f363f8ef03c153479175f038dc83bcf1b&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/101481353?u=b14620aa4a127ba0c949b274de3f2fadc256197e&v=4",
         "url": "https://github.com/andatoshiki"
     },
     {
@@ -9224,7 +9224,7 @@
     {
         "login": "luyilin",
         "name": "\u6021\u6f7c",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/12069729?u=88700f27ccd24075ab54a7841c740c102861e88d&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12069729?u=ca36cfe8c72925d6f271ca289a90f332dbf082a3&v=4",
         "url": "https://github.com/luyilin"
     },
     {
@@ -9696,10 +9696,10 @@
         "url": "https://github.com/vski5"
     },
     {
-        "login": "gy0000",
+        "login": "Booom04",
         "name": "BOOM",
         "avatarUrl": "https://avatars.githubusercontent.com/u/67233401?v=4",
-        "url": "https://github.com/gy0000"
+        "url": "https://github.com/Booom04"
     },
     {
         "login": "n0vad3v",
@@ -12196,5 +12196,23 @@
         "name": "118pp",
         "avatarUrl": "https://avatars.githubusercontent.com/u/35649847?v=4",
         "url": "https://github.com/songyp0505"
+    },
+    {
+        "login": "zflovecoding",
+        "name": "Doke",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/62056157?u=fca772eb12aaebf49c559c06d9b794cce2a4c59f&v=4",
+        "url": "https://github.com/zflovecoding"
+    },
+    {
+        "login": "nathan-deng-ai",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/99947149?v=4",
+        "url": "https://github.com/nathan-deng-ai"
+    },
+    {
+        "login": "hwangjunjie",
+        "name": "huangjunjie",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2819873?u=509ff95dc3530cfe75001bb8c3d7ab0858df9ad7&v=4",
+        "url": "https://github.com/hwangjunjie"
     }
 ]
