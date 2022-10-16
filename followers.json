@@ -5582,7 +5582,7 @@
     {
         "login": "Okami0xff666",
         "name": "Okami 0xff666",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=4cc56c68639c1be2870056a2056fd54b92e05d49&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58578838?u=a44661629a560b2f5fa20a73b16227ede33a2b78&v=4",
         "url": "https://github.com/Okami0xff666"
     },
     {
@@ -12220,5 +12220,11 @@
         "name": "0xzhang",
         "avatarUrl": "https://avatars.githubusercontent.com/u/33616362?u=af70a2feb2690b3a0a2f5f47c8f0270c50520f54&v=4",
         "url": "https://github.com/0xzhang"
+    },
+    {
+        "login": "jeekdong",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17645049?u=6a3504ec20180c5992838a7de956754cd6544573&v=4",
+        "url": "https://github.com/jeekdong"
     }
 ]
