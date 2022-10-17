@@ -3696,10 +3696,10 @@
         "url": "https://github.com/JQ-K"
     },
     {
-        "login": "gylidian",
-        "name": "\u9502\u7535",
+        "login": "TenviLi",
+        "name": "Tenvi",
         "avatarUrl": "https://avatars.githubusercontent.com/u/30214981?u=3a6e486aece3b94718f1857b32bd6d99a5098508&v=4",
-        "url": "https://github.com/gylidian"
+        "url": "https://github.com/TenviLi"
     },
     {
         "login": "arsize",
@@ -5004,10 +5004,10 @@
         "url": "https://github.com/as7er"
     },
     {
-        "login": "killdayu",
-        "name": "killdayu",
+        "login": "uhuhuihkhkuh",
+        "name": "ukugiuyguihu",
         "avatarUrl": "https://avatars.githubusercontent.com/u/62084769?u=da9613805321d1f8d32bce975e10a6d9d8c68de0&v=4",
-        "url": "https://github.com/killdayu"
+        "url": "https://github.com/uhuhuihkhkuh"
     },
     {
         "login": "Leekeey",
@@ -8035,7 +8035,7 @@
     },
     {
         "login": "peanut-cc",
-        "name": "peanut-pg",
+        "name": "fan-tastic.fun",
         "avatarUrl": "https://avatars.githubusercontent.com/u/55480838?u=1a3252f89761a7438b0a39a060b86215b6562296&v=4",
         "url": "https://github.com/peanut-cc"
     },
@@ -9152,7 +9152,7 @@
     {
         "login": "liluoyi1234",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/30952504?u=de012b23d4da6a3e26e26adc64d9e93c8fbbca7d&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30952504?u=e8c6d3e69c9467565c91bccbb1195bd5da9b2dd3&v=4",
         "url": "https://github.com/liluoyi1234"
     },
     {
@@ -12244,5 +12244,11 @@
         "name": "EP",
         "avatarUrl": "https://avatars.githubusercontent.com/u/31117665?u=7d3df926bba60cc5acf5dd5d34fd29397d86a157&v=4",
         "url": "https://github.com/EPhaha"
+    },
+    {
+        "login": "kissn01",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/71255965?u=bf2c04b01104d220335074411aef8ff9ea928ea0&v=4",
+        "url": "https://github.com/kissn01"
     }
 ]
