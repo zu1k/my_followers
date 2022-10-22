@@ -360,12 +360,6 @@
         "url": "https://github.com/TGbusWD"
     },
     {
-        "login": "maou09",
-        "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/66897466?v=4",
-        "url": "https://github.com/maou09"
-    },
-    {
         "login": "lordsky",
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/6878579?v=4",
@@ -2748,10 +2742,10 @@
         "url": "https://github.com/DevilAguo0"
     },
     {
-        "login": "hqy2088",
+        "login": "L1t4ever",
         "name": "Hou",
         "avatarUrl": "https://avatars.githubusercontent.com/u/48686956?u=50902083a0f00c7dc0e503d9ba5980da0810498e&v=4",
-        "url": "https://github.com/hqy2088"
+        "url": "https://github.com/L1t4ever"
     },
     {
         "login": "jacklusch",
@@ -2990,7 +2984,7 @@
     {
         "login": "No-Github",
         "name": "r0fus0d",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/18167071?u=9655f9638e662ad05e73e2fa6b3c27df08a78b20&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18167071?u=4f8c95e149a44726592324859ce065692bd0f2cd&v=4",
         "url": "https://github.com/No-Github"
     },
     {
@@ -5748,10 +5742,10 @@
         "url": "https://github.com/General74110"
     },
     {
-        "login": "Slaier",
+        "login": "slaier",
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/30682486?v=4",
-        "url": "https://github.com/Slaier"
+        "url": "https://github.com/slaier"
     },
     {
         "login": "gggfk008",
@@ -5851,7 +5845,7 @@
     },
     {
         "login": "yuyan-sec",
-        "name": "@\u9884\u8a00",
+        "name": "\u9884\u8a00",
         "avatarUrl": "https://avatars.githubusercontent.com/u/43353917?u=917a98d4a7f7a69866fa21b4ca5049c7b93a7243&v=4",
         "url": "https://github.com/yuyan-sec"
     },
@@ -6162,10 +6156,10 @@
         "url": "https://github.com/leiless"
     },
     {
-        "login": "Mochongli",
+        "login": "icls1337",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/36944889?u=540e297486d58eba1542fc675585089967663674&v=4",
-        "url": "https://github.com/Mochongli"
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36944889?v=4",
+        "url": "https://github.com/icls1337"
     },
     {
         "login": "forthxu",
@@ -12066,12 +12060,6 @@
         "url": "https://github.com/liukaijv"
     },
     {
-        "login": "soapffz",
-        "name": "soapffz",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/43143519?u=c9e88656e05d5f191a591ceb36ed43321d35c290&v=4",
-        "url": "https://github.com/soapffz"
-    },
-    {
         "login": "DaPeng7799",
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/111048055?v=4",
@@ -12286,5 +12274,17 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/56723339?v=4",
         "url": "https://github.com/djkhalaj"
+    },
+    {
+        "login": "nemochina2008",
+        "name": "Nemochina2008",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11672205?v=4",
+        "url": "https://github.com/nemochina2008"
+    },
+    {
+        "login": "JeamUmika",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/93057377?v=4",
+        "url": "https://github.com/JeamUmika"
     }
 ]
