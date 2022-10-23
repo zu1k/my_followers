@@ -2479,7 +2479,7 @@
     },
     {
         "login": "osxtest",
-        "name": null,
+        "name": "foo",
         "avatarUrl": "https://avatars.githubusercontent.com/u/38131934?u=5e6f53486a9781cf86d4d848abfc1e0b47ae1c9c&v=4",
         "url": "https://github.com/osxtest"
     },
@@ -10586,7 +10586,7 @@
     {
         "login": "Clownsw",
         "name": "Smliexx",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/28394742?u=9496affbebaad0544c4d51fce64a6353213194f9&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/28394742?u=1cd0b55280fe041a2a5f4726db6af0accdf23473&v=4",
         "url": "https://github.com/Clownsw"
     },
     {
@@ -11090,7 +11090,7 @@
     {
         "login": "lelvooo0",
         "name": "John Jing",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/8070144?u=764541cbd3f2ee0288af617534e2ba808657eef4&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8070144?u=5f73b70b49128e80cdf13cf9c5bce0febc6ef61a&v=4",
         "url": "https://github.com/lelvooo0"
     },
     {
@@ -12286,5 +12286,17 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/93057377?v=4",
         "url": "https://github.com/JeamUmika"
+    },
+    {
+        "login": "yanyumihuang",
+        "name": "\u70df\u96e8\u5f25\u51f0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/26965886?u=403cfe269f4a62433bd4db3df08e452b264f116f&v=4",
+        "url": "https://github.com/yanyumihuang"
+    },
+    {
+        "login": "GGyao",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/38530938?u=04349b8673d6c88dfab06d3e27877e1d6e49cd5a&v=4",
+        "url": "https://github.com/GGyao"
     }
 ]
