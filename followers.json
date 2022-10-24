@@ -3858,10 +3858,10 @@
         "url": "https://github.com/au210kk"
     },
     {
-        "login": "poorenglish7",
+        "login": "ttirty",
         "name": "misogynous",
         "avatarUrl": "https://avatars.githubusercontent.com/u/43199306?u=fd11176b8be8d433a770aa6a350bd3eabce7bbcd&v=4",
-        "url": "https://github.com/poorenglish7"
+        "url": "https://github.com/ttirty"
     },
     {
         "login": "kill02lc",
@@ -5144,7 +5144,7 @@
     {
         "login": "vcd047",
         "name": "Dwight Huang",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/46776513?v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46776513?u=a5f08b4a4eb2e3fd77e8646fc2aeaa4888330a6a&v=4",
         "url": "https://github.com/vcd047"
     },
     {
@@ -12298,5 +12298,41 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/38530938?u=04349b8673d6c88dfab06d3e27877e1d6e49cd5a&v=4",
         "url": "https://github.com/GGyao"
+    },
+    {
+        "login": "TD0U",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75050574?u=aa5decaeea901f1d450c02fe969ddaf81d6a2328&v=4",
+        "url": "https://github.com/TD0U"
+    },
+    {
+        "login": "alexChiangFg",
+        "name": "alexChiangFg",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73087288?u=b2f4292a5e6e566eb44c8caf047c2462364ad04b&v=4",
+        "url": "https://github.com/alexChiangFg"
+    },
+    {
+        "login": "ztaozhang",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47706186?v=4",
+        "url": "https://github.com/ztaozhang"
+    },
+    {
+        "login": "ZhaoLizz",
+        "name": "zhaolizhi",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29300861?u=dee61d319c41837901248e53a9e5a2432766a2b2&v=4",
+        "url": "https://github.com/ZhaoLizz"
+    },
+    {
+        "login": "InnoFang",
+        "name": "Inno Fang",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/15724026?u=ee5d1bee0d44d91b01465f82910464fda54b91cc&v=4",
+        "url": "https://github.com/InnoFang"
+    },
+    {
+        "login": "sBuk807",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/92612231?v=4",
+        "url": "https://github.com/sBuk807"
     }
 ]
