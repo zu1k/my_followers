@@ -9499,7 +9499,7 @@
     },
     {
         "login": "axh2018",
-        "name": "cherry",
+        "name": "Chen Liangbing",
         "avatarUrl": "https://avatars.githubusercontent.com/u/58505743?u=e11fc43a271064357a2118a9935d42a66932f5df&v=4",
         "url": "https://github.com/axh2018"
     },
@@ -11449,8 +11449,8 @@
     },
     {
         "login": "SuperStar323",
-        "name": "SuperStar",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/105542355?u=6a4fe0010c576bd7660ade769e6a61dfb79de1f7&v=4",
+        "name": "RabbitWarrior",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/105542355?u=c47d5f00857cb8fad300c91cc7590ee5b4c86fe1&v=4",
         "url": "https://github.com/SuperStar323"
     },
     {
@@ -12334,5 +12334,23 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/92612231?v=4",
         "url": "https://github.com/sBuk807"
+    },
+    {
+        "login": "RayYiHang",
+        "name": "Arcadia",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57169358?u=9489999ad8914dc5e2e82c1eba751c04abcffc16&v=4",
+        "url": "https://github.com/RayYiHang"
+    },
+    {
+        "login": "CNDCX330",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109991435?u=7a8305059a3416088546aed58e76939f1002f303&v=4",
+        "url": "https://github.com/CNDCX330"
+    },
+    {
+        "login": "jia924213",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/116656907?u=381ba832293351b66e779fa9e8a72042435060eb&v=4",
+        "url": "https://github.com/jia924213"
     }
 ]
