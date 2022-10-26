@@ -170,7 +170,7 @@
     {
         "login": "fmpiza",
         "name": "fridolinmpiza, Msc.",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/52234785?u=3256edf07ccf32d5861311e5b08f8c7c515b00c0&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52234785?u=4f33d2f085a92ca20fb29b7b7e055ff40b7f075e&v=4",
         "url": "https://github.com/fmpiza"
     },
     {
@@ -5496,12 +5496,6 @@
         "url": "https://github.com/gebai7"
     },
     {
-        "login": "winniechen0523",
-        "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/84695139?v=4",
-        "url": "https://github.com/winniechen0523"
-    },
-    {
         "login": "hirak0",
         "name": "hirak0",
         "avatarUrl": "https://avatars.githubusercontent.com/u/64011640?u=61c55c26afa4b87ea20cd7d3aadce78aa6a2b131&v=4",
@@ -9644,7 +9638,7 @@
     {
         "login": "gngpp",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51810656?u=7278e8a207718bf83f383e474188571190e94e8e&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51810656?u=3ddb4de73774b972c81bd8e832f72239acf9bf7f&v=4",
         "url": "https://github.com/gngpp"
     },
     {
@@ -10608,10 +10602,10 @@
         "url": "https://github.com/int3hh"
     },
     {
-        "login": "elf3",
+        "login": "am338",
         "name": "elf",
         "avatarUrl": "https://avatars.githubusercontent.com/u/18027182?u=00ac829fbfd19ad2d0615278f23409f9d2f13d16&v=4",
-        "url": "https://github.com/elf3"
+        "url": "https://github.com/am338"
     },
     {
         "login": "SinxLinonZ",
@@ -11378,7 +11372,7 @@
     {
         "login": "UnknowSec",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/110519483?v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/110519483?u=4cee686383463a71c20b756a3e25e7af8779c98f&v=4",
         "url": "https://github.com/UnknowSec"
     },
     {
@@ -12352,5 +12346,11 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/116656907?u=381ba832293351b66e779fa9e8a72042435060eb&v=4",
         "url": "https://github.com/jia924213"
+    },
+    {
+        "login": "ja9er",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/87508014?u=7f14d3ef9392c60fc34e199fe3e70ddae139dfa7&v=4",
+        "url": "https://github.com/ja9er"
     }
 ]
