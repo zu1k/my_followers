@@ -2893,8 +2893,8 @@
     },
     {
         "login": "moviets",
-        "name": "System.Tor\u53ef\u4e50\u516e\u5c11",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/49691826?u=ee0c76126e38b554b727937ca0f2d0c5b3729b28&v=4",
+        "name": "Tor\u516e\u5c11",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49691826?u=dc346a815e6517c32a72eaf884b34295b6f6ab2d&v=4",
         "url": "https://github.com/moviets"
     },
     {
@@ -12352,5 +12352,29 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/87508014?u=7f14d3ef9392c60fc34e199fe3e70ddae139dfa7&v=4",
         "url": "https://github.com/ja9er"
+    },
+    {
+        "login": "oooopera",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/85115476?v=4",
+        "url": "https://github.com/oooopera"
+    },
+    {
+        "login": "one1best168",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/106235996?v=4",
+        "url": "https://github.com/one1best168"
+    },
+    {
+        "login": "diffcome",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/102535953?v=4",
+        "url": "https://github.com/diffcome"
+    },
+    {
+        "login": "jiazhixin123",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/38761881?v=4",
+        "url": "https://github.com/jiazhixin123"
     }
 ]
