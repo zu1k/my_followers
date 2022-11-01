@@ -1644,12 +1644,6 @@
         "url": "https://github.com/netcat88212"
     },
     {
-        "login": "possib1e",
-        "name": "Possib1e",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/30862319?u=35e17ff652317f2a8a2697551160d66b14d266c4&v=4",
-        "url": "https://github.com/possib1e"
-    },
-    {
         "login": "atomxw",
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/6696126?u=a90fc6aad94fb68a848af5606b7e7706c2fea39f&v=4",
@@ -7981,7 +7975,7 @@
     },
     {
         "login": "1024th",
-        "name": null,
+        "name": "Lin Tianchuan",
         "avatarUrl": "https://avatars.githubusercontent.com/u/47070449?u=0ba65d192b67f98f2811ec51c6b014f263b242f7&v=4",
         "url": "https://github.com/1024th"
     },
@@ -9368,7 +9362,7 @@
     {
         "login": "secloverwang",
         "name": "\u897f\u4f2f\u5229\u4e9a\u72fc",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/61482805?u=df85ac15fa39bae00a57650c18e081d6524cc9a1&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/61482805?u=187e238dff5d6f4a2a7e573bdd31eb3ffcf39e8d&v=4",
         "url": "https://github.com/secloverwang"
     },
     {
@@ -9379,7 +9373,7 @@
     },
     {
         "login": "PushM",
-        "name": null,
+        "name": "PushPushPush",
         "avatarUrl": "https://avatars.githubusercontent.com/u/47212914?u=0e64a27952f47f5b7330a21a6efad3bf80f8b6ac&v=4",
         "url": "https://github.com/PushM"
     },
@@ -10345,7 +10339,7 @@
     },
     {
         "login": "nanzm",
-        "name": "Nan",
+        "name": "neil",
         "avatarUrl": "https://avatars.githubusercontent.com/u/12454813?v=4",
         "url": "https://github.com/nanzm"
     },
@@ -12406,5 +12400,17 @@
         "name": "\u693c\u9140",
         "avatarUrl": "https://avatars.githubusercontent.com/u/42343490?v=4",
         "url": "https://github.com/Lemonmous"
+    },
+    {
+        "login": "ywe525",
+        "name": "Danny",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/78255600?v=4",
+        "url": "https://github.com/ywe525"
+    },
+    {
+        "login": "Hsmoy",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95434398?u=e848487d9968153161c5ab64adc2a1b4d0f59967&v=4",
+        "url": "https://github.com/Hsmoy"
     }
 ]
