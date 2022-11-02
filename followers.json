@@ -3781,8 +3781,8 @@
     },
     {
         "login": "For3stCo1d",
-        "name": "\u6797\u5bd2",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/57119052?u=695d0d7d298720f10c1aa3dd8564b909fbc4f20f&v=4",
+        "name": "For3stCo1d",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57119052?u=3c2a12aaca398c8ce9db3dcc682663048f5b0e08&v=4",
         "url": "https://github.com/For3stCo1d"
     },
     {
@@ -11828,7 +11828,7 @@
     {
         "login": "gamemann",
         "name": "Christian Deacon",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/6509565?u=9ec844bfd2efd7fb02972f6a2117e1357ba74227&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6509565?u=94feea465e558a5af5bcfc29561968d21748f8c5&v=4",
         "url": "https://github.com/gamemann"
     },
     {
@@ -12412,5 +12412,11 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/95434398?u=e848487d9968153161c5ab64adc2a1b4d0f59967&v=4",
         "url": "https://github.com/Hsmoy"
+    },
+    {
+        "login": "Baeeqnui",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/110642051?v=4",
+        "url": "https://github.com/Baeeqnui"
     }
 ]
