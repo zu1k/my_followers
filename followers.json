@@ -2755,8 +2755,8 @@
     },
     {
         "login": "Charlie-Mars",
-        "name": "Charlie Mars",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/74394539?u=cc7cd38376dd98af3c31a6bea64eb10f03b0c4a0&v=4",
+        "name": "Skywalker",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/74394539?u=5ef9f6067f1a56a121aaabda14e0a0add0d879df&v=4",
         "url": "https://github.com/Charlie-Mars"
     },
     {
@@ -2808,10 +2808,10 @@
         "url": "https://github.com/zhmstar0310"
     },
     {
-        "login": "AlexsxeA",
-        "name": "Evi1Axe",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/33568293?u=9ff3a15644e5e4db137bdad2b4a047a6f81c4b6b&v=4",
-        "url": "https://github.com/AlexsxeA"
+        "login": "Axe1y1m",
+        "name": "Axe",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33568293?u=2f27f16077b40505d2135b7ffb5bbac2c9791871&v=4",
+        "url": "https://github.com/Axe1y1m"
     },
     {
         "login": "Summerjiah",
@@ -5467,7 +5467,7 @@
     },
     {
         "login": "yingjun-aka",
-        "name": null,
+        "name": "\u6ce1\u83dc",
         "avatarUrl": "https://avatars.githubusercontent.com/u/61571342?u=1d8009ed30b8e2bb7f5db627e31164357dd62eed&v=4",
         "url": "https://github.com/yingjun-aka"
     },
@@ -11228,7 +11228,7 @@
     {
         "login": "peiel",
         "name": "Peiel",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/18136549?u=99c04e6874d407896a2d0eccbe6eda1a6bf31b5a&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18136549?u=60031dacfebe4731c8a9bc2c63914eefc3c4ad5e&v=4",
         "url": "https://github.com/peiel"
     },
     {
@@ -12418,5 +12418,11 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/110642051?v=4",
         "url": "https://github.com/Baeeqnui"
+    },
+    {
+        "login": "nb5p",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2098464?u=669e1d486afd533340112f5d5083c4aca8ae1efc&v=4",
+        "url": "https://github.com/nb5p"
     }
 ]
