@@ -300,12 +300,6 @@
         "url": "https://github.com/Jevanzhu"
     },
     {
-        "login": "awsassets",
-        "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/59461072?v=4",
-        "url": "https://github.com/awsassets"
-    },
-    {
         "login": "hyper-junior",
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/34882635?v=4",
@@ -1584,10 +1578,10 @@
         "url": "https://github.com/dycsy"
     },
     {
-        "login": "mzivv",
-        "name": "\u9ea6\u65af",
+        "login": "n0nes",
+        "name": "N0ne",
         "avatarUrl": "https://avatars.githubusercontent.com/u/36943157?u=133b4c01faa815ca86da98b9be61eecb8e3b7abe&v=4",
-        "url": "https://github.com/mzivv"
+        "url": "https://github.com/n0nes"
     },
     {
         "login": "xDro1d",
@@ -1849,7 +1843,7 @@
     },
     {
         "login": "the-soloist",
-        "name": "NOMAD",
+        "name": "Th3S",
         "avatarUrl": "https://avatars.githubusercontent.com/u/46804083?u=18ff1061eec6cc32f01b301cb9622d7c7efa0f8f&v=4",
         "url": "https://github.com/the-soloist"
     },
@@ -2918,7 +2912,7 @@
     {
         "login": "tdcqma",
         "name": "8bvhqwidb",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/13832587?u=0e25b425f4dfa15c9555a280d26c80f71c854cc7&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/13832587?u=75717cc8522f7c3064d16679272b480b0ab94784&v=4",
         "url": "https://github.com/tdcqma"
     },
     {
@@ -12460,5 +12454,11 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/117136324?v=4",
         "url": "https://github.com/hosseinacer"
+    },
+    {
+        "login": "mrchi",
+        "name": "mrchi",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16170578?u=a46ee6c5f2dc5066c9e645ffd3f886b0ec8256bc&v=4",
+        "url": "https://github.com/mrchi"
     }
 ]
