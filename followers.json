@@ -3432,12 +3432,6 @@
         "url": "https://github.com/Ice-Castellan"
     },
     {
-        "login": "x0rzkov",
-        "name": "x0rzkov",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/56916043?u=91c7d428d14c539eaccc3fb93db1ab313afb9780&v=4",
-        "url": "https://github.com/x0rzkov"
-    },
-    {
         "login": "ilovecode2018",
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/41527437?u=e73a1961d7190e8b292843b3f2311968c028b981&v=4",
@@ -11317,7 +11311,7 @@
     },
     {
         "login": "ligdy7",
-        "name": "D yu",
+        "name": "Ligdy",
         "avatarUrl": "https://avatars.githubusercontent.com/u/26371465?u=c4aba7fbba237ae89da395110851445d20e35eaf&v=4",
         "url": "https://github.com/ligdy7"
     },
@@ -12450,15 +12444,27 @@
         "url": "https://github.com/ryuugajou"
     },
     {
-        "login": "hosseinacer",
-        "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/117136324?v=4",
-        "url": "https://github.com/hosseinacer"
-    },
-    {
         "login": "mrchi",
         "name": "mrchi",
         "avatarUrl": "https://avatars.githubusercontent.com/u/16170578?u=a46ee6c5f2dc5066c9e645ffd3f886b0ec8256bc&v=4",
         "url": "https://github.com/mrchi"
+    },
+    {
+        "login": "cyzdeya",
+        "name": "\u7684\u5440",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/93149228?v=4",
+        "url": "https://github.com/cyzdeya"
+    },
+    {
+        "login": "0ptimista",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/115677077?v=4",
+        "url": "https://github.com/0ptimista"
+    },
+    {
+        "login": "extremefan",
+        "name": "extreme",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76473130?u=b780a233df9cc7a84a2f5efecdabc41217b1f7d5&v=4",
+        "url": "https://github.com/extremefan"
     }
 ]
