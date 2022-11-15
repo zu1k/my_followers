@@ -3626,7 +3626,7 @@
     {
         "login": "bokket",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/57066972?u=71c027a5747e67dea452c218b6b8bf07170ed185&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57066972?u=8d0b5e22ffb35b4acd4ea19c4468487e874175d3&v=4",
         "url": "https://github.com/bokket"
     },
     {
@@ -5000,7 +5000,7 @@
     {
         "login": "dongliuqingqing",
         "name": "\u4e1c\u67f3\u9752\u9752",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/74712229?u=46e95100c8f329f2c2cbfe0c35202b15b51b0919&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/74712229?u=ffafd7f7f216f99b07df82c5a75fa5469d28bebf&v=4",
         "url": "https://github.com/dongliuqingqing"
     },
     {
@@ -6841,7 +6841,7 @@
     },
     {
         "login": "licj1",
-        "name": null,
+        "name": "CJ",
         "avatarUrl": "https://avatars.githubusercontent.com/u/43702074?v=4",
         "url": "https://github.com/licj1"
     },
@@ -9469,7 +9469,7 @@
     },
     {
         "login": "axh2018",
-        "name": "Chen Liangbing",
+        "name": "cherry",
         "avatarUrl": "https://avatars.githubusercontent.com/u/58505743?u=e11fc43a271064357a2118a9935d42a66932f5df&v=4",
         "url": "https://github.com/axh2018"
     },
@@ -10934,7 +10934,7 @@
     {
         "login": "GoldGuaranteedCoinMining",
         "name": "Gold Guaranteed Coin-Mining",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/35251264?u=d05ba9152f264e5fb09bc5ace80b77c77417e54c&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35251264?u=d1f9ec33d03db88ed7d9ee3742eb2516e94aaf3b&v=4",
         "url": "https://github.com/GoldGuaranteedCoinMining"
     },
     {
@@ -12502,5 +12502,17 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/118147375?v=4",
         "url": "https://github.com/zhangyuge0621"
+    },
+    {
+        "login": "fishso",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10240813?v=4",
+        "url": "https://github.com/fishso"
+    },
+    {
+        "login": "hwtih",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17568568?v=4",
+        "url": "https://github.com/hwtih"
     }
 ]
