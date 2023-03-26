@@ -2516,7 +2516,7 @@
     {
         "login": "un4ckn0wl3z",
         "name": "Anuwat Khongchuai",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/16059320?u=34c49f1abeb66d97068faf6d18f159e4da8ba679&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16059320?u=531ca308fa685b294455eeb157257e5e1ddf9754&v=4",
         "url": "https://github.com/un4ckn0wl3z"
     },
     {
@@ -3805,8 +3805,8 @@
     },
     {
         "login": "ttirty",
-        "name": "misogynous",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/43199306?u=fd11176b8be8d433a770aa6a350bd3eabce7bbcd&v=4",
+        "name": "thirrty",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43199306?u=9c407f1401fce04209db43df74958e856223b96a&v=4",
         "url": "https://github.com/ttirty"
     },
     {
@@ -14736,10 +14736,10 @@
         "url": "https://github.com/binggantoeat"
     },
     {
-        "login": "LeonWong0609",
+        "login": "l3ony2k",
         "name": "Leon",
         "avatarUrl": "https://avatars.githubusercontent.com/u/58762081?u=ade9fb4d4ffc370afa7daec5c425f89465e15b4e&v=4",
-        "url": "https://github.com/LeonWong0609"
+        "url": "https://github.com/l3ony2k"
     },
     {
         "login": "snipersteve",
@@ -16006,5 +16006,11 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/99599182?v=4",
         "url": "https://github.com/xzwd3"
+    },
+    {
+        "login": "lkmadman",
+        "name": "LkMadMan",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/125731326?u=cfec2e1e952ad5d35c67575575d5b5c45e8e653e&v=4",
+        "url": "https://github.com/lkmadman"
     }
 ]
