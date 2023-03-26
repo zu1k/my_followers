@@ -152,5 +152,5 @@ if __name__ == '__main__':
     user = os.getenv("USER")
     get_followers(token, user)
     download_imgs()
-    gen_svg(128, 0, 34)
+    # gen_svg(128, 0, 34)
     composite_image()
