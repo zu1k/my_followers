@@ -155,4 +155,5 @@ if __name__ == '__main__':
     download_imgs()
     # svg maybe greater than 100MB
     # gen_svg(128, 0, 34)
+
     composite_image()
