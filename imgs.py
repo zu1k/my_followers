@@ -23,6 +23,7 @@ first_page_query = """
 }
 """
 
+
 page_query = """
 {
   user(login: "{user}") {
