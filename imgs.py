@@ -23,6 +23,7 @@ first_page_query = """
 }
 """
 
+
 page_query = """
 {
   user(login: "{user}") {
@@ -152,5 +153,7 @@ if __name__ == '__main__':
     user = os.getenv("USER")
     get_followers(token, user)
     download_imgs()
-    gen_svg(128, 0, 34)
+    # svg maybe greater than 100MB
+    # gen_svg(128, 0, 34)
+
     composite_image()
