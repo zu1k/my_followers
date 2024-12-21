@@ -9,6 +9,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
       - run: pip install -r requirements.txt
       - name: Generate Image
         run: python imgs.py
@@ -17,8 +19,9 @@ jobs:
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit files
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name zu1k
+          git config user.email git@zu1k.com
+          git reset "HEAD^"
           git add .
           git commit -m "Update followers image" -a
-          git push
+          git push -f
